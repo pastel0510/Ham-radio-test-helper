@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ham Radio Exam Helper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>🎓 Ham Radio Exam Helper</h1>
+            <p class="subtitle">Finnish Amateur Radio License Preparation</p>
+        </header>
+
+        <!-- Main Menu -->
+        <div id="mainMenu" class="screen">
+            <div class="menu-section">
+                <h2>Select Module</h2>
+                <div class="button-group">
+                    <button class="btn btn-primary" onclick="selectModule('K')">
+                        <strong>K Module</strong>
+                        <small>245 True/False Questions (English)</small>
+                    </button>
+                    <button class="btn btn-primary" onclick="selectModule('T1')">
+                        <strong>T1 Module</strong>
+                        <small>485 Multiple Choice Questions (Finnish)</small>
+                    </button>
+                </div>
+            </div>
+
+            <div class="menu-section">
+                <h2>Select Mode</h2>
+                <div class="button-group">
+                    <button class="btn btn-secondary" onclick="selectMode('practice')">
+                        <strong>Practice Mode</strong>
+                        <small>Immediate feedback on each answer</small>
+                    </button>
+                    <button class="btn btn-secondary" onclick="selectMode('exam')">
+                        <strong>Exam Mode</strong>
+                        <small>60 questions, scored at the end</small>
+                    </button>
+                    <button class="btn btn-secondary" onclick="selectMode('study')">
+                        <strong>Study Mode</strong>
+                        <small>Browse all questions with answers</small>
+                    </button>
+                </div>
+            </div>
+
+            <div class="settings-panel">
+                <label>
+                    <input type="checkbox" id="shuffleQuestions" checked>
+                    Shuffle questions
+                </label>
+                <label>
+                    <input type="checkbox" id="shuffleOptions" checked>
+                    Shuffle options (T1 only)
+                </label>
+            </div>
+
+            <button class="btn btn-start" id="startButton" onclick="startSession()" disabled>
+                Start Session
+            </button>
+        </div>
+
+        <!-- Question Screen -->
+        <div id="questionScreen" class="screen" style="display: none;">
+            <!-- Progress Bar -->
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText">Question 1 of 60</div>
+
+            <!-- Question Card -->
+            <div class="question-card">
+                <div class="question-header">
+                    <span class="question-id" id="questionId">K-20001</span>
+                    <span class="question-module" id="questionModule">K Module</span>
+                </div>
+
+                <div class="question-text" id="questionText">
+                    Question text will appear here...
+                </div>
+
+                <!-- True/False Options -->
+                <div id="trueFalseOptions" class="options-container" style="display: none;">
+                    <button class="option-btn" onclick="selectAnswer(true)">
+                        <span class="option-letter">✓</span>
+                        <span class="option-text">True</span>
+                    </button>
+                    <button class="option-btn" onclick="selectAnswer(false)">
+                        <span class="option-letter">✗</span>
+                        <span class="option-text">False</span>
+                    </button>
+                </div>
+
+                <!-- Multiple Choice Options -->
+                <div id="multipleChoiceOptions" class="options-container" style="display: none;">
+                    <!-- Options will be dynamically generated -->
+                </div>
+
+                <!-- Feedback -->
+                <div id="feedback" class="feedback" style="display: none;">
+                    <div class="feedback-content">
+                        <div id="feedbackText"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navigation Buttons -->
+            <div class="navigation-buttons">
+                <button class="btn btn-secondary" onclick="previousQuestion()" id="prevButton">
+                    Previous
+                </button>
+                <button class="btn btn-secondary" onclick="skipQuestion()" id="skipButton">
+                    Skip
+                </button>
+                <button class="btn btn-primary" onclick="nextQuestion()" id="nextButton" style="display: none;">
+                    Next Question
+                </button>
+                <button class="btn btn-start" onclick="finishExam()" id="finishButton" style="display: none;">
+                    Finish Exam
+                </button>
+            </div>
+
+            <button class="btn btn-secondary btn-small" onclick="quitSession()">
+                Quit Session
+            </button>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen" style="display: none;">
+            <div class="results-card">
+                <h2>Exam Results</h2>
+
+                <div class="score-display">
+                    <div class="score-circle" id="scoreCircle">
+                        <div class="score-number" id="scoreNumber">0</div>
+                        <div class="score-total">/ 60</div>
+                    </div>
+                    <div class="score-percentage" id="scorePercentage">0%</div>
+                </div>
+
+                <div class="result-status" id="resultStatus">
+                    <!-- Pass/Fail status will be shown here -->
+                </div>
+
+                <div class="result-breakdown" id="resultBreakdown">
+                    <!-- Detailed breakdown will be shown here -->
+                </div>
+
+                <div class="button-group">
+                    <button class="btn btn-secondary" onclick="reviewAnswers()">
+                        Review Answers
+                    </button>
+                    <button class="btn btn-primary" onclick="restartSession()">
+                        Try Again
+                    </button>
+                    <button class="btn btn-secondary" onclick="returnToMenu()">
+                        Return to Menu
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Study Mode Screen -->
+        <div id="studyScreen" class="screen" style="display: none;">
+            <div class="study-header">
+                <h2>Study Mode</h2>
+                <div class="study-controls">
+                    <button class="btn btn-secondary btn-small" onclick="previousStudyQuestion()">← Previous</button>
+                    <span id="studyProgress">Question 1 of 245</span>
+                    <button class="btn btn-secondary btn-small" onclick="nextStudyQuestion()">Next →</button>
+                </div>
+            </div>
+
+            <div class="question-card">
+                <div class="question-header">
+                    <span class="question-id" id="studyQuestionId">K-20001</span>
+                </div>
+
+                <div class="question-text" id="studyQuestionText">
+                    Question text will appear here...
+                </div>
+
+                <div class="study-answer" id="studyAnswer">
+                    <!-- Answer will be shown here -->
+                </div>
+            </div>
+
+            <button class="btn btn-secondary" onclick="returnToMenu()">
+                Return to Menu
+            </button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
