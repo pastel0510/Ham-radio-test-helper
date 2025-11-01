@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  ham-radio-exam:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: ham-radio-exam-helper
+    restart: unless-stopped
