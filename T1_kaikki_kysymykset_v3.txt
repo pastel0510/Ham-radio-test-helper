@@ -1,0 +1,3175 @@
+--- Page 1 ---
+Sivu 1 / 64
+T1-kysymyspankki versio 1,00
+01000 * Sähkön, sähkömagnetismin ja radion teoria
+01001 % Sähköjohdon resistanssi tasavirralla riippuu
+01001A + johtimen materiaalista
+01001B + johtimen pituudesta
+01001C - johtimen poikkipinnan muodosta
+01001D - johtimen väristä
+01001E + johtimen poikkipinta-alasta
+01002 % Hyvää johdetta on
+01002A + kulta
+01002B + hopea
+01002C - kiille
+01002D + alumiini
+01003 % Hyvää johdetta on
+01003A + kupari
+01003B - posliini
+01003C - PVC-muovi
+01003D + alumiini
+01004 % Varsinaista johtavaa ainetta on
+01004A + kuparoitu teräs
+01004B - germanium
+01004C - pii
+01004D – kiille
+01005 % Johteena toimii
+01005A + hiili
+01005B - seleeni
+01005C + aine, jolla on paljon helposti liikkuvia elektroneja
+01005D – öljy
+01006 % Eristeisiin kuuluu
+01006A + kuiva paperi
+01006B + lasi
+01006C + posliini
+01006D - hiili
+01006E + öljy
+01006F - 22 kilo-ohmin vastus
+01007 % Puolijohdetta on
+01007A + germanium
+01007B + pii
+01007C + aine, jolla on kohtalaisesti liikkuvia elektroneja
+01007D - hiili
+01008 % Sähkökenttä vaikuttaa
+01008A + kondensaattorin levyjen välissä
+01008B + antennin ja maan välillä
+01008C - LC-resonanssipiirissä kelan ympärillä
+01008D + radiolaitteessa rungon ja suojaamattoman johtimen välillä
+
+--- Page 2 ---
+Sivu 2 / 64
+01009 % Sähkömagneettinen kenttä
+01009A + etenee koaksiaalikaapelissa hitaammin kuin avaruudessa
+01009B - tarvitsee ilmakehää etenemisen väliaineena
+01009C - ei vaimene matkan kasvaessa, kun se etenee vapaassa avaruudessa
+01009D + tarvitsee antennin muuntajaksi syöttöjohdon ja avaruuden välille
+01010 % Sähkömagneettinen kenttä
+01010A + syntyy aina, kun sähköisesti varattu kappale muuttaa nopeuttaan
+01010B + etenee tyhjiössä valon nopeudella eli noin 300 000 km/s
+01010C + on aina polarisoitunut
+01010D + on eräs radioyhteyksiin liittyvä perusilmiö
+01011 % On totta, että
+01011A + antennin ja maan välille syntyy sähkökenttä samoin kuin
+kondensaattorin levyn välillä
+01011B + sähkömagneettisen kentän voimaviivat ovat kohtisuorassa
+etenemissuuntaa vastaan
+01011C - magneettiset voimaviivat ovat antennin polarisaation kanssa
+samansuuntaisia
+01011D + sähkökentän voimaviivojen suunta määrää antennin polarisaation
+01012 % Antennin polarisaatio määräytyy samansuuntaiseksi antennista
+lähtevän
+01012A + sähkökentän mukaan
+01012B - magneettikentän mukaan
+01012C - sähkömagneettisen kentän etenemissuunnan mukaan
+01012D - sähkövirran mukaan
+01013 % Seuraava modulointia koskeva väittämä on tosi:
+01013A + Informaation liittämistä kantoaaltoon sanotaan moduloinniksi
+01013B - Kantoaallon katkominen ei ole modulointia, koska se ei vaikuta
+kantoaallon amplitudiin
+01013C + Modulaatiolla tarkoitetaan siirrettävän informaation liittämistä
+kantoaaltoon
+01013D - AM-lähetteestä, esim. A3E:stä voidaan leikata molemmat
+sivukaistat pois informaation siitä kärsimättä
+01014 % Amplitudimodulaatiossa
+01014A + sähkötyslähetteessä (A1A) vain katkotaan kantoaaltoa
+01014B + etuna on laitteiston yksinkertaisuus
+01014C + moduloiva signaali esiintyy kantoaallon voimakkuuden vaihteluina
+01014D + puheella moduloitaessa kantoaallon molemmin puolin muodostuu
+sivukaistat
+01015 % Kun puhesignaalin korkein taajuus on 3000 Hz. Tällöin
+radiotaajuinen kaistaleveys on
+01015A + amplitudimodulaatiolla (A3E) 6 kHz
+01015B + kaksisivukaistalähetteellä (DSB) 6 kHz
+01015C - yksisivukaistalähetteellä (J3E) 6 kHz
+01015D - amplitudimodulaatiolla (A3E) 3 kHz
+01015E - kaksisivukaistalähetteellä (DSB) 3 kHz
+
+--- Page 3 ---
+Sivu 3 / 64
+01016 % Kapein radiotaajuinen lähetyskaista saadaan käsin sähkötyksessä
+käyttämällä
+01016A + SSB-lähetettä, jota moduloidaan sähkötyksen tahtiin katkotulla
+1000 Hz signaalilla (J2A)
+01016B + kantoaallon katkomista (A1A)
+01016C - AM-lähetettä, jota moduloidaan sähkötyksen tahtiin katkotulla
+1000 Hz signaalilla (A2A)
+01016D - taajuusmoduloimalla kantoaaltoa 1 kHz taajuudella
+01017 % 50 ohmin keinokuormaan syötetään 100 watin teho radio-
+lähettimestä. Keinokuorman läpi kulkevan virran suuruus on
+01017A - 0,14 A
+01017B + 1,4 A
+01017C - 14 A
+01017D + 1400 mA
+01018 % Lähetin ottaa 12 voltin sähkölähteestä 19 A virran, kun sen
+suurtaajuinen lähetysteho on 100 W. Lähettimessä muuttuu tehoa
+lämmöksi
+01018A - 100 W
+01018B + 128 W
+01018C - 1280 W
+01018D + 0,128 kW
+01019 % Paristoja kytketään rinnan
+01019A - jännitteen lisäämiseksi
+01019B + virranantokyvyn lisäämiseksi
+01019C - ennenaikaisen kuivumisen estämiseksi
+01019D + kuormitettavuuden lisäämiseksi
+01020 % Sähkövirran kulkiessa vastuksen läpi syntyy siinä
+pääasiallisesti
+01020A + lämpöä
+01020B - magneettikenttiä
+01020C - sähkövarauksia
+01020D – savua
+01021 % Hyvä sähkönjohtavuus on
+01021A + kullalla
+01021B + hopealla
+01021C - germaniumilla
+01021D + kuparilla
+01022 % FM-moduloidun lähetteen (F3E)
+01022A + kantoaallon taajuus vaihtelee moduloivan signaalin hetkellisen
+amplitudin mukaan
+01022B - modulaation taajuus vaihtelee kantoaallon amplitudin mukaan
+01022C - kantoaallon amplitudi vaihtelee modulaation mukaan
+01022D + spektrin osiin kuuluu sivukaistoja
+
+--- Page 4 ---
+Sivu 4 / 64
+01023 % Amplitudimoduloidun lähetteen (A3E)
+01023A - kantoaallon taajuus vaihtelee moduloivan signaalin hetkellisen
+amplitudin mukaan
+01023B + kantoaallon amplitudi vaihtelee moduloivan signaalin hetkellisen
+amplitudin mukaan
+01023C - kantoaallon taajuus vaihtelee kantoaallon amplitudin mukaan
+01023D + sivukaistat ovat toistensa peilikuvia
+01024 % Sähkömagneettisen kentän ollessa pystypolaroitu
+01024A - on magneettikenttä samansuuntainen kuin sähkökenttä
+01024B - on magneettikenttä 45 asteen kulmassa sähkökenttään nähden
+01024C + on magneettikenttä kohtisuorassa (90 asteen kulmassa)
+sähkökenttään nähden
+01024D - on magneettikenttä lähes kokonaan kumoutunut
+01026 % Hyvää eristettä on
+01026A - germanium
+01026B + tislattu vesi
+01026C + tyhjiö
+01026D + kiille
+01026E - hopea
+01026F - merivesi
+01026G + akryylimuovi
+01026H + ilma
+01026I - rauta
+01026J - messinki
+01026K + kumi
+01026L + posliini
+01027 % Sinimuotoisen jännitteen tehollisarvo on
+01027A - huippuarvo jaettuna kahdella
+01027B + huippuarvo jaettuna neliöjuuri kahdella
+01027C + huippuarvo jaettuna 1,41:llä
+01027D - huipusta huippuun arvo kerrottuna 0,707:llä
+01028 % 820 ohmin vastuksen kautta kulkee 0,5 A virta. Vastuksessa
+syntyvä tehohäviö on
+01028A - 410 V
+01028B + 205 W
+01028C - 1640 W
+01028D + 0,205 kW
+01029 % 100 ohmin vastuksen yli vaikuttaa 12 voltin jännite. Vastuksessa
+syntyvä tehohäviö on
+01029A - 14,4 W
+01029B - 1,2 kW
+01029C + 1,44 W
+01029D – ääretön
+01030 % Paristosta ei saada mielivaltaisen suuruista virtaa, koska
+01030A - pariston napajännite on liian suuri
+01030B + paristossa on sisäistä resistanssia
+01030C - paristolla on huono suursignaalinsietokyky
+01030D - paristossa on sisäänrakennettu virranrajoituskytkentä
+
+--- Page 5 ---
+Sivu 5 / 64
+01031 % Hehkulampun kautta kulkee 0,8 A virta jännitteen ollessa 24 V.
+Lampun ottama teho on
+01031A - 15,4 W
+01031B + 19,2 W
+01031C - 33 W
+01031D - 33 mW
+01032 % Paristosta saadaan
+01032A - vaihtosähköä
+01032B + tasasähköä
+01032C - sekä tasa- että vaihtosähköä
+01032D – sekasähköä
+01033 % Tarvitset 24 V 50 Ah akuston. Sellainen on mahdollista toteuttaa
+kytkemällä
+01033A - 2 kpl 12 V 25 Ah akkua sarjaan
+01033B - 2 kpl 12 V 25 Ah akkua rinnan
+01033C + 2 kpl 24 V 25 Ah akkua rinnan
+01033D + 2 kpl 12 V 50 Ah akkua sarjaan
+01034 % Tarvitset 48 V 10 Ah akun. Sellaisen saat kytkemällä
+01034A - sarjaan 4 kpl 12 V 2,5 Ah akkuja
+01034B - rinnan 4 kpl 12 V 2,5 Ah akkuja
+01034C - sarjaan 4 kpl 48 V 10 Ah akkuja
+01034D + sarjaan 4 kpl 12 V 10 Ah akkuja
+01035 % Kytkettäessä useita samanlaisia paristoja sarjaan saadaan
+yksittäiseen paristoon verrattuna
+01035A + suurempi jännite
+01035B - pienempi jännite
+01035C - suurempi kuormitettavuus (virta)
+01035D - pienempi kuormitettavuus (virta)
+01036 % Kytkettäessä useita samanlaisia paristoja rinnan saadaan
+yksittäiseen paristoon verrattuna
+01036A - suurempi jännite
+01036B - pienempi jännite
+01036C + suurempi kuormitettavuus (virta)
+01036D - pienempi kuormitettavuus (virta)
+01037 % Modulaatiolla tarkoitetaan
+01037A - signaalin ilmaisua
+01037B - pientaajuisen signaalin erottamista kohinasta
+01037C + pientaajuisen informaation liittämistä suurtaajuiseen
+kantoaaltoon
+01037D + toimenpidettä, jonka avulla informaatio siirtyy radioaallon
+mukana
+01038 % Modulaatiomenetelmiä ovat
+01038A + taajuusmodulaatio
+01038B + amplitudimodulaatio
+01038C + vaihemodulaatio
+01038D + yksisivukaistamodulaatio
+
+--- Page 6 ---
+Sivu 6 / 64
+01039 % Taajuusmodulaation etu amplitudimodulaatioon nähden on
+01039A - pienempi kaistaleveys
+01039B + pienempi herkkyys kipinähäiriöille
+01039C - ylivoimaisesti halvemmat lähetin- ja vastaanotinratkaisut
+01039D + pienemmät riskit aiheuttaa häiriöitä
+01040 % Eristeenä toimii
+01040A - alumiini
+01040B - rauta
+01040C + posliini
+01040D + PVC-muovi
+01041 % Johteena toimii
+01041A - posliini
+01041B + kulta
+01041C + hopea
+01041D + alumiini
+01041E - kuiva puu
+01041F - tislattu vesi
+01042 % Hyvä sähkönjohde johtaa hyvin sähköä, koska
+01042A - siinä on vain vähän sähkön kulkua haittaavia vapaita elektroneja
+01042B + siinä on runsaasti vapaita elektroneja
+01042C - siinä pyörteinen heilahteluliike on runsasta
+01042D - sen pintamateriaali pitää kaiken sähkövirran johtimen sisällä
+01043 % Eriste ei johda sähköä, koska
+01043A + siinä on vain vähän vapaita elektroneja
+01043B - siinä on runsaasti vapaita elektroneja
+01043C - siinä pyörteinen heilahteluliike on niukkaa
+01043D - eristeen atomit imevät kaikki vapaat elektronit itseensä
+01044 % Sähköverkosta saatava jännite on aaltomuodoltaan
+01044A - kolmioaaltoa
+01044B - neliöaaltoa
+01044C + siniaaltoa
+01044D - mitä sattuu
+01045 % On totta, että
+01045A + SSB-signaalissa (J3E) on tukahdutettu kantoaalto
+01045B - AM-signaalissa (A3E) on kantoaalto tukahdutettu ja molemmat
+sivukaistat
+01045C - FM-signaalissa (F3E) on vaimennettu kantoaalto ja molemmat
+sivukaistat
+01045D + SSB-signaali (J3E) syntyy vaimentamalla toinen sivukaista ja
+tukahduttamalla kantoaalto
+01045E - FM-signaalissa (F3E) on vaimennettu kantoaalto
+01045F - AM-signaalissa (A3E) on vaimennettu kantoaalto ja toinen
+sivukaista
+01045G - SSB-signaalissa (J3E) on tukahdutettu kantoaalto ja molemmat
+sivukaistat
+01045H - FM-signaali (F3E) syntyy muuttamalla lähetystaajuutta suhteessa
+moduloivan signaalin taajuuteen
+01045I + FM-signaali (F3E) syntyy muuttamalla lähetystaajuutta suhteessa
+moduloivan signaalin hetkelliseen amplitudiin
+
+--- Page 7 ---
+Sivu 7 / 64
+01046 % On totta, että
+01046A + SSB-signaalissa (J3E) kantoaaltoa on vaimennettu
+01046B - AM-signaalissa (A3E) kantoaaltoa on vaimennettu
+01046C - FM-signaalissa (F3E) kantoaaltoa on vaimennettu
+01046D - FM-signaali (F3E) syntyy vaimentamalla toinen sivukaista
+01047 % On totta, että
+01047A + SSB (J3E) voi tarkoittaa esimerkiksi puhe- tai
+musiikkilähetettä, jossa alempi sivukaista on poistettu
+01047B + DSB voidaan muodostaa AM lähetteestä tukahduttamalla tai
+vaimentamalla kantoaalto
+01047C + LSB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu
+01047D – USB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu
+01048 % Eriste on
+01048A + posliini
+01048B - tavallinen vesijohtovesi
+01048C + tislattu vesi
+01048D + puhdas pii
+01048E - ionisoitunut kaasu
+01048F + ilma
+01048G - kupari
+01048H – hopea
+01049 % Johde on
+01049A - posliini
+01049B + tavallinen vesijohtovesi
+01049C - tislattu vesi
+01049D - puhdas pii
+01049E + ionisoitunut kaasu
+01049F - ilma
+01049G + kupari
+01049H + hopea
+01050 % Sähkömagneettisessa kentässä
+01050A - esiintyy tavallisesti vain sähköinen voimavaikutus
+01050B + sähkö- ja magneettikentät ovat kohtisuorassa toisiaan vastaan
+01050C + energiaa siirtyy paikasta toiseen
+01050D - polarisaatio määritellään magneettikentän suunnan mukaisesti
+01051 % Sähkömagneettisessa kentässä
+01051A - ei esiinny mitään energian siirtymistä
+01051B + voi polarisaatio kiertyä tai pysyä muuttumattomana
+01051C + olevaan metallijohtimeen voi syntyä vaihteleva virta
+01051D - esiintyy sekä sähköinen että magneettinen kenttä, jotka ovat
+samansuuntaiset
+01053 % Sähkötys eli CW lähete
+01053A + sisältää sivukaistoja samaan tapaan kuin AM puhelähete
+01053B + voidaan muodostaa USB puhelähettimellä katkomalla sinimuotoista
+äänisignaalia ja moduloimalla sillä lähetintä
+01053C - on aina A1A-lähetettä
+01053D - vaatii aina C-luokassa toimivan pääteasteen
+
+--- Page 8 ---
+Sivu 8 / 64
+01054 % Akkujen ominaisuuksiin kuuluu, että
+01054A + niistä saa hetkellisesti huomattavasti suuremman virran kuin
+vastaavista kuivaparistoista
+01054B - ne eivät kaipaa minkäänlaista huoltoa tai ylläpitoa
+01054C + niiden sisäinen resistanssi on useimmiten pienempi kuin
+vastaavien kuivaparistojen
+01054D + niitä voidaan ladata uudelleen satoja, hyvin huollettuina jopa
+tuhansia kertoja
+01055 % Tasasähköksi (tasajännitteeksi) sanotaan yleisesti sähköä,
+01055A + joka kulkee aina samaan suuntaan
+01055B + jonka suuruus voi vaihdella, mutta jonka suunta ei vaihdu
+01055C - jonka jännitteen tehollisarvo on aina nolla
+01055D - joka voi vaihtaa suuntaansa, mutta jonka suuruus ei muuten
+vaihdu
+01056 % Vaihtosähköksi (vaihtojännitteeksi) sanotaan yleisesti sähköä,
+01056A - joka kulkee aina samaan suuntaan
+01056B - jonka suuruus voi vaihdella, mutta jonka suunta ei vaihdu
+01056C - jonka jännitteen tehollisarvo on aina nolla
+01056D + joka voi vaihtaa suuntaansa ja jonka suuruus voi vaihdella
+01057 % Sinimuotoisen signaalin ominaisuuksiin kuuluu, että
+01057A - siinä esiintyy perustaajuuden kaikkia parittomia harmonisia (3.,
+5. jne.)
+01057B + sen tehollisarvo saadaan jakamalla signaalin huipusta huippuun
+arvo luvulla 2,8
+01057C + sitä voidaan hyvin käyttää radiotaajuisen vahvistimen
+ohjaussignaalina, mikäli sen taajuus on sopiva
+01057D + sillä on määrätty taajuus ja amplitudi
+01058 % Vaihtosähkön teholla tarkoitetaan aina
+01058A - vaihtovirran ja -jännitteen huippuarvojen tuloa
+01058B + kuormaa lämmittävää tehoa, jonka lämmittävä vaikutus on sama
+kuin vaihtojännitteen tehollisarvon suuruisella tasajännitteellä
+01058C - sitä jännitteen neliötä, joka menee kuormaan
+01058D - kilowattituntimittarin eli kWh mittarin näyttämää
+01059 % Demodulointi on
+01059A + informaation esille saamista moduloidusta signaalista
+01059B - häiriöiden poistamista niin, että pelkkä kantoaalto jää jäljelle
+01059C - kantoaallon moduloimista uudelleen
+01059D - kantoaallottoman lähetyksen suuntimista
+01060 % Jännitteen yksikkö on
+01060A + voltti
+01060B - ampeeri
+01060C - ohmi
+01060D – hertsi
+01061 % Sähkövirran yksikkö on
+01061A - voltti
+01061B + ampeeri
+01061C - ohmi
+01061D – hertsi
+
+--- Page 9 ---
+Sivu 9 / 64
+01062 % Resistanssin yksikkö on
+01062A - voltti
+01062B - ampeeri
+01062C + ohmi
+01062D – hertsi
+01063 % Taajuuden yksikkö on
+01063A - voltti
+01063B + hertsi
+01063C - watti
+01063D – henri
+01064 % Impedanssin yksikkö on
+01064A - ampeeri
+01064B + ohmi
+01064C - henri
+01064D – faradi
+01065 % Tehon yksikkö on
+01065A - ampeeri
+01065B - ohmi
+01065C + watti
+01065D – celsius
+01066 % Kapasitanssin yksikkö on
+01066A - voltti
+01066B - hertsi
+01066C - ohmi
+01066D + faradi
+01067 % Induktanssin yksikkö on
+01067A - hertsi
+01067B + henri
+01067C - watti
+01067D – ohmi
+01068 % Ohmin laki ilmaisee
+01068A + jännitteen, virran ja resistanssin välisen riippuvuuden
+01068B + että jännite on virta kertaa resistanssi, U = I x R
+01068C + että virta on jännite jaettuna resistanssilla, I = U : R
+01068D + että resistanssi on jännite jaettuna virralla, R = U : I
+01069 % Vastuksen resistanssi on 15 ohmia ja sen läpi kulkeva virta 2
+ampeeria. Vastuksen jännitehäviö on
+01069A + 30 V
+01069B - 0,06666 V
+01069C - 7,5 V
+01069D - 0 V
+01070 % Vastuksen resistanssi on 47 ohmia ja sen yli vaikuttaa jännite
+17 V. Vastuksen läpi kulkeva virta on
+01070A - 3,6 A
+01070B - 17 A
+01070C + 0,36 A
+01070D - 2,8 A
+
+--- Page 10 ---
+Sivu 10 / 64
+01071 % Vastuksen läpi kulkee 12 A virta ja sen yli vaikuttaa jännite
+148 V. Vastuksen resistanssi on
+01071A + 12,3 ohmia
+01071B + 0,012 kilo-ohmia
+01071C - 0,08 ohmia
+01071D - 8 ohmia
+01072 % Vastuksen resistanssi on 68 ohmia ja sen läpi kulkeva virta 20
+ampeeria. Vastuksessa syntyvä jännitehäviö on
+01072A - 30 V
+01072B - 3,4 V
+01072C - 7,5 V
+01072D + 1360 V
+01073 % Vastuksen resistanssi on 75 ohmia ja sen yli vaikuttava jännite
+7 volttia. Vastuksen läpi kulkeva virta on
+01073A - 17 A
+01073B - 1,7 A
+01073C + 0,09 A
+01073D + 90 mA
+01074 % Vastuksen läpi kulkeva virta on 3,4 A ja sen yli vaikuttava
+jännite 220V. Vastuksen resistanssi on
+01074A + 65 ohmia
+01074B - 0,014 ohmia
+01074C - 750 ohmia
+01074D - 8 ohmia
+01075 % Sinimuotoisen vaihtojännitteen huippuarvo tehollisarvosta U
+laskettuna on
+01075A + 1,41 U
+01075B - 1,73 U
+01075C - 2,25 U
+01075D - 4,44 U
+01076 % Tasajännitettä saadaan
+01076A + kuivaparistosta
+01076B - dynaamisesta mikrofonista
+01076C + akusta
+01076D + aurinkopanelista
+01077 % Vaihtojännitettä saadaan
+01077A - akusta
+01077B + sähköverkosta
+01077C - kuivaparistosta
+01077D – aurinkopanelista
+01078 % Vaihtojännitettä saadaan
+01078A + vaihtosuuntaajasta
+01078B + kidemikrofonista
+01078C - akusta
+01078D + 230 V 50 Hz generaattorista
+
+--- Page 11 ---
+Sivu 11 / 64
+01079 % Johtimen resistanssi suurenee, jos johtimen
+01079A - poikkileikkaus muutetaan pyöreästä litteäksi poikkipinta-alan
+säilyessä ennallaan
+01079B - poikkipinta-alaa lisätään
+01079C - eristyskerroksen paksuutta lisätään
+01079D + pituutta lisätään
+01080 % Sähköjohtimen resistanssi riippuu johtimen
+01080A + materiaalista
+01080B + poikkipinta-alasta
+01080C - eristeestä
+01080D - poikkipinnan muodosta
+01081 % Vastuksen tasavirtaresistanssia vähentää vastuslangan
+01081A - pidentäminen
+01081B + hopeoiminen
+01081C - poikkipinta-alan vähentäminen
+01081D - johtimen muodon muuttaminen pyöreästä litteäksi poikkipinta-alan
+pysyessä ennallaan
+01082 % Johtimen resistanssi vähenee, jos
+01082A - johtimen poikkileikkaus muutetaan pyöreästä soikeaksi
+poikkipinta-alan säilyessä ennallaan
+01082B - johtimen eristyskerroksen laatua parannetaan
+01082C + johtimen pituutta vähennetään
+01082D - johtimen poikkipinta-alaa vähennetään
+01083 % 50 ohmin keinokuormaan kytketään transistorilähetin. Kun
+keinokuormaan menevä suurtaajuinen virta on 1 A, seuraava
+tehonkestoarvo on riittävä
+01083A + 2500 W
+01083B + 1312 W
+01083C + 175 W
+01083D + 50 W
+01084 % Transistorilähettimen teholähteessä on virran mittaamiseksi 0,12
+ohmin vastus. Mikä seuraavista vastuksen tehonkestoarvoista on
+riittävä, kun virta on 18 A:
+01084A - 2 W
+01084B - 8 W
+01084C + 39 W
+01084D + 150 W
+01085 % Kytkennässä on 4,7 ohmin vastus. Mikä teho vastuksen on
+vähintään kestettävä, kun virta on 3,5 A:
+01085A - 5,8 W
+01085B - 16,4 W
+01085C + 58 W
+01085D - 77,3 W
+01086 % Kytkennässä on 4,7 ohmin vastus. Mitkä seuraavista vastuksen
+tehonkestoarvoista ovat riittäviä, kun virta on 3,5 A:
+01086A + 58 W
+01086B + 77 W
+01086C + 164 W
+01086D + 270 W
+
+--- Page 12 ---
+Sivu 12 / 64
+01087 % 50 ohmin keinokuormaan kytketään transistorilähetin. Kuormaan
+syötetään 0,5 A suurtaajuusvirta. Keinokuormassa syntyvä
+lämpöteho on
+01087A + 12,5 W
+01087B - 15,5 W
+01087C - 20,3 W
+01087D - 25,0 W
+01088 % 50 ohmin keinokuorma liitetään lähettimeen, joka syöttää siihen
+5 A suurtaajuusvirran. Keinokuormassa syntyvä lämpöteho on
+01088A + 1250 W
+01088B - 250 W
+01088C - 50 W
+01088D - 10 W
+01089 % Vastus lämmittää 1000 W lämpöteholla, kun se liitetään 230 V
+vaihtojänniteverkkoon. Vastuksen suuruus on
+01089A + 53 ohmia
+01089B - 32 ohmia
+01089C - 14,8 ohmia
+01089D - 5,3 ohmia
+01090 % 50 ohmin keinokuormaan kytketään transistorilähetin.
+Keinokuormassa kehittyy 50 W lämpötehoa. Suurtaajuinen virta on
+01090B - 0,25 A
+01090C + 1 A
+01090D - 2,5 A
+01090A - 10 A
+01091 % Vastuksen resistanssi on 100 ohmia ja siihen syötetään 25 W
+sähköteho. Vastuksessa kulkeva virta on
+01091A - 5 A
+01091B + 0,5 A
+01091C - 0,25 A
+01091D - 0,1 A
+01092 % Vastuksen resistanssi on 10 ohmia ja siihen syötetään 4000 W
+sähköteho. Vastuksessa kulkeva virta on
+01092A - 4000 A
+01092B - 40 A
+01092C + 20 A
+01092D - 2 A
+01093 % Vastuksessa muuttuu 2500 W tehoa lämmöksi, kun se liitetään 230V
+vaihtojänniteverkkoon. Vastuksen resistanssi on
+01093A + 21160 milliohmia
+01093B + 21,2 ohmia
+01093C - 11,4 ohmia
+01093D - 4,5 ohmia
+01094 % Muuntajan ensiö on kytketty 230 V verkkoon. Toision jännite on
+12 V. Toisioon kytketään 50 W ja 25 W kuormat rinnan. Kun mmun-
+tajan häviöitä ei oteta huomioon, muuntaja ottaa verkosta tehoa
+01094A - 4 W
+01094B + 75 W
+01094C - 220 W
+01094D - 1375 W
+
+--- Page 13 ---
+Sivu 13 / 64
+01095 % Muuntajan ensiö on kytketty 230 V verkkoon. Toision jännite on
+12 V. Toisioon kytketään 50 W kuorma. Kun muuntajan häviöitä ei
+oteta huomioon, muuntaja ottaa verkosta virtaa
+01095A + 217 mA
+01095B - 4,17 A
+01095C - 14,17 A
+01095D - 137,5 A
+01096 % Vastuksessa muuttuu 2500 W tehoa lämmöksi, kun se liitetään 230V
+vaihtojänniteverkkoon. Vastuksen resistanssi on
+01096A + 21200 milliohmia
+01096B - 10900 milliohmia
+01096C + 21,2 ohmia
+01096D - 10,9 ohmia
+02000 * Komponentit
+02001 % Kondensaattorin kapasitanssi
+02001A - ilmoitetaan henreinä (H)
+02001B + on riippuvainen kondensaattorilevyjen pinta-alasta
+02001C - ilmoitetaan mikrovoltteina (uV)
+02001D - muuttuu jyrkästi lämpötilan mukana
+02002 % Elektrolyyttikondensaattorit
+02002A - ovat yleensä kapasitanssiarvoltaan erittäin pieniä
+02002B - soveltuvat parhaiten radiolaitteiden suurtaajuusosiin
+02002C + ovat polaarisia (plus- ja miinusnapa määrätty)
+02002D + voivat räjähtää, jos ne kytketään napaisuudeltaan väärään
+jännitteeseen
+02002E + voivat räjähtää, jos ne kytketään liian korkeaan jännitteeseen
+02003 % Kondensaattorin kapasitanssi muuttuu
+02003A + kasvattamalla kondensaattorin levyjen pinta-alaa
+02003B + suurentamalla kondensaattorin levyjen välistä etäisyyttä
+02003C - hopeoimalla kondensaattorilevyt niin, että niiden pinta-ala ja
+etäisyys toisistaan eivät muutu
+02003D - muuttamalla kondensaattorilevyihin syötetyn jännitteen suuruutta
+02004 % Kelan induktanssi muuttuu, jos
+02004A + ilmasydän korvataan magneettisella materiaalilla
+02004B + kelan kierrosmäärä muuttuu
+02004C - kelaa käytetään vaihtovirralla tasavirran sijasta
+02004D + kelan halkaisija muuttuu
+02005 % Kela on komponentti,
+02005A - jota käytetään korvaamaan diodeja suurtaajuusasteissa
+02005B + jonka induktanssi ilmoitetaan henreinä (H)
+02005C - jossa sähkövirta aiheuttaa pääasiassa lämpöä
+02005D - jonka kapasitanssi on faradeja (F)
+02006 % Muuntaja
+02006A - toimii ainoastaan tasavirralla
+02006B - perustuu sähkökentän vaikutukseen
+02006C - toimii ainoastaan sinimuotoisella vaihtovirralla
+02006D + perustuu magneettikentän vaikutukseen
+
+--- Page 14 ---
+Sivu 14 / 64
+02007 % Muuntaja
+02007A + toimii vaihtovirralla
+02007B - toimii tasavirralla
+02007C - muuntaa verkkovirran taajuutta
+02007D + muuntaa jännitettä kierrosmääriensä suhteessa
+02008 % Muuntajassa
+02008A - ensiökäämiksi kutsutaan sitä käämiä, josta jännite otetaan
+käyttölaitteille.
+02008B + ensiö ja toisio voivat olla galvaanisesti erotettuja
+02008C + ensiökäämiksi kutsutaan sitä käämiä, johon syötetään
+verkkojännite
+02008D + sisään syötettävä jännite voidaan muuntaa pienemmäksi tai
+suuremmaksi ulos syötettäväksi jännitteeksi
+02009 % Muuntajan
+02009A - ensiö- ja toisiokäämien kierrosluvut määräävät maksimitehon,
+jonka muuntaja kykenee siirtämään
+02009B + sydänaineen ominaisuudet ja poikkipinta-ala määräävät muuntajan
+maksimitehonsiirtokyvyn
+02009C + ensiö- ja toisiojännitteiden suhde on suoraan verrannollinen
+ensiö- ja toisiokäämien kierroslukujen suhteeseen
+02009D + ensiö- ja toisiokäämit voidaan erottaa toisistaan ja muuntajan
+rautasydämestä galvaanisesti
+02010 % Tarvitset radioamatööriasemasi virtalähdettä varten muuntajan,
+jossa sähköverkon 230 voltin jännite muutetaan 17 V suuruiseksi
+tasasuuntausta ja suodatusta varten. Sinulla on muuntaja, jonka
+ensiökäämissä on 1600 kierrosta ja toisiokäämissä 420 kierrosta.
+Voit ottaa muuntajan käyttöön
+02010A - suoraan, koska saat siitä juuri oikean jännitteen
+02010B + purkamalla toisiokäämin ja käämimällä uuden, jossa on 118
+kierrosta
+02010C - purkamalla toisiokäämin ja käämimällä uuden, jossa on 31
+kierrosta
+02010D - purkamalla ensiökäämin ja käämimällä uuden, jossa on 31
+kierrosta
+02011 % Muuntajan ensiökäämissä on merkintä 230 V ja toisiokäämissä
+merkintä 24 V. Purat toisiokäämin ja saat laskemalla sen
+kierrosmääräksi 167 kierrosta. Ensiökäämissä on tällöin
+02011A - 33 kierrosta
+02011B - 300 kierrosta
+02011C + 1600 kierrosta
+02011D - 1740 kierrosta
+02012 % Zenerdiodia käytetään
+02012A - merkkilamppuna
+02012B - tasasuuntaukseen
+02012C + jännitteen stabilointiin
+02012D - virityspiirin säädettävänä kapasitanssina
+02013 % Kapasitanssidiodia käytetään
+02013A - merkkilamppuna
+02013B - tasasuuntaukseen
+02013C - jännitteen stabilointiin
+02013D + virityspiirin säädettävänä kapasitanssina
+
+--- Page 15 ---
+Sivu 15 / 64
+02014 % Virtaa rajoittavaa etuvastusta tarvitaan kytkennässä, jossa
+02014A + stabiloidaan jännitettä zenerdiodilla
+02014B - tasasuunnataan vaihtosähköä tasasuuntausdiodilla
+02014C + käytetään valodiodia (LED) merkkilamppuna
+02014D - käytetään kapasitanssidiodia virityspiirissä
+02015 % Tasasuuntaajan muuntajan toisiossa on väliulosotto käämin
+puolivälissä. Kokoaaltotasasuuntaus saadaan tällöin aikaan
+02015A + neljällä diodilla
+02015B - kolmella diodilla
+02015C + kahdella diodilla
+02015D - yhdellä diodilla
+02016 % Mitkä seuraavista väittämistä ovat oikeita:
+02016A + Zenerilmiö esiintyy zenerdiodissa estosuuntaisella jännitteellä.
+02016B - Estosuuntainen jännite saa valodiodin (LED) loistamaan valoa.
+02016C + Kapasitanssidiodin kapasitanssia säädetään muuttamalla
+estosuuntaista jännitettä.
+02016D + Tasasuuntausdiodin päästösuuntainen kynnysjännite on noin 0,6 V.
+02017 % Bipolaaritransistorissa merkitään
+02017A + kantaa kirjaimella B
+02017B - emitteriä kirjaimella C
+02017C - kollektoria kirjaimella E
+02017D + tyyppiä kirjaimilla PNP tai NPN
+02018 % PNP-transistorin tunnistaa piirrosmerkistä, jossa
+02018A - emitterissä on piirrosmerkin keskustasta poispäin osoittava
+nuoli
+02018B - kannassa on kaksi piirrosmerkin keskustaa kohti osoittavaa
+nuolta
+02018C + emitterissä on piirrosmerkin keskustaa kohti osoittava nuoli
+02018D - kollektorissa on piirrosmerkin keskustaa kohti osoittava nuoli
+02019 % Seuraavat väittämät pitävät paikkansa:
+02019A + transistorit kuuluvat aktiivisiin komponentteihin
+02019B - valotransistori säteilee valoa
+02019C - FET-transistorin johtimia merkitään kirjaimilla E, B ja C
+02019D + bipolaaritransistorin johtimia merkitään E, B, ja C
+02020 % Vaihtosähköstä saadaan tasasähköä
+02020A - vaihtosuuntaamalla
+02020B + tasasuuntaamalla
+02020C - reguloimalla
+02020D – stabiloimalla
+02021 % Kondensaattori
+02021A - johtaa tasavirtaa
+02021B + johtaa vaihtovirtaa
+02021C + pienentää rinnan kytkettynä jännitepiikkejä
+02021D - on komponentti, jonka reaktanssi kasvaa taajuuden kasvaessa
+
+--- Page 16 ---
+Sivu 16 / 64
+02022 % Elektrolyyttikondensaattorin
+02022A - napaisuudella ei ole merkitystä
+02022B + saa bipolaarikondensaattoriksi kytkemällä kaksi elkoa sarjaan
+samannimistä navoista
+02022C + kuoreen on merkitty miinus- tai plusnapa
+02022D + kuoreen merkittyä jännitettä ei saa ylittää
+02023 % Kela
+02023A + on komponentti, jonka reaktanssi kasvaa taajuuden kasvaessa
+02023B + voi olla piirilevyyn etsattu
+02023C + saattaa syntyä tahattomasti laitteen kytkentälangoista
+02023D - ei johda tasavirtaa
+02024 % Kelan Q-arvoa parannetaan
+02024A + hopeoimalla kuparilanka
+02024B - kuparoimalla hopealanka
+02024C - käyttämällä kelan yhteydessä Q-kertojaa
+02024D - vaihtamalla kuparilanka rautalangaksi
+02025 % Diodia voidaan käyttää
+02025A + tasasuuntaamaan muuntajasta saatavaa vaihtojännitettä
+02025B - vaihtosuuntaamaan muuntajasta tulevaa tasajännitettä
+02025C + kidekoneessa ilmaisimena
+02025D + jännitesäätöisenä korvaamaan pientä säätökondensaattoria
+02026 % Kun jännitettä tasasuunnataan piidiodilla,
+02026A - tasasuunnatun jännitteen huippuarvo on suurempi kuin
+vaihtojännitteen huippuarvo
+02026B + jännitteen tehollisarvo on pienempi kuin vaihtojännitteen
+puolijakson huippuarvo
+02026C + diodissa tapahtuu jännitehäviö
+02026D + diodin on kestettävä vähintään kuormittavan laitteen aiheuttama
+virta
+02027 % Mitkä seuraavista puolijohdediodeita koskevista väittämistä ovat
+oikeita:
+02027A + Diodilla on kynnysjännite, joka riippuu käytetystä puolijohde-
+materiaalista.
+02027B - Diodin kynnysjännite ei riipu puolijohdemateriaalista.
+02027C - Diodilla ei ole kynnysjännitettä.
+02027D - Diodin kynnysjännite tarkoittaa estosuuntaista läpilyönti-
+jännitettä.
+02028 % Mitkä seuraavista muuntajaa koskevista väitteistä ovat oikeita:
+02028A - Sisään syötetty teho on aina pienempi kuin ulostuleva teho.
+02028B - Ulostuleva teho saattaa hyvällä muuntajalla olla suurempi kuin
+muuntajaan syötetty teho.
+02028C - Muuntaja kytketään virtalähteessä tasasuuntaajan jälkeen.
+02028D + Muuntaja pudottaa verkkojännitteen laitteelle sopivaksi.
+02029 % Muuntajan tehonkesto
+02029A + riippuu rautasydämen poikkipinta-alasta
+02029B + voi rajoittaa kytkettävän laitteen saamaa tehoa
+02029C - voi olla pienempi kuin kytkettävän laitteen tehontarve
+02029D - riippuu toisiojännitteestä
+
+--- Page 17 ---
+Sivu 17 / 64
+02030 % On totta, että
+02030A - bipolaaritransistori on pääasiassa jännitevahvistaja
+02030B + bipolaaritransistori on pääasiassa virtavahvistaja
+02030C + bipolaaritransistori on periaaterakenteeltaan kuin kaksi
+seläkkäin olevaa diodia
+02030D + NPN-transistorin kantajännitteen on oltava suurempi kuin
+emitterijännite, jotta kollektorivirta kulkisi
+02031 % On totta, että
+02031A + kynnysjännitteen yläpuolella diodi on johtavassa tilassa
+02031B + kynnysjännitteen alapuolella diodi on estotilassa
+02031C + germaniumdiodin kynnysjännite on noin 0,2 V.
+02031D + piidiodin kynnysjännite on noin 0,6 V.
+02031E - piidiodin kynnysjännite on noin 3,14 V
+02031F - germaniumdiodin kynnysjännite on noin 0,6 V
+02032 % C-luokassa toimivaa transistoria voidaan käyttää
+02032A + CW-lähettimen pääteasteena
+02032B + taajuudenkertoja-asteena
+02032C + FM-lähettimen pääteasteena
+02032D - SSB-lähettimen pääteasteena
+02033 % B-luokassa toimivaa transistoria voidaan käyttää
+02033A + CW-lähettimen pääteasteena
+02033B + taajuudenkertoja-asteena
+02033C + FM-lähettimen pääteasteena
+02033D + SSB-lähettimen pääteasteena
+02034 % A-luokassa toimivaa transistoria käytetään yleisesti
+02034A - CW-lähettimen pääteasteessa
+02034B + lineaarisissa piensignaaliasteissa
+02034C - FM-lähettimen pääteasteessa
+02034D + SSB-lähettimen väliasteissa
+02035 % Transistorissa kollektorivirta kulkee ohjausvirran molempien
+puolijaksojen aikana, kun transistori toimii
+02035A + A-luokassa
+02035B - B-luokassa
+02035C - C-luokassa
+02035D - missä tahansa toimintaluokassa
+02036 % Transistorissa kollektorivirta kulkee vain ohjausvirran toisen
+puolijaksojen aikana, kun transistori toimii
+02036A - A-luokassa
+02036B + B-luokassa
+02036C + C-luokassa
+02036D - missä tahansa toimintaluokassa
+02037 % Radiolaitteissa käytetään zenerdiodia
+02037A - signaalin ilmaisemiseen
+02037B + teholähteen vakavoimiseen
+02037C - jännitteen tasasuuntaukseen
+02037D + jännitteen stabiloimiseen
+
+--- Page 18 ---
+Sivu 18 / 64
+02038 % Vastuksen tehonkesto on 0,5 W ja resistanssi 1 kilo-ohmi.
+Maksimijännite, joka vastuksen yli voidaan kytkeä ilman, että se
+tuhoutuu, on
+02038A - 11,2 V
+02038B + 22,3 V
+02038C - 33,4 V
+02038D - 5,6 V
+02039 % Kun kytketään sarjaan 33 uH, 47 uH ja 68 uH induktanssit niin,
+ettei niiden välillä ole induktiivista kytkentää, saadaan
+kytkennän kokonaisinduktanssiksi
+02039A + 148 uH
+02039B - 159 uH
+02039C + 0,148 mH
+02039D - 0,159 mH
+02040 % Muuntajassa on seuraavat merkinnät: teho 50 VA, ensiöjännite
+230 V, toisiojännite 20 V. Suurin sallittu jatkuva toisiovirta
+on
+02040A + 2500 mA
+02040B - 1500 mA
+02040C - 1,5 A
+02040D + 2,5 A
+02041 % Kun kytketään sarjaan 10 uH, 22 uH ja 33 uH induktanssit niin,
+ettei niiden välillä ole induktiivista kytkentää, kytkennän
+kokonaisinduktanssiksi saadaan
+02041A - 0,11 mH
+02041B + 65 uH
+02041C - 110 uH
+02041D + 65000 nH
+02042 % 10 kilo-ohmin vastus voidaan kirjoittaa myös
+02042A + 10000 ohmia
+02042B - 1000 ohmia
+02042C - 0,1 megaohmia
+02042D + 0,01 megaohmia
+02043 % Kun kytketään sarjaan kolme 22 uH induktanssia niin, ettei
+niiden välillä ole induktiivista kytkentää, kytkennän
+kokonaisinduktanssiksi saadaan
+02043A + 0,066 mH
+02043C + 66 uH
+02043E - 0,66 mH
+02043F - 6,6 uH
+02045 % Kun kytketään sarjaan kolme 68 uH induktanssia niin, ettei
+niiden välillä ole induktiivista kytkentää, kytkennän
+kokonaisinduktanssiksi saadaan
+02045A + 0,0002 H
+02045B - 0,02 mH
+02045C - 2 uH
+02045D + 204 uH
+
+--- Page 19 ---
+Sivu 19 / 64
+02046 % Vastuksia voidaan käyttää
+02046A + rajoittamaan piirissä kulkevaa virtaa
+02046B + jännitteen jakajana
+02046C - vahvistamaan virtapiirejä
+02046D + keinokuormana
+02047 % Diodille on ominaista, että
+02047A - virta kulkee sen läpi vain yhteen ennalta määrättyyn suuntaan
+02047B - virta kulkee sen läpi yhtä hyvin kumpaankin suuntaan
+02047C + se toimii tasasuuntaajana
+02047D - se toimii vaihtosuuntaajana
+02048 % Tasasuuntausdiodin tärkeä ominaisuus on
+02048A - kapasitanssi
+02048B + jännitekestoisuus
+02048C + virtakestoisuus
+02048D – resistanssi
+02049 % Kondensaattorin eristeaineena voidaan käyttää
+02049A + ilmaa
+02049B + paperia
+02049C + öljyä
+02049D + polyesteriä
+02049E - vettä
+02049F – kuparitahnaa
+02050 % Modulaattorin tarkoitus lähettimessä on
+02050A - parantaa lähettimen taajuusvakavuutta
+02050B - ilmaista lähetteessä oleva pientaajuus
+02050C + liittää pientaajuinen informaatio suurtaajuiseen kantoaaltoon
+02050D - vaimentaa suurtaajuisen lähetteen harmonisia värähtelyjä
+02051 % Ilmaeristeistä kelaa käytetään haluttaessa
+02051A - aikaansaada hyvin suuri induktanssi
+02051B + erityisen hyviä suurtaajuusominaisuuksia
+02051C - kelalle pieni koko
+02051D - valmistaa tehokas pientaajuuskuristin
+02052 % Transistorin elektrodi on
+02052A - anodi
+02052B + kanta
+02052C - katodi
+02052D + kollektori
+02052E - konduktori
+02052F + emitteri
+02053 % Lähettimen SSB- eli yksisivukaistasuotimen tehtävänä on
+02053A - suodattaa verkkohurina pois VFO:n käyttöjännitteestä
+02053B - suodattaa pois lähettimen harmoniset häiriötaajuudet
+02053C + suodattaa pois suurtaajuuden ja pientaajuuden sekoitustuloksesta
+toinen sivukaista
+02053D - suodattaa pois komponenttien sisälle valmistuksessa jääneet
+kvartsikiteet
+
+--- Page 20 ---
+Sivu 20 / 64
+02054 % Vastuksen yli vaikuttaa 20 V jännite ja sen läpi kulkee 20 mA
+virta. Vastuksen tehohäviö on
+02054A - 800 mW
+02054B + 400 mW
+02054C - 0,5 W
+02054D - 100 mW
+02054E + 0,4 W
+02055 % Kondensaattorille on ominaista, että
+02055A - tasavirta kulkee sen läpi vain yhteen ennalta määrättyyn
+suuntaan
+02055B + se päästää läpi vain vaihtovirran
+02055C - sillä on suuri induktanssi
+02055D + se voi olla osana resonanssipiirissä
+02056 % Transistoreita valmistetaan
+02056A - seleenistä
+02056B + germaniumista
+02056C - muovista
+02056D + piistä
+02056E + galliumarsenidista
+02057 % Kvartsikiteelle on ominaista, että
+02057A + se toimii resonanssipiirinä
+02057B + sillä on korkea Q-arvo
+02057C - se kestää hyvin suuria suurtaajuusvirtoja
+02057D + sillä on varsin hyvä lämpötilavakavuus
+02058 % Kondensaattorin reaktanssi
+02058A - kasvaa taajuuden kasvaessa
+02058B + pienenee taajuuden kasvaessa
+02058C - pysyy aina samana taajuudesta riippumatta
+02058D - on aina 0 ohmia, koska kondensaattori on tasavirtakomponentti
+02059 % Zenerdiodille on ominaista, että se toimii
+02059A + jännitestabilisaattorina
+02059B - virranrajoittajana
+02059C - tasasuuntaajana
+02059D – vaihtosuuntaajana
+02060 % Kelan reaktanssi
+02060A + kasvaa taajuuden kasvaessa
+02060B - pienenee taajuuden kasvaessa
+02060C - pysyy aina samana taajuudesta riippumatta
+02060D - on aina 0 ohmia, koska kela on tasavirtakomponentti
+02061 % Loogisessa piirissä on kaksi sisäänmenoa A ja B sekä ulostulo Q.
+Ulostulo Q on tosi, jos joko A tai B tai sekä A että B ovat
+tosia. Kysymyksessä on
+02061A + TAI-piiri (OR)
+02061B - JA-piiri (AND)
+02061C - EHKÄ-EI -piiri (PERHAPS/NO)
+02061D - KYLLÄ-EI -piiri (YES/NO)
+
+--- Page 21 ---
+Sivu 21 / 64
+02062 % Loogisessa piirissä on kaksi sisäänmenoa A ja B sekä ulostulo Q.
+Ulostulo Q on tosi vain, jos sekä A että B ovat tosia.
+Kysymyksessä on
+02062A - TAI-piiri (OR)
+02062B + JA-piiri (AND)
+02062C - EHKÄ-EI -piiri (PERHAPS/NO)
+02062D - KYLLÄ-EI -piiri (YES/NO)
+02063 % Resistanssin yksikkö on
+02063A + ohmi
+02063B - faradi
+02063C - henri
+02063D – ampeeri
+02064 % Kapasitanssin yksikkö on
+02064A - ohmi
+02064B + faradi
+02064C - henri
+02064D – ampeeri
+02065 % Induktanssin yksikkö on
+02065A - ohmi
+02065B - faradi
+02065C + henri
+02065D – ampeeri
+02066 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on epätosi, kun
+02066A - A on epätosi ja B on tosi
+02066B + A ja B ovat epätosia
+02066C - A on tosi ja B on epätosi
+02066D - A ja B ovat tosia
+02067 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on tosi, kun
+02067A + A on tosi ja B on epätosi
+02067B + A on epätosi ja B on tosi
+02067C - A ja B ovat epätosia
+02067D + A ja B ovat tosia
+02068 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on epätosi, kun
+02068A + A ja B ovat epätosia
+02068B - A ja B ovat tosia
+02068C - A on tosi ja B on epätosi
+02068D - A on epätosi ja B on tosi
+02069 % Muuntajan ensiössä on 5000 kierrosta ja toisiossa 100 kierrosta.
+Toisiossa on keskiulosotto. Muuntajasta 230 V:n
+ensiöjännitteellä saatava vaihtojännite on
+02069A + 4,6 V
+02069B + 2,3 V
+02069C - 9,2 V
+02069D - 50 V
+
+--- Page 22 ---
+Sivu 22 / 64
+02070 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on tosi, kun
+02070A + A on tosi ja B on epätosi
+02070B + A ja B ovat tosia
+02070C + A on epätosi ja B on tosi
+02070D - A ja B ovat epätosia
+02072 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on 1, kun
+02072A - A ja B ovat 0
+02072B + A ja B ovat 1
+02072C + A on 1 ja B on 0
+02072D + A on 0 ja B on 1
+02073 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on 0, kun
+02073A + A ja B ovat 0
+02073B - A ja B ovat 1
+02073C - A on 1 ja B on 0
+02073D - A on 0 ja B on 1
+02074 % Loogisessa JA-piirissä (AND) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on epätosi eli 0, kun
+02074A + A on tosi ja B on epätosi
+02074B + A on epätosi ja B on tosi
+02074C + A ja B ovat epätosia
+02074D - A ja B ovat tosia
+02075 % Loogisessa JA-piirissä (AND) on kaksi sisäänmenoa A ja B sekä
+yksi ulostulo. Piirin ulostulo on 1, kun
+02075A - A on 1 ja B on 0
+02075B - A on 0 ja B on 1
+02075C - A ja B ovat 0
+02075D + A ja B ovat 1
+02077 % Loogisessa piirissä on kaksi sisäänmenoa A ja B sekä ulostulo Q,
+ja siinä A:n ja B:n asettaminen todeksi asettaa myös Q:n
+todeksi. Tarvittava looginen piiri on
+02077A - EHKÄ -piiri (PERHAPS)
+02077B - TAI -piiri (OR)
+02077C - KYLLÄ-EI -piiri (YES/NO)
+02077D + JA -piiri (AND)
+02079 % Muuntajan ensiö on kytketty 230 V verkkoon. Toision jännite on
+24 V. Toisioon kytketään 50 W ja 25 W kuormat rinnan. Muuntajan
+häviöitä ei oteta huomioon. Muuntaja ottaa verkosta tehon
+02079A - 25 W
+02079B + 75 W
+02079C - 230 W
+02079D - 1375 W
+02080 % Muuntajan ensiössä on 1380 kierrosta ja toisiossa 90. Ensiö on
+kytketty 230 V verkkoon. Toisiojännite on
+02080A - 1 V
+02080B + 15 V
+02080C - 92 V
+02080D - 3,5 kV
+
+--- Page 23 ---
+Sivu 23 / 64
+02081 % Verkkomuuntajan ensiö on kytketty 230 V verkkoon. Muuntajan
+ensiössä on 1840 kierrosta ja toisiossa 880 kierrosta lankaa.
+Toisiossa on keskiulosotto. Toision keskiulosoton ja kumman
+tahansa pään välinen jännite on
+02081A - 4,15 V
+02081B + 55 V
+02081C - 110 V
+02081D - 440 V
+02082 % Verkkomuuntajan ensiö on kytketty 230 V verkkoon. Muuntajan
+ensiössä on 1840 kierrosta ja toisiossa 880 kierrosta lankaa.
+Toisiossa on keskiulosotto. Toision keskiulosoton ja kumman
+tahansa pään välinen jännite on
+02082A - 2,2 V
+02082B - 22 V
+02082C + 55 V
+02082D - 110 V
+02083 % Muuntajan ensiö on kytketty 230 V verkkoon, Sen ensiössä on 2530
+kierrosta. Toisiossa on keskiulosotto. Toision äärinapojen
+välinen jännite on 8 V. Toision koko kierrosmäärä on
+02083A - 22
+02083B - 44
+02083C + 88
+02083D – 176
+02084 % Muuntajan ensiö on kytketty 230 V verkkoon. Ensiössä on 1840
+kierrosta, toisiossa on keskiulosotto. Toision keskiulosoton ja
+jomman kumman pään välinen jännite on 115 V. Toision koko
+kierrosmäärä on
+02084A + 1840
+02084B - 920
+02084C - 230
+02084D – 115
+02085 % Muuntajan ensiö on kytketty 230 V verkkoon. Ensiössä on 1840
+kierrosta, toisiossa on keskiulosotto. Toision äärinapojen
+välinen jännite on 48 V. Toision koko kierrosmäärä on
+02085A - 1840
+02085B - 920
+02085C - 115
+02085D + 384
+02086 % Muuntajan ensiö on kytketty 230 V verkkoon. Ensiössä on 1380
+kierrosta ja toisiossa kaksi käämiä, 92 kierrosta ja 58
+kierrosta. Toisiokäämit kytketään sarjaan. Toisiojännite on
+02086A - 5,7 V
+02086B - 9,6 V
+02086C + 25 V
+02086D - 153 V
+02087 % Q-arvo
+02087A + tarkoittaa värähtelypiirin tai komponentin hyvyyslukua
+02087B + on erityisen alhainen vastuksilla
+02087C + tulee paremmaksi vaihtamalla värähtelypiirin kelan lanka
+rautaisesta hopeiseksi
+02087D + on erityisen hyvä kvartsikiteillä
+
+--- Page 24 ---
+Sivu 24 / 64
+02088 % Q-arvo
+02088A - tarkoittaa komponentin hintalaatusuhdetta
+02088B + tulee paremmaksi hopeoimalla värähtelypiirin kelan lanka
+02088C + on erityisen hyvä kvartsikiteillä
+02088D + tarkoittaa värähtelypiirin tai komponentin hyvyyslukua
+02089 % Q-arvo
+02089A - tarkoittaa värähtelypiirin tai komponentin valmistuslaatua
+02089B + ilmaisee värähtelypiirin tai komponentin häviöt
+02089C - tarkoittaa komponentin hintalaatusuhdetta
+02089D + ilmaisee värähtelypiirin tai komponentin suhteelliset häviöt
+02090 % Kokoamme vastuksista 1320 ohmin vastuksen. Yhdistelmä voi olla
+02090A - 2200 ja 3300 ohmia sarjassa
+02090B + 500 ja 820 ohmia sarjassa
+02090C - 500 ja 820 ohmia rinnan
+02090D + 2200 ja 3300 ohmia rinnan
+02091 % Kytketään rinnan kolme vastusta, joiden resistanssit ovat 5,6 ja
+8,2 ja 10 kilo-ohmia. Vastuskytkennän kokonaisresistanssi on
+02091A - 1,2 kilo-ohmia
+02091B + 2,5 kilo-ohmia
+02091C - 3,6 kilo-ohmia
+02091D - 23,8 kilo-ohmia
+02092 % Tarvitset noin 750 ohmin vastuksen, jonka kokoat useista
+vastuksista. Oikean suuruisen vastuksen saat kytkemällä
+02092A + 2 kpl 1500 ohmia rinnan
+02092B + 2 kpl 390 ohmia sarjaan
+02092C + 5 kpl 150 ohmia sarjaan
+02092D + 3 kpl 2200 ohmia rinnan
+02093 % Tarvitset 1500 ohmin vastuksen, jonka kokoat useista
+vastuksista. Oikean suuruisen vastuksen saat kytkemällä
+02093A + 3000 ja 3000 ohmia rinnan
+02093B + 4 kpl 390 ohmia sarjaan
+02093C - 3300, 5600 ja 5600 ohmia sarjaan
+02093D - 3 kpl 470 ohmia rinnan
+02094 % Kytketään rinnan kolme vastusta, joiden resistanssit ovat 56, 82
+ja 100 kilo-ohmia. Kytkennän kokonaisresistanssi on
+02094A - 12 kohmia
+02094B + 25 kohmia
+02094C - 33 kohmia
+02094D - 238 kohmia
+02095 % Tarvitset noin 52 ohmin vastuksen, jonka kokoat useista
+vastuksista. Oikean tuloksen saat kytkemällä
+02095A + 2 kpl 100 ohmia rinnan
+02095B + 2 kpl 27 ohmia sarjaan
+02095C + 5 kpl 10 ohmia sarjaan
+02095D + 3 kpl 150 ohmia rinnan
+
+--- Page 25 ---
+Sivu 25 / 64
+02096 % Tarvitset tasavirtamittariisi 82 ohmin ohitusvastuksen, jonka
+kokoat useista vastuksista. Oikean tuloksen saat kytkemällä
+02096A - 3 kpl 220 ohmia rinnan
+02096B + 2 kpl 39 ohmia sarjaan
+02096C + 5 kpl 390 ohmia rinnan
+02096D + 3 kpl 27 ohmia sarjaan
+02097 % Tarvitset tasavirtamittariisi 91 ohmin ohitusvastuksen, jonka
+kokoat useista vastuksista. Oikean tuloksen saat kytkemällä
+02097A + 3 kpl 270 ohmia rinnan
+02097B - 3 kpl 27 ohmia sarjaan
+02097C + 5 kpl 470 ohmia rinnan
+02097D + 2 kpl 47 ohmia sarjaan
+03000 * Piirit
+03001 % Vastusten sarjaankytkennässä kytkennän kokonaisresistanssi on
+03001A + aina suurempi kuin minkään kytkennässä olevan yksittäisen
+vastuksen resistanssi
+03001B - aina pienempi kuin minkään kytkennässä olevan yksittäisen
+vastuksen arvo
+03001C - riippuvainen vastusten tehonkestosta
+03001D + osavastusten resistanssien summa
+03002 % Kahden vastuksen rinnankytkennässä kytkennän kokonaisresistanssi
+03002A - on vastusten resistanssien summa
+03002B + voidaan laskea kaavalla 1/R1+ 1/R2 = 1/Rkok
+03002C - muuttuu, jos hiilikalvovastukset korvataan samanarvoisilla
+metallikalvovastuksilla
+03002D - on riippuvainen osavastusten tehonkestosta
+03003 % 100 ohmin, 50 ohmin ja 1250 ohmin vastukset kytketään sarjaan.
+Kokonaisresistanssi on
+03003A + 1,4 kilo-ohmia
+03003B - 32400 milliohmia
+03003C - 130 ohmia
+03003D + vastuksien resistanssien summa
+03004 % Kondensaattorien rinnankytkennällä
+03004A - voidaan parantaa kytkennän Q-arvoa pientaajuusasteissa
+03004B + kokonaiskapasitanssi on suurempi kuin mikään kytkennässä oleva
+kapasitanssi
+03004C + voidaan käyttää yhteenlaskua kokonaiskapasitanssin
+määrittämiseksi
+03004D - voidaan korvata kela vain mikroaalloilla
+03005 % 50 uH ja 100 uH kelat kytketään sarjaan. Kytkennänkokonais-
+induktanssi on
+03005A + 150 uH
+03005B - 33,3 uH
+03005C - 0,150 nH
+03005D + laskettavissa samanmuotoisella kaavalla kuin kondensaattorien
+rinnankytkentä
+
+--- Page 26 ---
+Sivu 26 / 64
+03006 % 100 pF ja 2,2 nF kondensaattorit kytketään rinnan. Kokonais-
+kapasitanssi on tällöin
+03006A + 0,0023 uF
+03006B - 2,15 pF
+03006C + 2,3 nF
+03006D - kondensaattorien kapasitanssiarvojen keskiarvo
+03007 % Tarvitset noin 1500 ohmin vastuksen. Voit koota sen useista
+vastuksista
+03007A + kytkemällä kolme 470 ohmin vastusta sarjaan
+03007B - kytkemällä kolme 470 ohmin vastusta rinnan
+03007C + kytkemällä kaksi 3300 ohmin vastusta rinnan
+03007D - kytkemällä kaksi 3300 ohmin vastusta sarjaan
+03008 % Tarvitset noin 500 ohmin vastuksen. Voit koota sen useista
+vastuksista
+03008A + kytkemällä kolme 150 ohmin vastusta sarjaan
+03008B - kytkemällä kolme 150 ohmin vastusta rinnan
+03008C + kytkemällä kaksi 1000 ohmin vastusta rinnan
+03008D - kytkemällä kaksi 1000 ohmin vastusta sarjaan
+03009 % Tarvitset 10 uF kondensaattorin. Voit saada sellaisen kytkemällä
+sarjaan
+03009A - kaksi 2000 nF kondensaattoria
+03009B + viisi 47 uF kondensaattoria
+03009C - kaksi 50 uF kondensaattoria
+03009D - kymmenen 10 nF kondensaattoria
+03010 % Pienen kondensaattorin (alle 5 pF) voi korvata
+03010A + kiertämällä kaksi parin senttimetrin pituista eristettyä
+kytkentälankaa yhteen
+03010B - pienellä vastuksella
+03010C - oikosulkemalla kondensaattorin kytkentävälin
+03010D + pienellä säätökondensaattorilla
+03011 % Vastuksista ja kondensaattoreista voidaan rakentaa
+03011A + suotimia
+03011B - pientaajuusvahvistimia
+03011C + aikavakiopiirejä
+03011D – oskillaattoreita
+03012 % Piisuotimen
+03012A - kondensaattorien eristemateriaali on piitä
+03012B - nimi tarkoittaa Phase-Interference-Input kytkentää
+03012C + kytkentäkaavio muistuttaa kreikan pii-kirjainta
+03012D - rajataajuus on 3,14 MHz
+03013 % Induktiivinen kytkentä
+03013A - on sama kuin galvaaninen yhteys
+03013B - toimii tasasähköllä
+03013C + toimii vaihtosähköllä
+03013D - on FI-hyväksynnän nimitys
+
+--- Page 27 ---
+Sivu 27 / 64
+03014 % Releen käämin rinnalle kytketty diodi
+03014A + suojaa komponentteja käämissä aiheutuvilta jännitepiikeiltä
+03014B - estää kipinän syntymisen releen kärjissä
+03014C - varmistaa releen toimintaa alhaisilla käyttöjännitteillä
+03014D - pienentää releen käämin resistanssia
+03015 % Kun kytket kymmenen 470 ohmin 10 W vastusta rinnan, saat
+03015A - 4700 ohmin 10 W vastuksen
+03015B + 47 ohmin 100 W vastuksen
+03015C - 4700 ohmin 100 W vastuksen
+03015D - 4700 ohmin 10 W vastuksen
+03016 % Noin 100 nF kondensaattori voidaan rakentaa kytkemällä
+03016A + rinnan kaksi 47 nF kondensaattoria
+03016B - sarjaan kaksi 47 nF kondensaattoria
+03016C - rinnan kaksi 220 nF kondensaattoria
+03016D + rinnan kolme 33 nF kondensaattoria
+03017 % Kun kytket viisi 1000 ohmin 10 W vastusta rinnan, saat
+03017A - 5 kilo-ohmin 10 W vastuksen
+03017B + 200 ohmin 50 W vastuksen
+03017C - 50 ohmin 10 W vastuksen
+03017D - 1000 ohmin 50 W vastuksen
+03018 % Noin 100 pF kondensaattori voidaan rakentaa kytkemällä
+03018A + rinnan kaksi 47 pF kondensaattoria
+03018B - sarjaan kaksi 47 pF kondensaattoria
+03018C - rinnan kaksi 220 pF kondensaattoria
+03018D + rinnan kolme 33 pF kondensaattoria
+03019 % Kun kytket viisi 250 ohmin 10 W vastusta rinnan, saat
+03019A - 2500 ohmin 10 W vastuksen
+03019B + 50 ohmin 50 W vastuksen
+03019C - 50 ohmin 10 W vastuksen
+03019D - 2500 ohmin 50 W vastuksen
+03020 % Noin 10 pF kondensaattori voidaan rakentaa kytkemällä
+03020A + rinnan kaksi 4,7 pF kondensaattoria
+03020B - sarjaan kaksi 4,7 pF kondensaattoria
+03020C - rinnan kaksi 22 pF kondensaattoria
+03020D + rinnan kolme 3,3 pF kondensaattoria
+03021 % Kun kytket 20 kpl 1 kilo-ohmin 10 W vastuksia rinnan, saat
+03021A - 20 kilo-ohmin 10 W vastuksen
+03021B + 50 ohmin 200 W vastuksen
+03021C - 50 ohmin 10 W vastuksen
+03021D - 20 kilo-ohmin 200 W vastuksen
+03022 % Noin 220 pF kondensaattori voidaan rakentaa kytkemällä
+03022A + rinnan kaksi 110 pF kondensaattoria
+03022B - sarjaan kaksi 110 pF kondensaattoria
+03022C - rinnan kaksi 220 pF kondensaattoria
+03022D + sarjaan kolme 660 pF kondensaattoria
+
+--- Page 28 ---
+Sivu 28 / 64
+03023 % Noin 0,1 uF kondensaattori voidaan rakentaa kytkemällä sarjaan
+03023A - kaksi 0,2 nF kondensaattoria
+03023B + viisi 0,47 uF kondensaattoria
+03023C - kaksi 50 nF kondensaattoria
+03023D - neljä 10 nF kondensaattoria
+03024 % SSB-vastaanottoon sopivan kidesuotimen kaistanleveys on
+03024A - 600 Hz
+03024B + 2,4 kHz
+03024C - 1,0 kHz
+03024D - 6,0 kHz
+03025 % Piirin hyvyysluku Q vaikuttaa
+03025A - piirin tasavirtaresistanssiin
+03025B + piirin kaistanleveyteen
+03025C - piirin resonanssitaajuuteen
+03025D - piirin kelan induktanssin suuruuteen
+03026 % Paristoja kytketään rinnan
+03026A - ennenaikaisen kuivumisen estämiseksi
+03026B - kytkennästä saatavan jännitteen lisäämiseksi
+03026C + sisäisen resistanssin vähentämiseksi
+03026D + virranantokyvyn lisäämiseksi
+03026E - asiattoman käytön estämiseksi
+03028 % Paristoja kytketään rinnan
+03028A + kytkennän virranantokyvyn lisäämiseksi
+03028B - kytkennästä saatavan jännitteen lisäämiseksi
+03028C + sisäisen resistanssin vähentämiseksi
+03028D - säilyvyyden parantamiseksi
+03029 % Jos kolme samanlaista akkua kytketään rinnan, kolminkertaistuu
+03029A - näin muodostuneen akuston sisäinen resistanssi
+03029B - kytkennän jännite
+03029C + kytkennän wattituntimäärä
+03029D + kytkennän ampeerituntimäärä
+03030 % Jos kolme samanlaista akkua kytketään rinnan, kolminkertaistuu
+kytkennän
+03030A + wattituntimäärä
+03030B - jännite
+03030C + ampeerituntimäärä
+03030D + vaatima latausenergia
+03031 % Jos kaksi samanlaista akkua kytketään rinnan, kaksinkertaistuu
+kytkennän
+03031A - jännite
+03031B + ampeerituntimäärä
+03031C + wattituntimäärä
+03031D - sisäinen resistanssi
+03032 % Jos kaksi samanlaista akkua kytketään rinnan, kaksinkertaistuu
+kytkennän
+03032A + wattituntimäärä
+03032B - sisäinen resistanssi
+03032C - jännite
+03032D + ampeerituntimäärä
+
+--- Page 29 ---
+Sivu 29 / 64
+03033 % Paristoja kytketään sarjaan
+03033A - kytkennän virranantokyvyn lisäämiseksi
+03033B + kytkennästä saatavan jännitteen lisäämiseksi
+03033C - sisäisen resistanssin vähentämiseksi
+03033D - säilyvyyden parantamiseksi
+03033E - asiattoman käytön estämiseksi
+03035 % Jos kaksi samanlaista akkua kytketään sarjaan, kaksinkertaistuu
+kytkennän
+03035A + jännite
+03035B - ampeerituntimäärä
+03035C + wattituntimäärä
+03035D + sisäinen resistanssi
+03036 % Jos kolme samanlaista akkua kytketään sarjaan, kolminkertaistuu
+kytkennän
+03036A - ampeerituntimäärä
+03036B + varaamiseen vaadittava energia
+03036C + wattituntimäärä
+03036D + jännite
+03037 % Jos kymmenen samanlaista akkua kytketään sarjaan,
+kymmenkertaistuu kytkennän
+03037A - ampeerituntimäärä
+03037B + varaamiseen vaadittava energia
+03037C + wattituntimäärä
+03037D + jännite
+03038 % Tarvitset 12 V 100 Ah akun. Tällainen akku on
+03038A + 10 kpl 1,2 V 100 Ah akkua sarjassa
+03038B - 12 kpl 12 V 1,0 Ah akkua rinnan
+03038C - 3 kpl 100 V 3,6 Ah akkua sarjassa
+03038D - 3 kpl 3,6 V 100 Ah akkua rinnan
+03039 % Tarvitset 24 V 100 Ah akun. Tällainen akku on
+03039A - 6 kpl 100 V 3,6 Ah akkua sarjassa
+03039B - 6 kpl 3,6 V 100 Ah akkua rinnan
+03039C + 20 kpl 1,2 V 100 Ah akkua sarjassa
+03039D - 20 kpl 12 V 1,0 Ah akkua rinnan
+03040 % Rakentelussa tarvitaan noin 1500 pF kapasitanssi. Tällaisen saa
+kytkemällä
+03040A - kaksi 3000 pF kondensaattoria rinnan
+03040B - neljä 390 pF kondensaattoria sarjaan
+03040C + 3300 pF, 5600 pF ja 5600 pF kondensaattorit sarjaan
+03040D + kolme 470 pF kondensaattoria rinnan
+03041 % Tarvitsemme noin 23,5 nF kapasitanssin. Sellaisen saamme
+kytkemällä
+03041A + kaksi 47 nF kondensaattoria sarjaan
+03041B - kaksi 12 nF kondensaattoria sarjaan
+03041C - neljä 4,7 nF kondensaattoria rinnan
+03041D + kuusi 3900 pF kondensaattoria rinnan
+
+--- Page 30 ---
+Sivu 30 / 64
+03042 % 330 pF ja 5600 pF kondensaattorit on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03042A - 5930 pF
+03042B - 5270 pF
+03042C + 312 pF
+03042D - 17 pF
+03043 % Viisi 560 pF kondensaattoria on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03043A - 14000 pF
+03043B - 2800 pF
+03043C + 112 pF
+03043D - 22 pF
+03044 % Kolme 390 pF kondensaattoria on kytketty rinnan.
+Kokonaiskapasitanssi on
+03044A + 1170 pF
+03044B - 780 pF
+03044C - 390 pF
+03044D - 130 pF
+03045 % Viisi 390 pF kondensaattoria on kytketty rinnan.
+Kokonaiskapasitanssi on
+03045A - 3900 pF
+03045B + 1950 pF
+03045C - 390 pF
+03045D - 78 pF
+03046 % Tarvitset noin 500 pF kapasitanssin, jonka kokoat useista
+kondensaattoreista. Sellaisen saat kytkemällä
+03046A - kaksi 1000 pF kondensaattoria rinnan
+03046B - kaksi 270 pF kondensaattoria sarjaan
+03046C - viisi 5000 pF kondensaattoria sarjaan
+03046D + kolme 150 pF kondensaattoria rinnan
+03047 % 220, 390 ja 470 pF kondensaattorit on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03047A - 1080 pF
+03047B - 340 pF
+03047C + 108 pF
+03047D - 73 pF
+03048 % 560 pF ja 5600 pF kondensaattorit on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03048A - 6160 pF
+03048B - 5040 pF
+03048C + 509 pF
+03048D - 10 pF
+03049 % 56 pF, 560 pF ja 5600 pF kondensaattorit on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03049A - 17 pF
+03049B + 50 pF
+03049C - 2072 pF
+03049D - 6216 pF
+
+--- Page 31 ---
+Sivu 31 / 64
+03050 % 47 pF, 470 pF ja 4700 pF kondensaattorit on kytketty sarjaan.
+Kokonaiskapasitanssi on
+03050A - 12 pF
+03050B - 22 pF
+03050C + 42 pF
+03050D - 5217 pF
+03051 % Pariston napoihin kytketyn 2,2 kilo-ohmin vastuksen läpi kulkee
+4,1 mA virta. Pariston jännite on
+03051A - 15 V
+03051B - 12 V
+03051C + 9 V
+03051D - 4,5 V
+03052 % Virtalähteen napoihin kytketyn 1 kilo-ohmin vastuksen läpi
+kulkee 99 mA virta. Pariston jännite
+03052A + 99 V
+03052B - 11 V
+03052C - 9,9 V
+03052D - 0,99 V
+03053 % 6 V akun sisäinen resistanssi on 0,02 ohmia. Akkua kuormitetaan
+1 ohmin vastuksella. Jännite vastuksen navoissa on
+03053A - 6,12 V
+03053B + 5,88 V
+03053C - 4,26 V
+03053D - 0,12 V
+03054 % 12 V akun sisäinen resistanssi on 0,03 ohmia. Akkua kuormitetaan
+3 ohmin vastuksella. Jännite vastuksen navoissa on
+03054A - 0,12 V
+03054B - 3,96 V
+03054C + 11,88 V
+03054D - 12,12 V
+03055 % 24 V akun sisäinen resistanssi on 0,06 ohmia. Akkua kuormitetaan
+6 ohmin vastuksella. Jännite vastuksen navoissa on
+03055A - 24,23 V
+03055B - 3,96 V
+03055C + 23,76 V
+03055D - 0,24 V
+03056 % Kytkennässä on 24 V akku, jonka sisäinen resistanssi on 0,06
+ohmia, ja kaksi 3 ohmin vastusta, kaikki sarjassa. Jännite yhden
+vastuksen navoissa on
+03056A - 24,23 V
+03056B - 23,76 V
+03056C + 11,88 V
+03056D - 0,24 V
+
+--- Page 32 ---
+Sivu 32 / 64
+04000 * Vastaanottimet
+04001 % Vastaanotin voi olla toimintatavaltaan
+04001A + suora vastaanotin
+04001B + suorasekoitusvastaanotin
+04001C + supervastaanotin
+04001D + kaksoissupervastaanotin
+04001E + kolmoissupervastaanotin
+04002 % Suurtaajuusvahvistinosan tehtävänä vastaanottimessa on
+04002A + vahvistaa antennisignaalia
+04002B + vaimentaa peilitaajuuksia
+04002C - erottaa äänitaajuussignaali suurtaajuudesta
+04002D + parantaa vastaanottimen signaalikohinasuhdetta
+04003 % Sekoittimen tehtävänä supervastaanottimessa voi olla
+04003A + muodostaa välitaajuus
+04003B - sekoittaa peilitaajuus oskillaattoritaajuuteen
+04003C + muodostaa oskillaattorin ja antennisignaalin summataajuus
+04003D + muodostaa oskillaattorin ja antennisignaalin erotustaajuus
+04004 % Välitaajuusvahvistimen tehtävänä supervastaanottimessa on
+04004A + vahvistaa välitaajuudella olevaa signaalia
+04004B + leikata välitaajuuden ulkopuoliset taajuudet pois
+04004C - vahvistaa antennisignaalia
+04004D - poistaa suurtaajuus äänitaajuudesta
+04005 % Ilmaisimen tehtävänä vastaanottimessa on
+04005A - vahvistaa suurtaajuista signaalia
+04005B + erotella äänitaajuussignaali suurtaajuudesta
+04005C - vahvistaa välitaajuussignaalia
+04005D - ilmoittaa, jos vastaanotin on rikki
+04006 % Pientaajuusvahvistimen tehtävänä vastaanottimessa on
+04006A + syöttää äänitaajuista tehoa kaiuttimeen ja kuulokkeisiin
+04006B + vahvistaa ilmaistua äänitaajuutta
+04006C - muuttaa pientaajuusvahvistimelta tulevat jännitevaihtelut
+kuultavaksi ääneksi
+04006D - vaimentaa välitaajuusvahvistimelta tulevat signaalit
+04007 % Peilitaajuinen signaali on
+04007A - suorassa vastaanottimessa esiintyvä haittatekijä
+04007B + vastaanotettavasta signaalista kaksinkertaisen välitaajuuden
+päässä oskillaatoritaajuuden toisella puolen
+04007C + poistettavissa jo suurtaajuusvahvistimessa
+04007D - tarpeellinen sekoittimen toiminnan kannalta
+04008 % Pitää paikkansa, että
+04008A + suora vastaanotin on periaatteltaan yksinkertainen
+04008B + kidekone on suora vastaanotin
+04008C + suora vastaanotin voi värähdellä niin voimakkaasti, että siitä
+tulee lähetin
+04008D + kaksoissuperissa voi esiintyä ylimääräisiä vihellyksiä
+
+--- Page 33 ---
+Sivu 33 / 64
+04009 % Sekoitusperiaatteella toimivaa ilmaisua voidaan käyttää
+04009A + suorasekoitusvastaanottimessa
+04009B + ilmaistaessa supervastaanottimella A1A-lähetettä
+apuoskillaattorin ja välitaajuuden sekoituksen tuloksena
+04009C - suorassa vastaanottimessa puheen ilmaisuun
+04009D - kaksoissupervastaanottimessa F3E-lähetteen ilmaisuun
+04010 % Suoran vastaanottimen etu supervastaanottimeen nähden on
+04010A + rakenteen halpuus
+04010B - FM-lähetteen ilmaisun yksinkertaisuus
+04010C - suurempi valintatarkkuus
+04010D - parempi kipinähäiriöiden sietokyky
+04011 % Supervastaanottimessa pientaajuinen informaatio erotetaan
+suurtaajuisesta signaalista
+04011A - sekoittimessa
+04011B - apuoskillaattorissa
+04011C - välitaajuusvahvistimessa
+04011D - paikallisoskillaattorissa
+04011E + ilmaisimessa
+04012 % Signaalin vahvistaminen supervastaanottimessa
+tapahtuu pääasiassa
+04012A - pientaajuusvahvistimessa
+04012B - sekoittimessa
+04012C + suurtaajuusvahvistimessa
+04012D – ilmaisimessa
+04013 % Herkkyydellä tarkoitetaan vastaanottimen yhteydessä
+04013A - vastaanottimen kykyä sietää häiriöitä
+04013B - vastaanottimen peilitaajuusvaimennusta
+04013C + vastaanottimen kykyä ottaa vastaan heikkoja signaaleja
+04013D - vastaanottimen ristimodulaatiosietoa
+04014 % Käytettäessä supervastaanottimessa alhaista välitaajuutta on
+vastaanottimelle ominaista
+04014A + huono peilitaajuusvaimennus
+04014B - hyvä peilitaajuusvaimennus
+04014C + pieni peilitaajuusvaimennus
+04014D - suuri peilitaajuusvaimennus
+04015 % Käytettäessä supervastaanottimessa korkeaa välitaajuutta
+vastaanottimelle on ominaista
+04015A - huono peilitaajuusvaimennus
+04015B + hyvä peilitaajuusvaimennus
+04015C - pieni peilitaajuusvaimennus
+04015D + suuri peilitaajuusvaimennus
+04016 % Supervastaanottimessa suurtaajuisen signaalin muuttaminen
+välitaajuiseksi tehdään
+04016A + sekoittimen ja paikallisoskillaattorin avulla
+04016B - ilmaisimella
+04016C - pientaajuusvahvistimella ja apuoskilllaattorilla
+04016D - vasta kuulokkeissa
+
+--- Page 34 ---
+Sivu 34 / 64
+04017 % Supervastaanottimessa käytetään kidesuodinta
+04017A + hyvän selektiivisyyden aikaansaamiseksi
+04017B + paremman valintatarkkuuden aikaansaamiseksi
+04017C + välitaajuusasteessa
+04017D - kidesuotimen halpuuden vuoksi
+04018 % Hyvän HF-vastaanottimen ominaisuuksia on
+04018A + herkkyys
+04018B - alhainen peilitaajuusvaimennus
+04018C + suuri peilitaajuusvaimennus
+04018D - matala ensimmäinen välitaajuus
+04019 % Yksinkertainen vastaanotintyyppi on
+04019A - kaksoissuperheterodynevastaanotin
+04019B - superheterodynevastaanotin
+04019C - suorasekoitusvastaanotin
+04019D + suora vastaanotin
+04019E + kidekone
+04020 % Selektiivisyydellä tarkoitetaan vastaanottimen
+04020A - herkkyyttä
+04020B - hyötysuhdetta
+04020C + kykyä erotella haluttu signaali muista läheisistä signaaleista
+04020D – häiriönsietokykyä
+04021 % Superheterodynevastaanottimessa pientaajuusvahvistimen tehtävä
+on
+04021A - suorittaa sekoitus halutulle taajuudelle
+04021B + vahvistaa pientaajuinen signaali kuulokkeille sopivaksi
+04021C - estää paikallisoskillaattoritaajuuden sekoittuminen
+välitaajuuteen
+04021D - rajoittaa tarpeetonta suurtaajuusvahvistusta
+04022 % Supervastaanottimessa on
+04022A + suurtaajuusaste
+04022B + välitaajuusaste
+04022C + pientaajuusaste
+04022D + ilmaisin
+04023 % Suorassa vastaanottimessa voi olla
+04023A + suurtaajuusaste
+04023B + ilmaisin
+04023C - välitaajuusaste
+04023D + pientaajuusaste
+04024 % Suoralle vastaanottimelle on ominaista
+04024A - suuri välitaajuus
+04024B - hyvä selektiivisyys
+04024C + yksinkertainen rakenne
+04024D + suurtaajuuden ilmaiseminen pientaajuudeksi ilman välitaajuusosaa
+04025 % AM lähetteen vastaanottoon tarvitaan
+04025A - balansoitu sivukaistanestosuodin
+04025B - sopiva VFO
+04025C + verhokäyräilmaisin
+04025D - sekoitin ja siihen liittyvä sekoitussuodatin
+
+--- Page 35 ---
+Sivu 35 / 64
+04026 % Supervastaanottimessa olevan sekoittimen tehtävänä on
+04026A - salata vastaanotettava signaali
+04026B + muodostaa vastaanotettavasta ja paikallisoskillaattorin
+signaalista välitaajuinen signaali
+04026C - poistaa kohina vastaanotettavasta signaalista
+04026D + muuntaa vastaanotettava signaali välitaajuudelle
+04027 % Supervastaanottimessa olevan välitaajuussuodattimen tehtävänä on
+04027A + määrätä vastaanottimen kaistaleveys
+04027B - määrätä vastaanottimen taajuusalue
+04027C - määrätä vastaanottimen herkkyys
+04027D - poistaa välitaajuus vastaanottimesta
+04028 % Supervastaanottimissa on aina
+04028A - peilitaajuusvahvistin
+04028B + välitaajuusaste
+04028C + ainakin yksi sekoitin
+04028D - itsevärähtelevä pientaajuusoskillaattori
+04029 % Supervastaanottimessa voi välitaajuuksia olla
+04029A - ei yhtään
+04029B + yksi
+04029C + kaksi
+04029D + kolme
+04030 % On totta, että
+04030A + konvertteri on periaatteeltaan sekoitin
+04030B + rengasmodulaattoria voidaan käyttää SSB-vastaanottimen
+ilmaisimena
+04030C - superi on lyhennys sanoista superregeneratiivinen vastaanotin
+04030D + yleisin nykyisin käytössä oleva vastaanotintyyppi on
+superheterodyne
+04031 % Vastaanottimen valintatarkkuus
+04031A + on sama kuin selektiivisyys
+04031B + on suoralla vastaanottimella usein huono
+04031C + riippuu superissa pääasiassa välitaajuusvahvistimessa olevasta
+suodattimesta
+04031D - huononee, kun antennista tuleva kohina kasvaa
+04032 % Supervastaanottimessa
+04032A - ensimmäisen välitaajuuden on oltava suurempi kuin suurin
+vastaanotettava taajuus
+04032B + voidaan käyttää Q-kertojaa valintatarkkuuden parantamiseen
+04032C - on aina kidesuodatin välitaajuusvahvistimessa
+04032D + ei välttämättä tarvita suurtaajuusvahvistinta
+04033 % Suorassa vastaanottimessa
+04033A + voidaan käyttää Q-kertojaa valintatarkkuuden parantamiseen
+04033B + ei ole välitaajuusvahvistinta
+04033C + valintatarkkuus HF-alueella on huono
+04033D + voidaan käyttää diodi-ilmaisinta
+
+--- Page 36 ---
+Sivu 36 / 64
+04034 % Supervastaanotin on aina varustettu
+04034A - digitaalisella taajuusnäytöllä
+04034B + sekoittimella
+04034C + ilmaisimella
+04034D + oskillaattorilla
+04035 % Vastaanottimessa tarvitaan sekoitinta
+04035A + taajuuksien summaamista tai erottamista varten
+04035B + välitaajuuksien muodostamista varten
+04035C - apuvärähtelyjen synnyttämiseksi
+04035D - logaritmisen voimakkuussäädön linearisoimiseksi
+04036 % Supervastaanottimessa tarvittava paikallisoskillaattoritaajuus
+voidaan kehittää
+04036A - ilmaisimella
+04036B + kideoskillaattorilla
+04036C + Colpitts-oskillaattorilla
+04036D + taajuussynteesillä
+04037 % Supervastaanottimeen kuuluu
+04037A + ilmaisin
+04037B + sekoitin
+04037C - katalysaattori
+04037D + oskillaattori
+04038 % Supervastaanottimessa
+04038A + antennisignaali sekoitetaan toiselle taajuudelle,
+välitaajuudelle
+04038B + ilmaisu tapahtuu välitaajuudella
+04038C - välitaajuutta on säädettävä käytön aikana
+04038D + on säädettävä paikallisoskillaattori
+04039 % Supervastaanottimen lohkokaavion osa voi olla
+04039A - balansoitu modulaattori
+04039B + pientaajuussuodin
+04039C + 2. suurtaajuusvahvistin
+04039D + välitaajuusvahvistin
+04040 % Vastaanottimen ilmaisimen tehtävänä on
+04040A - kehittää sekoituksessa tarvittava taajuus
+04040B + erottaa pientaajuiset signaalit suurtaajuisista
+04040C - ilmaista vastaanottimen vikatilanne kuuluvalla äänimerkillä
+04040D - ilmaista vastaanotetun lähetteen lähetelaji merkkivalolla
+04041 % Vastaanottimen sekoittimen tehtävänä on
+04041A - kehittää sekoituksessa tarvittava taajuus
+04041B + sekoittaa kaksi suurtaajuutta niin, että aikaansaadaan haluttu
+välitaajuus
+04041C - sekoittaa vastaanottimeen tulevat häiriöt niin, että ne eivät
+enää vaikuta vastaanottoon
+04041D - suodattaa pois taajuudeltaan liian läheltä kuuluvat häiritsevät
+asemat
+
+--- Page 37 ---
+Sivu 37 / 64
+04042 % Supervastaanottimen välitaajuus on 5,345 MHz ja haluttu
+signaalitaajuus on 7 MHz. Paikallisoskillaattorin taajuus voi
+olla
+04042A + 12,345 MHz
+04042B - 8,845 MHz
+04042C + 1,655 MHz
+04042D - 470 kHz
+04043 % Supervastaanottimen välitaajuus on 18,0 MHz ja antennista tuleva
+signaalitaajuus 432,100 MHz. Paikallisoskillaattorin taajuus voi
+olla
+04043A - 470 kHz
+04043B - 9,100 MHz
+04043C + 414,100 MHz
+04043D + 450,100 MHz
+04044 % Supervastaanottimen paikallisoskillaattorin taajuus on 450,100
+MHz ja antennista tuleva signaalitaajuus 432,100 MHz.
+Välitaajuus voi olla
+04044A - 470 kHz
+04044B - 9,100 MHz
+04044C - 10,700 MHz
+04044D + 18,000 MHz
+04045 % Supervastaanottimen välitaajuus on 9 MHz ja kuunneltava
+signaalitaajuus 14,110 MHz. Paikallisoskillaattorin taajuus voi
+olla
+04045A - 470 kHz
+04045B + 5,110 MHz
+04045C - 9,0 MHz
+04045D + 23,110 MHz
+04046 % Supervastaanottimen välitaajuus on 5,345 MHz ja antennista
+tuleva signaalitaajuus 3,5 MHz. Paikallisoskillaattorin
+mahdollinen taajuus voi olla
+04046A - 10,690 MHz
+04046B + 8,845 MHz
+04046C - 7,0 MHz
+04046D + 1,845 MHz
+04047 % Supervastaanottimen välitaajuus on 470 kHz ja kuunneltava
+signaalitaajuus 3,510 MHz. Paikallisoskillaattorin taajuus voi
+olla
+04047A + 3,980 MHz
+04047B + 3,040 MHz
+04047C - 9,002 MHz
+04047D - 18,0 MHz
+05000 * Lähettimet
+05001 % On totta, että
+05001A - SSB-modulointi aikaansaadaan tavallisesti sähkötysavaimella
+05001B + balansoitua modulaattoria voidaan käyttää SSB-moduloinnissa
+05001C + yksinkertainen morseavainnus saadaan katkomalla oskillaattorin
+käyttöjännitettä
+05001D + taajuudenmuutos 3,5 MHz:sta 7 MHz:iin saadaan taajuuden
+kahdennusasteella
+
+--- Page 38 ---
+Sivu 38 / 64
+05002 % Lähettimen
+05002A - VFO:n on aina oltava samalla taajuudella pääteasteesta lähtevän
+signaalin kanssa
+05002B + sekoittimessa saatu taajuus voi olla sekoitettavien taajuuksien
+summa tai erotus
+05002C + sekoittimessa syntyy aina myös ei-toivottuja taajuuksia
+05002D - pääteasteen ulostulopiiri voi olla viritettynä lähtötaajuuden
+puolikkaalle tai toiselle harmoniselle ilman suurempaa
+vaikutusta lähtötehoon
+05003 % Tavalliseen kideohjattuun lähettimeen kuuluu
+05003A + pääteaste
+05003B - ilmaisin
+05003C - välitaajuusvahvistin
+05003D + kideoskillaattori
+05004 % Tavalliseen kideohjattuun sähkötyslähettimeen voi kuulua
+05004A - apuoskillaattori
+05004B + kertoja-aste
+05004C - esivahvistin
+05004D + alipäästösuodin
+05005 % Tavalliseen kideohjattuun sähkötyslähettimeen voi kuulua
+05005A + pääteaste
+05005B + kertoja-aste
+05005C - välitaajuusvahvistin
+05005D + kideoskillaattori
+05006 % Tavalliseen kideohjattuun lähettimeen voi kuulua
+05006A + kideoskillaattori
+05006B - AVS-piiri
+05006C - sekoitin
+05006D + virtalähde
+05007 % Alipäästösuodinta tarvitaan lähettimessä
+05007A - estämään kaikenlaisten suurtaajuuksien pääsy antenniin
+05007B + häiriöiden ehkäisyyn
+05007C – haluttaessa liittää samaan antenniin myös vastaanotin
+05007D - palauttamaan kaikki liian pienet tehot takaisin vahvistimeen
+uudelleenvahvistettaviksi
+05008 % Tavalliseen kideohjattuun sähkötyslähettimeen kuuluu
+05008A - esivahvistin
+05008B - sekoitin
+05008C + kideoskillaattori
+05008D - FM-ilmaisin
+05009 % Lähettimen kideoskillaattori
+05009A + tuottaa kiinteätaajuisen suurtaajuussignaalin
+05009B + soveltuu yhdessä avainnuspiirin kanssa pienitehoiseksi
+lähettimeksi
+05009C - estää harmonisten taajuuksien pääsyn antenniin
+05009D + voi toimia taajuuden kahdentajana tai kolmentajana
+
+--- Page 39 ---
+Sivu 39 / 64
+05010 % Lähettimen kideoskillaattori
+05010A - vahvistaa kertoja-asteessa tuotetun radiosignaalin
+05010B + tuottaa lähettimen radiotaajuisen signaalin
+05010C - muodostaa SSB-lähettimessä ylemmän tai alemman sivukaistan
+05010D - estää lähetyksen luvattoman vastaanottamisen
+05011 % Lähettimen kideoskillaattorin taajuus
+05011A - on vapaasti säädettävissä oskillaattoriin kuuluvalla
+säätökondensaattorilla
+05011B + on kiinteä
+05011C - siirtyy vastaanottimen VFO:n mukaisesti
+05011D - vaihtelee sähkötysnopeuden mukaan
+05012 % Lähettimen kertoja-aste
+05012A - muodostaa lähettimen perustaajuuden
+05012B + toimii sisään syötetyn taajuuden kahdentajana tai kolmentajana
+05012C - estää harmonisten taajuksien pääsyn antennipiiriin
+05012D + kertoo oskillaattorin perustaajuuden halutulle taajuusalueelle
+05013 % Lähettimen päätevahvistin
+05013A - vaimentaa antennisignaalin vastaanottimelle sopivaksi
+05013B + vahvistaa pientehoisia suurtaajuussignaaleja
+05013C - värähtelee lähetystaajuudella
+05013D + vahvistaa lähettimessä muodostettu suurtaajuussignaali
+05014 % Lähettimen alipäästösuodin
+05014A - estää liian matalien taajuuksien pääsyn antenniin
+05014B - muodostaa lähetystaajuuden
+05014C + estää liian suurien taajuuksien pääsyn antenniin
+05014D - estää virityksen aikana syntyneiden suurtaajuuksien pääsyn
+antenniin
+05015 % Lähettimessä oleva piisuodin
+05015A + voi toimia pääteasteen virityspiirinä
+05015B + voi sovittaa pääteasteen impedanssin syöttöjohdon impedanssiin
+05015C - sovittaa pääasiassa syöttöjohdon ja antennin impedanssit
+toisiinsa
+05015D - suodattaa lähettimessä syntyvät haitalliset piikiteet
+05016 % SSB-lähettimen pääteaste
+05016A - asetetaan toimimaan C-luokassa
+05016B - asetetaan toimimaan vain puheen moduloidessa kantoaaltoa
+05016C + vaatii lineaarisen vahvistinasteen
+05016D - on edullista jättää ilman biasointia (esijännitettä tai -virtaa)
+05017 % Lähettimeen saattaa kuulua
+05017A + taajuussynteesi
+05017B - apuoskillaattori
+05017C + erotusvahvistin
+05017D + VFO eli säädettävä oskillaattori
+05018 % Lähettimen osana voi olla
+05018A + balanssimodulaattori
+05018B + sekoitin
+05018C + taajuuskertoja
+05018D - herkkä RF-etuaste
+
+--- Page 40 ---
+Sivu 40 / 64
+05019 % Sähkötyslähettimeen (A1A) saattaa kuulua
+05019A + taajuuden kertoja
+05019B - modulaattori
+05019C - apuoskillaattori
+05019D - sähkötyssummeri
+05019E + erotusvahvistin
+05020 % Tehovahvistimen toiminta C-luokassa
+05020A - rajoittaa lähettimen käytön perusluokkaan
+05020B - tarkoittaa Sähkötarkastuskeskuksen määrittelemää vahvistimen
+kotelon suojausluokkaa
+05020C + määrittelee vahvistimen toimintapisteen ominaiskäyrällä
+05020D - kertoo, että vahvistamista tapahtuvan sisäänmenosignaalin
+kummankin puolijakson aikana
+05021 % Tehovahvistimen toiminta A-luokassa
+05021A - tarkoittaa Sähkötarkastuskeskuksen määrittelemää vahvistimen
+kotelon suojausluokkaa
+05021B - oikeuttaa käyttämään lähetintä vain yleisluokassa
+05021C + määrittelee vahvistimen toimintapisteen ominaiskäyrällä
+05021D + kertoo, että vahvistamista tapahtuvan sisäänmenosignaalin
+kummankin puolijakson aikana
+05022 % Tehovahvistimen toiminta B-luokassa
+05022A - oikeuttaa käyttämään lähetintä vain teknillisessä luokassa
+05022B + määrittelee vahvistimen toimintapisteen ominaiskäyrällä
+05022C + kertoo, että vahvistamista tapahtuvan vain sisäänmenosignaalin
+toisen puolijakson aikana
+05022D - tarkoittaa Sähkötarkastuskeskuksen määrittelemää vahvistimen
+kotelon suojausluokkaa
+05023 % Lähettimen kideohjaus
+05023A - pitää lähettimen tehon sallituissa rajoissa
+05023B + helpottaa oikeiden taajuusrajojen sisällä pysymistä
+05023C - poistaa avainiskut (clicks) A1A-lähetteestä
+05023D - auttaa ulkomaisten asemien löytämisessä
+05024 % Lähettimen modulaattori
+05024A - parantaa lähettimen taajuusvakavuutta
+05024B + liittää pientaajuisen informaation kantoaaltoon
+05024C - ilmaisee lähetteessä olevan pientaajuisen signaalin
+05024D - vahvistaa radiotaajuista lähetettä
+05025 % 21 MHz sähkötyslähettimen lohkokaavioon kuuluu
+05025A - etuvahvistin
+05025B - sekoitin
+05025C + päätevahvistin
+05025D + säädettävä oskillaattori
+06000 * Antennit ja syöttöjohdot
+06001 % Rakennat 70 cm alueen antennia. Neljännesaallon GP-antennin
+06001A + säteilijän pituus on noin 17 cm
+06001B - syöttökaapeliksi sopii parhaiten 240 ohmin nauhajohto eli
+lapamato
+06001C - säteilijän pituus on noin 36cm
+06001D + syöttökaapeliksi sopii parhaiten 50 ohmin koaksiaalikaapeli
+
+--- Page 41 ---
+Sivu 41 / 64
+06002 % Keski-Suomessa sijaitsevalle radioamatööriasemalle rakennetaan
+80 m puoliaaltodipoli. Jotta se toimisi parhaiten kotimaan
+yhteyksissä,
+06002A - sen kokonaispituus on noin 21 m
+06002B + se on asennettava niin, että dipolin päät osoittavat
+itä-länsisuuntaan
+06002C + sen kokonaispituus on noin 42 m
+06002D - se on asennettava niin, että dipolin päät osoittavat
+pohjois-eteläsuuntaan
+06003 % Haluat autoantennin toimivan yhtä hyvin joka suuntaan. Siksi
+valitset autokäyttöön
+06003A + 5/8 aallon vertikaalin
+06003B + 1/4 aallon vertikaalin
+06003C - 1/2 aallon vaakadipolin
+06003D - kokoaallon silmukan (quad) vaakatasossa
+06004 % Olet kiinnostunut pitkistä yhteyksistä 70 cm alueella.
+Erinomainen valinta antennia rakennettaessa on
+06004A - GP, koska sillä on matala lähtökulma
+06004B + pitkäpuominen yagiantenni
+06004C - lyhytpuominen yagiantenni
+06004D + paksu vähähäviöinen 50 ohmin koaksiaalikaapeli
+06005 % On totta, että
+06005A + koaksiaalin häviöt vähenevät, kun välieristeenä toimiva muovi
+varustetaan ilmaonteloilla.
+06005B - käytettäessä pientä tehoa 70 cm alueella on valittava ohut
+koaksiaali, koska siihen jää vähiten häviötehoa
+06005C + koaksiaalikaapelin vaipan alta tihkuva vesi kertoo kaapelin
+olevan käyttökelvotonta 433 MHz:llä
+06005D + avolinjassa on vähemmän häviöitä kuin koaksiaalikaapelissa,
+mutta sen käyttö on huomattavasti vaikeampaa VHF- ja UHF-
+taajuuksilla
+06006 % Mittaat 432 MHz antennikaapelin alapään seisovan aallon
+suhteeksi (SWR) 1,2. Koaksiaalikaapelin vaimennus on 6 dB.
+Toteat, että
+06006A - antennijärjestelmä on kunnossa
+06006B + SAS antennin puoleisessa päässä on liian suuri eli antenni on
+huonosti sovitettu antennikaapeliin
+06006C - voit parantaa antennin huonon sovituksen antenninviritys-
+laitteella, joka on antennikaapelin lähettimen puoleisessa
+päässä
+06006D + antenni on syytä sovittaa antennikaapeliin
+06007 % Jos aallonpituus on 3,00 m, taajuusalue on
+06007A - 50,0 MHz
+06007B - 145 MHz
+06007C - 432 MHz
+06007D + 100 MHz
+
+--- Page 42 ---
+Sivu 42 / 64
+06008 % Kun mitoitat antennia kutsutaajuudelle 433,500 MHz, aallonpituus
+on
+06008A - 1,45 m
+06008B + 0,69 m
+06008C - 14,5 m
+06008D - 6,90 m
+06008E + 69 cm
+06009 % Suunta-antennin etu-takasuhde on
+06009A + maksimisuuntaan säteilevän tehon suhde vastakkaiseen suuntaan
+säteilevään tehoon
+06009B - kaksielementtisessä antennissa suuntaajan pituuden suhde
+säteilijän pituuteen
+06009C - antennin sieppauspinta-ala jaettuna seisovan aallon suhteella
+06009D - vertikaalipolarisaation suhde pystypolarisaatioon
+06010 % Jos antennisi seisovan aallon suhde on mielestäsi suuri,
+06010A + tarkista, onko syynä sovitusvirhe
+06010B + tarkista, onko syynä asennusvirhe
+06010C + mieti, onko mittaus tehty oikein
+06010D - vaimenna ylimääräiset seisovat aallot avolinjaan asetetulla
+märällä rätillä
+06011 % 52, 60 ja 75 ohmin koaksiaalikaapelin ominaisimpedanssi mitataan
+06011A - yleismittarilla
+06011B - metrinmitalla
+06011C + SWR-mittarilla ja sopivilla vastuksilla
+06011D + LC-mittarilla
+06012 % Taajuutta 21 MHz vastaava amatöörialue on
+06012A - 20 m
+06012B + 15 m
+06012C - 10 m
+06012D - 80 m
+06013 % Taajuutta 28 MHz vastaava amatöörialue on
+06013A - 20 m
+06013B - 15 m
+06013C + 10 m
+06013D - 80 m
+06014 % Taajuutta 14 MHz vastaava amatöörialue on
+06014A + 20 m
+06014B - 15 m
+06014C - 10 m
+06014D - 80 m
+06015 % Taajuutta 3,5 MHz vastaava amatöörialue on
+06015A - 20 m
+06015B - 15 m
+06015C - 10 m
+06015D + 80 m
+
+--- Page 43 ---
+Sivu 43 / 64
+06016 % Taajuutta 7 MHz vastaava amatöörialue on
+06016A - 20 m
+06016B - 15 m
+06016C - 10 m
+06016D - 80 m
+06017 % Taajuutta 145 MHz vastaava amatöörialue on
+06017A + 2 m
+06017B - 6 m
+06017C - 70 cm
+06017D - 23 cm
+06018 % Taajuutta 50 MHz vastaava amatöörialue on
+06018A - 2 m
+06018B + 6 m
+06018C - 70 cm
+06018D - 23 cm
+06019 % Taajuutta 434 MHz vastaava amatöörialue on
+06019A - 2 m
+06019B - 6 m
+06019C + 70 cm
+06019D - 23 cm
+06020 % Taajuutta 1296 MHz vastaava amatöörialue on
+06020A - 2 m
+06020B - 6 m
+06020C - 70 cm
+06020D + 23 cm
+06021 % Aallonpituutta 40 m vastaava taajuusalue on
+06021A + 7 MHz
+06021B - 3,5 MHz
+06021C - 14 MHz
+06021D - 28 MHz
+06022 % Aallonpituutta 80 m vastaava taajuusalue on
+06022A - 7 MHz
+06022B + 3,5 MHz
+06022C - 14 MHz
+06022D - 28 MHz
+06023 % Aallonpituutta 20 m vastaava taajuusalue on
+06023A - 7 MHz
+06023B - 3,5 MHz
+06023C + 14 MHz
+06023D - 28 MHz
+06024 % Aallonpituutta 10 m vastaava taajuusalue on
+06024A - 7 MHz
+06024B - 3,5 MHz
+06024C - 14 MHz
+06024D + 28 MHz
+
+--- Page 44 ---
+Sivu 44 / 64
+06025 % Aallonpituutta 15 m vastaava taajuusalue on
+06025A - 7 MHz
+06025B - 3,5 MHz
+06025C - 14 MHz
+06025D - 28 MHz
+06026 % Aallonpituutta 6 m vastaava taajuusalue on
+06026A + 50 MHz
+06026B - 145 MHz
+06026C - 432 MHz
+06026D - 1296 MHz
+06027 % Aallonpituutta 2 m vastaava taajuusalue on
+06027A - 50 MHz
+06027B + 145 MHz
+06027C - 432 MHz
+06027D - 1296 MHz
+06028 % Aallonpituutta 70 cm vastaava taajuusalue on
+06028A - 50 MHz
+06028B - 145 MHz
+06028C + 432 MHz
+06028D - 1296 MHz
+06029 % Aallonpituutta 23 cm vastaava taajuusalue on
+06029A - 50 MHz
+06029B - 145 MHz
+06029C - 432 MHz
+06029D + 1296 MHz
+06030 % Taajuuden ollessa 21,2 MHz aallonpituus on
+06030A - 15,14 m
+06030B + 14,15 m
+06030C - 1,4 m
+06030D - 300 m/s
+06031 % Vaakasuoraan asennetun puoliaaltodipolin
+06031A - pääsäteily on päiden suuntainen
+06031B - syöttöpisteen impedanssi on noin 10 ohmia
+06031C + syöttöpisteen impedanssi on noin 70 ohmia
+06031D - vahvistus on sama kuin isotrooppisessa antennissa
+06032 % Seisovan aallon suhde on pieni, kun
+06032A - syöttöjohto on mahdollisimman vähähäviöistä
+06032B - antennin hyötysuhde on hyvä
+06032C - antennielementti on mahdollisimman paksu
+06032D + syöttöjohdon ja antennin impedanssit ovat samansuuruiset
+06033 % Kun lähetinantenniin valitaan syöttöjohtoa,
+06033A + koaksiaalikaapelissa kulkevalla teholla on merkitystä
+06033B - koaksiaalikaapelin vaimennus on vakio riippumatta taajuudesta
+06033C - koaksiaalikaapelin impedanssi on aina 50 ohmia
+06033D - koaksiaalikaapelin häviöt ovat aina pienemmät kuin
+avosyöttöjohdon
+
+--- Page 45 ---
+Sivu 45 / 64
+06034 % Taittodipolin
+06034A - käyttö on mahdollista vain VHF/UHF-taajuuksilla
+06034B + impedanssi on noin 300 ohmia
+06034C - impedanssi on noin 75 ohmia
+06034D - impedanssi ei muutu yagirakenteessa
+06035 % Puoliaaltodipoli
+06035A - toimii vain resonanssitaajuudella
+06035B - on sama kuin isotrooppinen antenni
+06035C + toimii kohtalaisen hyvin parittomilla harmonisillaan
+06035D + voi toimia myös vertikaaliasennossa
+06036 % Kokoaaltoantennin pituus on 21,43 m, joten vastaava
+06036A + taajuus on 14 MHz
+06036B - taajuus 21 MHz
+06036C - aallonpituus on 42,9 m
+06036D + aallonpituus on 21,4 m
+06037 % Kokoaaltoantennin pituus on 42,86 m, joten vastaava
+06037A - taajuus on 3,5 MHz
+06037B + taajuus on 7 MHz
+06037C + aallonpituus on 42,86 m
+06037D - aallonpituus on 85,71 m
+06038 % Neljännesaaltoantennin pituus on noin 52 cm, joten vastaava
+06038A + aallonpituus on 2,07 m
+06038B - aallonpituus on 69 cm
+06038C + taajuus on 144 MHz
+06038D - taajuus on 435 MHz
+06039 % Rakennat antennia 21 MHz taajuusalueelle. Oikea pituus on
+06039A - 21 m kokoaaltoantennilla
+06039B + 7,1 m puoliaaltodipolilla
+06039C - 6,5 m neljännesaaltodipolilla
+06039D + 3,6 m neljännesaaltoantennilla
+06040 % Maatasolla varustetun neljännesaaltoantennin pituus on 5,36 m,
+joten vastaava
+06040A + taajuus on 14 MHz
+06040B - taajuus on 10,5 MHz
+06040C - aallonpituus on 40 m
+06040D + aallonpituus on 20 m
+06041 % Rakennat antennia 432 MHz alueelle. Oikea pituus on
+06041A + 0,17 m neljännesaaltoantennilla
+06041B - 2,08 m puoliaaltodipolilla
+06041C + 0,69 m kokoaaltoantennilla
+06041D - 2,08 m kokoaaltoantennilla
+06042 % Olet tekemässä 432 MHz alueen puoliaaltodipolia. Antennin
+keskellä olevan syöttöpisteen impedanssi on noin
+06042A - 15 ohmia
+06042B + 75 ohmia
+06042C - 300 ohmia
+06042D - 600 ohmia
+
+--- Page 46 ---
+Sivu 46 / 64
+06043 % Käytettävissämme on 10,7 m pitkä alhaalta eristetty masto, joka
+on varustettu maatasolla. Masto voi toimia
+06043A - 21 MHz kokoaaltoantennina
+06043B - 14 MHz puoliaaltodipolina
+06043C + 7 MHz neljännesaaltoantennina
+06043D - 3,5 MHz neljännesaaltoantennina
+06044 % Kokoaaltoantennin pituus on 42,9 m, joten vastaava
+06044A - taajuus on 14 MHz
+06044B - taajuus on 21 MHz
+06044C + aallonpituus on 42,9 m
+06044D - aallonpituus on 21,4 m
+06045 % Rakennat 14 MHz antennia. Oikea pituus on
+06045A - 42,8 m kokoaaltoantennilla
+06045B + 21,4 m kokoaaltoantennilla
+06045C - 10,7 m neljännesaaltodipolilla
+06045D + 5,3 m neljännesaaltoantennilla
+06046 % Käytettävissämme on 42 m pitkä alhaalta eristetty masto, joka on
+varustettu maatasolla. Masto voi toimia
+06046A - 21 MHz kokoaaltoantennina
+06046B + 7 MHz kokoaaltoantennina
+06046C + 3,5 MHz puoliaaltoantennina
+06046D + 1,8 MHz neljännesaaltoantennina
+06047 % Rakennat 144 MHz antennia. Oikea pituus on
+06047A - 4,17 m kokoaaltoantennilla
+06047B - 3,40 m kokoaaltoantennilla
+06047C + 1,04 m puoliaaltodipolilla
+06047D + 0,52 m neljännesaaltoantennilla
+06048 % Rakennat 432 MHz antennia. Oikea pituus on
+06048A + 0,17 m neljännesaaltoantennilla
+06048B + 0,35 m puoliaaltodipolilla
+06048C - 2,08 m kokoaaltoantennilla
+06048D - 1,39 m kokoaaltoantennilla
+06049 % Rakennat antennia 28 MHz alueelle. Oikea pituus on
+06049A + 10,7 m kokoaaltoantennilla
+06049B - 28 m kokoaaltoantennilla
+06049C - 5,35 m neljännesaaltoantennilla
+06049D + 2,7 m neljännesaaltoantennilla
+06050 % Rakennat antennia 50 MHz alueelle. Oikea pituus on
+06050A + 6,0 m kokoaaltoantennilla
+06050B - 50 m kokoaaltoantennilla
+06050C - 6,0 m neljännesaaltoantennilla
+06050D - 1,7 m puoliaaltoantennilla
+06051 % Antennikaapelin alapäässä mitataan suuri seisovanaallon suhde.
+Seisovan aallon suhdetta voidaan pienentää
+06051A + parantamalla antennin sovitusta antennikaapeliin
+06051B - käyttämällä aina putkipääteastetta
+06051C - lisäämällä lähettimen tuuletusta
+06051D - parantamalla lähettimen sovitusta antennikaapeliin
+
+--- Page 47 ---
+Sivu 47 / 64
+07000 * Radioaaltojen eteneminen
+07001 % Radioaallot ovat
+07001A - ilmakehän painevaihtelua
+07001B + sähkömagneettista säteilyä
+07001C - äänitaajuista paineenvaihtelua
+07001D - paranormaaleja ilmiöitä
+07002 % Revontuli- eli aurorakelin vallitessa
+07002A + normaalia pidemmät VHF-yhteydet ovat mahdollisia
+07002B - F3E-lähetteen ymmärtäminen helpottuu erityisesti VHF:llä
+07002C + sähkötystä on helpompi ymmärtää kuin puhetta
+07002D - antenni on irrotettava vastaanottimesta
+07003 % Taajuuden kasvaessa yli 30 MHz
+07003A + radiolähete läpäisee helpommin ionosfäärin
+07003B + radiolähetteen etenemisominaisuudet lähestyvät valon
+ominaisuuksia
+07003C - radiolähete heijastuu helpommin ionosfääristä
+07003D + radiolähete soveltuu paremmin avaruusyhteyksiin
+07004 % Meteorisateiden aikana saavutettavat normaalia pidemmät
+yhteysvälit
+07004A + aiheutuvat radiolähetteen heijastumisesta meteorien jättämistä
+vanoista
+07004B - ovat hyödynnettävissä erityisesti 14 MHz ja sitä pienemmillä
+taajuuksilla
+07004C + ovat kestoltaan tyypillisesti muutaman sekunnin tai sekunnin
+osien pituisia
+07004D - lisäävät erityisesti toistinasemien käytettävyyttä
+07005 % HF-alueiden DX-yhteyksissä pyritään saamaan antennin lähtökulma
+matalalle, koska
+07005A - se pienentää seisovan aallon suhdetta antennissa
+07005B + etenemiseen tarvitaan vähemmän heijastumiskertoja maan ja
+ionosfäärin välillä
+07005C - antenni voidaan tällöin rakentaa osittain maan pinnan
+alapuolelle
+07005D - se pienentää lähettimen kuormitusta
+07006 % HF-alueen kaukoyhteyden syntymisessä olennainen tekijä on
+07006A + F-kerroksessa tapahtuva heijastuminen
+07006B - D-kerroksessa tapahtuva heijastuminen
+07006C - kuusta tapahtuva heijastuminen
+07006D - kanavoituminen kylmän meren yläpuolella
+07007 % HF-alueen kaukoyhteydet
+07007A + käyttävät hyväkseen radioaallon hyppyjä
+07007B - käyttävät samoja etenemismekanismeja kuin VHF-alueilla
+07007C + vaihtelevat käytetyn taajuusalueen ja kellonajan mukaan
+07007D - riippuvat etenemistien säätilasta
+07008 % 144 MHz:n alueen kaukoyhteyksiä mahdollistavat
+07008A - hypyt maanpinnan ja F-kerroksen välillä
+07008B - heijastumat avaruusromusta
+07008C + meteorisironnat
+07008D + revontulet
+
+--- Page 48 ---
+Sivu 48 / 64
+07009 % VHF-alueen kaukoyhteyksiä mahdollistavat
+07009A + amatöörisatelliitit
+07009B + maanpintaa lähellä olevan troposfäärin häiriöt
+07009C - VHF-alueen radioaaltojen taipuminen maanpinnan mukaisesti
+07009D - tulivuorenpurkausten ilmakehään syöksemät pölypilvet
+07010 % Kun tavoittelet kaukoyhteyksiä 144 MHz:n alueella, voit
+07010A + hyödyntää sporaadisen E:n aiheuttamaa heijastusta
+07010B + pitää EME-yhteyksiä
+07010C - hyödyntää F-kerroksen heijastumia
+07010D + hyödyntää erilaisia troposfäärisiä etenemismuotoja
+07011 % HF-alueen kaukoyhteydet muodostuvat yleensä
+07011A + heijastumista F-kerroksessa
+07011B - yhteyksistä revontuliheijastuman kautta
+07011C - troposfäärisenä etenemisenä
+07011D - kasvattamalla antennin lähtökulmaa
+07012 % VHF-alueen radioaaltojen etenemiseen voi vaikuttaa
+07012A + meteorisadepilvi
+07012B + välimaastoon sattuva metallinen masto
+07012C + vuorenrinne
+07012D + ionosfäärin E-kerroksen voimakas ionisoituminen
+07013 % Revontulet
+07013A + saattavat vaikuttaa VHF-alueen etenemiseen
+07013B - eivät vaikuta lainkaan radioaaltoihin
+07013C + mahdollistavat ylipitkiä yhteyksiä VHF-taajuuksilla
+07013E - vaikuttavat parantavasti HF-alueen DX-yhteyksien syntymiseen
+07014 % Kaukoyhteyksiä syntyy VHF-/UHF-taajuuksilla
+07014A - aina ionosfäärin F-kerroksen avulla
+07014B + troposfäärin kanavoitumisilmiön avulla
+07014C + ionosfäärin E-kerroksen tilapäisen voimakkaan ionisoitumisen
+avulla
+07014D - ionosfäärin D-kerroksen voimakkaan ionisoitumisen avulla
+07015 % Ionosfäärin F-kerros
+07015A - mahdollistaa aina pitkät VHF-yhteydet
+07015B - on alin ionosfäärin kerroksista
+07015C + heijastaa mm. 14 MHz taajuudet takaisin maanpinnalle
+07015D + päästää avaruuteen 433 MHz taajuudet
+07016 % Kuuntelet 144 MHz kelimajakan sähkötyslähetettä. Kuulet sen
+äänenlaadun muuttuvan tuhinaksi. Kyseessä saattaa olla
+07016A - voimistuva troposfäärisen etenemisen keli
+07016B - voimistuva meteorisirontaan perustuva eteneminen
+07016C + revontulista johtuva ilmiö
+07016D - kuun aiheuttama heijastus
+
+--- Page 49 ---
+Sivu 49 / 64
+07017 % Haluat pitää päiväsaikaan yhteyden noin 200 - 300 km
+etäisyydelle. Yhteydelle edullinen taajuusalue on
+07017A - 14 MHz
+07017B - 28 MHz
+07017C + 3,5 MHz
+07017D - 21 MHz
+07017E + 80 m
+07017F - 10 m
+07017G - 20 m
+07017H - 15 m
+07018 % Haluat talviaikana yöllä pitää yhteyksiä Eurooppaan. Yhteydelle
+edullinen taajuusalue on
+07018A - 28 MHz
+07018B - 21 MHz
+07018C + 7 MHz
+07018D - 1296 MHz
+07018E + 3,5 MHz
+07018F - 20 m
+07018G + 40 m
+07018H - 15 m
+07019 % DX-yhteyksien saamiseen HF-alueella vaikuttaa olennaisesti
+07019A - heijastumatta etenevä maa-aalto
+07019B - radioaaltojen heijastuminen meteoriparvien ionisoituneista
+vanoista
+07019C - radioaaltojen heijastuminen kuusta
+07019D + radioaaltojen heijastuminen ionosfääristä
+07020 % DX-yhteyksien saamiseen VHF-alueella vaikuttaa
+07020A - heijastumatta etenevä maa-aalto eli pinta-aalto
+07020B + radioaaltojen heijastuminen meteoriparvien ionisoituneista
+vanoista
+07020C + radioaaltojen heijastuminen kuusta
+07020D + radioaaltojen heijastumisesta troposfäärin sääinversioista
+07021 % Haluat pitää DX-yhteyksiä VHF/UHF-alueella FM:llä. Tavallinen
+etenemismuoto on
+07021A - heijastumatta etenevä maa-aalto
+07021B - radioaaltojen heijastuminen meteoriparvien ionisoituneista
+vanoista
+07021C - radioaaltojen heijastuminen kuusta
+07021D + radioaaltojen heijastumisesta troposfäärin sääinversioista
+07022 % Haluat pitää DX-yhteyksiä HF-alueilla. Tärkeä tekijä on
+07022A + vuoden ja vuorokauden aika
+07022B - heijastuminen E-kerroksesta
+07022C + heijastuminen F-kerroksesta
+07022D + matalan lähtökulman omaava antenni
+07024 % Kotimaan yhteyksissä vaikuttava tekijä 3,5 MHz alueella on
+07024A + signaalin vaimeneminen D-kerroksessa
+07024B + radioaaltojen heijastuminen F-kerroksesta
+07024C + antennin lähtökulma
+07024D + vuorokauden aika
+
+--- Page 50 ---
+Sivu 50 / 64
+07025 % Tavanomaisten yhteyksien saamisessa UHF-alueella vaikuttava
+tekijä on
+07025A - radioaaltojen heijastuminen kuusta
+07025B - aurinkopilkkujen vaihtelu
+07025C + heijastumatta etenevä maa-aalto
+07025D + antenni
+07027 % DX-yhteyksien saantiin HF-alueilla vaikuttaa
+07027A - heijastuminen kuusta
+07027B + heijastuminen maasta
+07027C + heijastuminen merestä
+07027D + heijastuminen F-kerroksesta
+07028 % Tärkein HF-alueiden keleihin vaikuttava tekijä on heijastuminen
+07028A - revontulista
+07028B - D-kerroksesta
+07028C - E-kerroksesta
+07028D + F2-kerroksesta
+07029 % Haluat pitää yhteyksiä Ranskaan. Olennaista on, että
+07029A + valitset alueen keliolosuhteiden mukaan
+07029B - käytät vain taajuusmodulaatiota (FM)
+07029C - antennissasi on matala lähtökulma
+07029D - käytät aina mahdollisimman suurta lähetystehoa
+08000 * Mittaaminen
+08001 % Haluat mitata radiolähettimen virtalähteestä ottaman virran.
+Tarvitset
+08001A - volttimittarin, joka on kytketty virtalähteeseen rinnan
+lähettimen kanssa
+08001B - volttimittarin, joka on kytketty virtalähteeseen sarjaan
+lähettimen kanssa
+08001C + ampeerimittarin, joka on kytketty virtalähteeseen sarjaan
+lähettimen kanssa
+08001D - mittarin, joka on kytketty virtalähteeseen rinnan lähettimen
+kanssa
+08002 % Mittaat radiolähettimen virtalähteestä ottamaa virtaa
+mittarilla, joka on kytketty sarjaan lähettimen kanssa. Mittari
+kolahtaa tappiin, kun kytket lähettimen päälle. Näyttämän
+saamiseksi tarvitset
+08002A - sarjavastuksen mitta-alueen laajentamiseen
+08002B + sivuvastuksen mitta-alueen laajentamiseen
+08002C - pidemmät mittajohtimet, jotta virta voi tasaantua
+08002D - jonkin muun mittarin, koska tämä mittari ei sovellu suuren
+virran mittaamiseen millään apukytkennällä
+08003 % On totta, että
+08003A + oskilloskoopilla voidaan mitata jännitteen suuruutta ja
+mahdollista taajuutta.
+08003B - digitaalimittari soveltuu analogista mittaria paremmin
+viritysmittauksiin, joissa etsitään jännitteen ääriarvoja
+08003C - digitaalimittari on aina tarkempi kuin liikkuvalla osoittimella
+varustettu analogiamittari
+08003D + halutessasi laajentaa virtamittarin mitta-aluetta tarvitset
+sivu- eli shunttivastuksen
+
+--- Page 51 ---
+Sivu 51 / 64
+08004 % On totta, että
+08004A - taajuuslaskuri osoittaa oikean taajuuden, kun se on kytketty
+SSB-lähettimen syöttämään keinokuormaan
+08004B - helpoin tapa selvittää SSB-lähettimen lähetystaajuus
+taajuuslaskurilla on moduloida lähetintä voimakkaalla ja
+taajuudeltaan suuresti vaihtelevalla signaalilla
+08004C + taajuuslaskurilla voi mitata moduloimattoman AM-, FM- tai
+CW-lähettimen lähtötaajuuden
+08004D - taajuuslaskurilla voi suoraan mitata SSB-lähetteen
+kantoaaltotaajuuden
+08005 % Tarvitset virtamittaria noin 20 A tasavirran mittaamiseen.
+Volttimittarilla, jossa on 0-20 mV tasajännitealue
+08005A - et voi millään menetelmällä mitata 20 A virtaa
+08005B + saat selville virran, kun kytket kuorman kanssa sarjaan 1
+milliohmin 0,5 W vastuksen ja mittaat vastuksen yli vaikuttavan
+jännitteen
+08005C - saat selville virran, kun kytket kuorman rinnalle 1 milliohmin
+0,5 W vastuksen ja mittaat vastuksen yli vaikuttavan jännitteen
+08005D - saat selville virran, kun kytket kuorman kanssa sarjaan 20 ohmin
+0,5 W vastuksen ja mittaat vastuksen yli vaikuttavan jännitteen
+08006 % Nykyisissä yleismittareissa on usein dioditestaus-, resistanssi-
+ja kapasitanssimittausalueita. Käytät hyväksi näitä
+yleismittarin ominaisuuksia etsiessäsi viallista komponenttia
+piirilevyltä.
+08006A - Voit suorittaa mittaukset piirilevyn ollessa jännitteinen, koska
+jännitelähde on vain 9 V neppariparisto.
+08006B + Oikean mittaustuloksen varmistamiseksi kytkennän on oltava
+jännitteetön ja mitattavan komponentin mieluummin irti
+piirilevystä mittauksen aikana.
+08006C + Ennen elektrolyyttikondensaattorin mittausta on varmistettava,
+ettei siinä ole sähkövarausta.
+08006D - Voit tarkistaa diodien toiminnan ainoastaan, mikäli piirilevy on
+jännitteinen.
+08007 % Kiertokäämimittarissa on kaksi asteikkoa, 0-50 V ja 0-1 A.
+Ilman apuvälineitä voit sillä mitata
+08007A + tasavirtaa
+08007B - vaihtovirtaa
+08007C + tasajännitettä
+08007D – vaihtojännitettä
+08008 % Yleismittarisi on AVO-tyyppiä. Voit sillä mitata
+08008A + tasajännitteitä ja -virtoja
+08008B + pientaajuisia vaihtojännitteitä ja -virtoja
+08008C + vastuksia
+08008D - suurtaajuista tehoa
+08009 % Oskilloskoopilla voit mitata
+08009A + tasajännitettä
+08009B - tasavirtaa
+08009C + vaihtojännitettä
+08009D - vaihtovirtaa
+08009E + neliöaaltoa
+
+--- Page 52 ---
+Sivu 52 / 64
+08010 % Oskilloskoopin kaistaleveydeksi on ilmoitettu 10 MHz. Mitä voit
+sanoa sen näyttämästä, kun mittaat 14 MHz signaalia?
+08010A - Ei näyttöä lainkaan.
+08010B - Oskilloskooppi ei tahdistu.
+08010C + Amplitudiarvo ei ole oikea.
+08010D + Signaalin taajuutta ei pysty mittaamaan tarkasti.
+08011 % SWR-mittarilla mitataan
+08011A - antennin vahvistusta
+08011B - SSB-signaalin kantoaaltovaimennusta
+08011C - antennin Q-arvoa
+08011D - kohinalukua
+08011E + seisovan aallon suhdetta
+08012 % Tasajännitemittarin sisäinen vastus tehdään mahdollisimman
+suureksi, jotta
+08012A - pariston jännite mitattaisiin lähes kuormittamattomana
+08012B + mittari ei kuormittaisi mitattavaa piiriä
+08012C - mittari ei vioittuisi, jos navat kytketään vahingossa väärin
+08012D - sillä voitaisiin mitata myös suurtaajuista jännitettä
+08013 % Kun mittaat 230 V verkkojännitettä oskilloskoopilla, saat
+huipusta huippuun arvoksi
+08013A - 163 V
+08013B - 230 V
+08013C - 460 V
+08013D + 650 V
+08014 % Kun mittaat oskilloskoopilla RF-signaalia,
+08014A + näytölle täytyy saada vähintään puolen jakson täydellinen kuva,
+jotta pystyt mittaamaan signaalin jännitteen
+08014B + jännitteen voi määrittää verhokäyrästä
+08014C - mikä tahansa oskilloskooppi soveltuu HF-alueen signaalien
+jännitteiden mittaukseen
+08014D - jännitteet näkyvät näytöllä tehollisarvoina
+08015 % Seisovan aallon suhde (SWR) on parhaimmillaan
+08015A - 0:0
+08015B - 1:0
+08015C + 1:1
+08015D - 0:1
+08016 % Haluat mitata antenniin menevää virtaa 7 MHz taajuusalueella.
+Sen voit mitata
+08016A - digitaalisella yleismittarilla
+08016B + termoristimittarilla
+08016C - kiertokäämimittarilla
+08016D – pyörrevirtamittarilla
+08017 % RF-oskillaattorin taajuus on mitattavissa tarkasti
+08017A - tavallisella oskilloskoopilla
+08017B + taajuuslaskurilla, jonka mittausalue riittävän laaja
+08017C - radiotaajuisella volttimittarilla
+08017D – aaltomittarilla
+
+--- Page 53 ---
+Sivu 53 / 64
+08018 % Kun tasavirtamittarilla mitataan suurempia tasavirtoja, kuin
+mihin se on tarkoitettu, on mittariin liitettävä
+08018A - sarjavastus
+08018B - tasasuuntaja
+08018C + sivu-(shuntti-)vastus
+08018D - mittausmuuntaja
+08018E – rinnakkaiskapasitanssi
+08020 % Seisovanaallonsuhteen mittarilla mitataan
+08020A - lähettimen pääteasteeseen seisomaan jääneiden radioaaltojen
+määrää
+08020B - radioaallon tarkkaa pituutta
+08020C + antennikaapelin ja antennin syöttöpisteen välistä sovitusta
+08020D - kaasutäytteisen antennikaapelin painetta
+09000 * Häiriöt ja niiden ehkäiseminen
+09001 % Harmonisten värähtelyjen pääsy antenniin voidaan estää
+09001A - siirtymällä taajuusmodulaatiosta yksisivukaistamodulaatioon
+09001B - siirtymällä käyttämään putkia puolijohteiden tilalla
+09001C - pienentämällä antennin seisovan aallon suhdetta
+09001D + käyttämällä alipäästösuodinta syöttöjohdossa
+09002 % Kun lähetät 28 MHz:llä, naapurisi TV-kuva häiriytyy. Häiriön
+voit poistaa:
+09002A - Ylipäästösuotimella (rajataajuus 30 MHz) lähettimessäsi
+09002B - Alipäästösuotimella (rajataajuus 30 MHz) häiriintyvän
+vastaanottimen antenniliitännässä.
+09002C + Alipäästösuotimella (rajataajuus 30 MHz) lähettimessäsi.
+09002D + mahdollisesti verkkokuristimella lähettimessä
+09003 % Naapurisi TV-kuvassa on lähes aina lumisadetta ja haamukuvia,
+vaikka hänellä on käytössään tuliterä, postimyynnistä hankittu
+sisäantenni. Hän kääntyy puoleesi tietäen sinut radioamatööriksi
+ja kysyy neuvoa. Oikea tapa lähteä liikkeelle asian hoidossa on:
+09003A - kertoa, että asia ei kuulu sinulle ollenkaan
+09003B - myöntää, että syy on radioamatöörilaitteissasi ja lopettaa
+radioamatööriharrastus ainakin tilapäisesti
+09003C - asentaa naapurisi television verkkojohtoon kuristin
+09003D + suositella hänelle ulkoantennin hankkimista
+09004 % UHF-taajuuksilla työskenneltäessä
+09004A - ei koskaan tarvita suodinpiirejä
+09004B + VHF-alueen TV-häiriöiden poistoon käytetään ylipäästösuodinta
+lähettimen syöttöjohdossa
+09004C - TV-taajuudelle viritetty kaistapäästösuodin lähettimen
+antennilinjassa auttaa TV-häiriön poistamisessa
+09004D - ULA-radioon tulevat häiriöt voi poistaa alipäästösuotimella
+lähettimen antennilinjassa
+
+--- Page 54 ---
+Sivu 54 / 64
+09005 % 21 MHz lähettimen TV:hen aiheuttamien häiriöiden poistamisessa
+09005A - auttaa alipäästösuotimen asentaminen lähettimen liitosjohtoihin
+09005B + auttaa ylipäästösuotimen asentaminen TV:n eteen
+09005C + saattaa televisioantennin vaippavirran katkaisu yksin auttaa
+häiriön poistamisessa
+09005D + syyllinen voi olla televisioantennissa oleva laajakaista-
+vahvistin
+09006 % 70 cm amatöörialueella toimiva lähettimesi häiritsee naapurisi
+yleisradiovastaanottoa ULA-alueella. Häiriön vaimentamiseksi
+kannattaa asentaa
+09006A - noin 150 MHz ylipäästösuodatin naapurisi vastaanottimen
+antennikoskettimeen
+09006B - noin 150 MHz alipäästösuodatin lähettimesi antennikoskettimeen
+09006C + noin 150 MHz alipäästösuodatin naapurisi vastaanottimen
+antennikoskettimeen
+09006D - noin 150 MHz kaistanpäästösuodatin lähettimesi antenni-
+koskettimeen
+09007 % Häiriöitä naapurin TV-vastaanottimeen voi aiheuttaa
+09007A + huono tai hapettunut liitos naapurin TV-antennissa
+09007B + huono tai hapettunut liitos omassa antennissasi
+09007C + lähettimesi huono tai puuttuva maadoitus
+09007D + lähettimesi pääteasteen yliohjautuminen
+09008 % Huonosti tehty tai puuttuva verkkokäyttöisen lähettimen
+maadoitus saattaa aiheuttaa mm.
+09008A + sähköiskuvaaran
+09008B - suurtaajuisen energian siirtymisen antenniin
+09008C + häiriöitä omassa tai naapurin TV-vastaanottimessa
+09008D - koronapurkauksen omassa tai naapurin TV-vastaanottimessa
+09009 % Lähetteesi aiheuttaa häiriöitä naapurisi TV-vastaanottimeen.
+Häiriöitä voit vähentää
+09009A + käyttämällä pienempää lähetystehoa
+09009B + tarkistamalla ja uusimalla kaikki huonot antenniliitokset omissa
+antenneissasi ja naapurisi TV-vastaanottimeen liitetyssä
+antennissa
+09009C + tarkistamalla, että lähettimesi on varmasti kunnossa
+09009D - pyytämällä poliisilta virka-apua naapurin TV-vastaanottimen
+takavarikoimiseksi ja sen käytön estämiseksi
+09010 % Yliaallot
+09010A + ovat värähtelyjä, joiden taajuus on perustaajuuden jokin
+monikerta
+09010B - ovat aina haitallisia ilmiöitä
+09010C + saattavat aiheuttaa häiriöitä esimerkiksi TV vastaanottimiin
+09010D - voidaan yleensä poistaa tai vaimentaa esimerkiksi ylipäästö-
+suodattimella
+
+--- Page 55 ---
+Sivu 55 / 64
+09011 % Työskentelet CW:llä 3,5 MHz taajuusalueella. Muutaman kilometrin
+päässä asuva radioamatööri soittaa sinulle ja ilmoittaa
+kuulevansa sinut erinomaisesti 7 MHz:llä. Tällöin
+09011A - toisen amatöörin vastaanotin on selvästi viallinen
+09011B + syynä on se, että lähettimestäsi lähtee toivotun lähetteen
+lisäksi häiriölähetteenä ainakin sen toinen harmoninen
+09011C - voit poistaa häiriön kytkemällä alipäästösuodattimen toisen
+amatöörin vastaanottimeen
+09011D + lähettimesi alipäästösuodin ei vaimenna riittävästi 7 MHz:llä
+09012 % Kuuntelet sähkötystä ja toteat, että vasta aseman CW-lähete
+kuuluu selvinä napsahduksina useamman kHz:n päässä vasta-aseman
+käyttämästä taajuudesta
+09012A + kyseessä on avainiskut eli klikki
+09012B - vika on useimmiten omassa vastaanottimessasi
+09012C + avainiskut voi poistaa tai saada vähäisiksi avainnussuotimella
+09012D + ilmiö johtuu siitä, että vasta-aseman lähetin aktivoituu liian
+nopeasti sen jälkeen, kun avainta on painettu
+09013 % Kun painat sähkötysavainta tai puhut mikrofoniin, lähettimesi
+asteikko- ja muut valot kirkastuvat huomattavasti. Syynä voi
+olla
+09013A + huono sovitus antenniin, jolloin SWR on hyvin suuri
+09013B + puuttuva tai huono lähettimen maadoitus
+09013C + suurtaajuisen tehon pääseminen jännitelähteeseen verkko- tai
+liitäntäjohdon kautta ja tasasuuntautuminen jännitelähteen
+sisällä
+09013D - ei mikään: ilmiö on täysin normaali ja toivottavakin
+09014 % Suurtaajuisen tehon siirtyminen sähköverkkoon
+09014A - on radioamatööritoiminnassa nimenomaan toivottavaa
+radioyhteyksien saamiseksi
+09014B + voidaan estää verkkosuodattimella
+09014C - lisääntyy, kun verkkojohto kierretään ferriittisauvan tai
+toroidin ympärille
+09014D - ei yleensä ole asia, josta kannattaisi murehtia millään tavalla
+09015 % Tietokone
+09015A + saattaa häiriintyä jo muutaman watin tehoisista lähettimistä
+09015B - häiriintyy pelkästään pulssilähetteistä
+09015C + saattaa häiritä jopa UHF-alueen vastaanottimia
+09015D + sisältää piirejä, jotka muodostavat hyvin jyrkkäreunaisia
+pulsseja
+09016 % Suurtaajuisissa virityspiireissä käytetään häiriön
+vaimentamiseen
+09016A - elektrolyyttikondensaattoreita
+09016B - tantaalikondensaattoreita
+09016C + keraamisia kondensaattoreita
+09016D – kapasitanssidiodeja
+09017 % Liian kapeasta välitaajuuden kaistaleveydestä SSB-vastaanotossa
+seuraa, että
+09017A - häiriöt ja kohina lisääntyvät
+09017B - ei aiheudu ainakaan mitään haittaa
+09017C + puheen ymmärrettävyys huononee
+09017D - CW-signaalit alkavat kuulua läpi
+
+--- Page 56 ---
+Sivu 56 / 64
+09018 % Naapurisi TV häiriintyy HF-alueen signaaleista, vaikka se on
+liitetty suojatulla kaapelilla antenniin. Tämä voi johtua siitä,
+että
+09018A - koaksiaalin sisälangan paksuus on sama kuin amatööriantennin
+syöttöjohdossa
+09018B + amatööriantennin lähikentässä TV:n antennikaapelin vaippa toimii
+antennina amatööritaajuuksille
+09018C - TV-antennin valkoinen muovieriste absorboi amatööritaajuuksia
+09018D - TV-antennin elementtejä ei ole yleensä suojattu
+koaksiaalikaapelilla
+09019 % ULA-vastaanottimeen on liitetty ylipäästösuodin, jonka
+rajataajuus on 28 MHz. Tämän takia
+09019A - ULA-alue vaimenee huomattavasti
+09019B + suodin estää alle 28 MHz taajuuksien pääsyn vastaanottimeen
+09019C + ULA-alueen vastaanotto on suotimen kanssa mahdollista
+09019D - ULA-alueen vastaanotto ei ole mahdollista
+09020 % Naapurin radiolaitteesta alkaa kuulua napsuttelua, kun sähkötät.
+Toteat, ettei radion voimakkuudensäädin vaikuta asiaan, joten
+09020A - häiriö tulee selvästi keskusantennista
+09020B - radion etuaste ei todennäköisesti kestä voimakasta RF-kenttää ja
+tukkeutuu
+09020C - vastaanottimen automaattinen vahvistuksen säätö yliohjautuu
+09020D + häiriö menee todennäköisesti suoraan pientaajuusasteelle, ja
+ferriittikuristin kaiutinlinjassa voi poistaa häiriön
+09021 % 70 cm lähettimesi tukkii NMT450-tukiaseman vastaanottimen.
+Häiriön poistamiseksi kannattaa muun muassa
+09021A - asentaa ylipäästösuodin lähettimesi perään
+09021B - pyytämää ensin Teleä asentamaan alipäästösuodattimet omiin
+vastaanottimiinsa
+09021C + asentaa alipäästösuodin lähettimesi perään
+09021D + asentaa kaistanestosuodin NMT:n taajuudelle lähettimesi
+perään
+10000 * Sähköturvallisuus
+10001 % Suojakosketinpistotulppa
+10001A - Suojakosketinpistotulppaa käytetään II-suojaluokan laitteissa.
+10001B + Verkkojohdon keltavihreäraitainen osajohdin kytketään
+pistotulpan suojakoskettimeen.
+10001C - Suojakosketinpistotulppaa käytettäessä suojapiiri ja virtapiiri
+sulkeutuvat samanaikaisesti.
+10001D + Siltä varalta, että verkkojohto irtoaa pistotulpasta, suoja-
+johdin (keltavihreäraitainen) on liitettävä siten, että se
+irtoaa viimeiseksi.
+
+--- Page 57 ---
+Sivu 57 / 64
+10002 % Käyttömaadoitus
+10002A + Useamman laitteen käyttömaadoitusta varten tarvitaan maadoitus-
+kisko, josta käyttömaadoitusjohdot haaroitetaan eri laitteisiin.
+10002B - Käyttömaadoitusjohdon saa liittää laitteeseen helposti huoltoa
+varten irrotettavalla liittimellä, esim. banaanikoskettimella.
+10002C + Käyttömaadoitusjohdon saa liittää laitteeseen työkalulla
+kiristettävällä ruuviliitoksella.
+10002D - Ruuviliitoksella kiinnitettävän käyttömaadoitusjohdon saa
+ketjuttaa laitteesta toiseen (sarjamaadoitus).
+10003 % On totta, että
+10003A - verkkokytkimen vipu saa olla metallia
+10003B + verkkokytkimen on oltava kaksinapainen
+10003C - radioamatöörilaitteet kuuluvat yleensä II-suojaluokkaan, jossa
+laitteen kotelo on suojamaadoitettu
+10003D - verkkojohdon vedonpoistolaite saa olla metallia
+10003E + omatekoisten laitteiden on täytettävä Sähköturvallisuus-
+määräykset
+10004 % On totta, että
+10004A + laitteen jännitteiset osat on suojattava koteloimalla ja
+maadoittamalla laite
+10004B - avorakenteisen verkkovirtalähteen saa sijoittaa lattialle pöydän
+alle, jos lattia on eristävä
+10004C + II-suojaluokassa käytetään käyttöeristystä vahvistavaa
+lisäeristystä
+10004D - III-suojaluokan turvallisuus perustuu suojamaadoituksen käyttöön
+10005 % On totta, että
+10005A + jatkojohto ei saa muuttaa laitteen suojaluokkaa
+10005B + suojakosketinpistotulpalla varustetun jatkojohdon pitää olla
+poikkipinnaltaan vähintään 1,5 neliömillin kaapelia
+10005C - jatkojohdon käyttö on kielletty radioamatöörilaitteissa
+10005D + II-suojaluokan jatkojohdon saa liittää I-suojaluokan
+pistorasiaan
+10006 % On totta, että
+10006A - itsetehdyt radiolaitteet kuuluvat II-suojausluokkaan
+10006B - käyttöjännitteen ollessa 12 V ei voi aiheutua palovaaraa
+10006C - maadoitusvastuksen tulee olla mahdollisimman suuri
+10006D - maadoituselektrodin liitosjohdon poikkipinta-ala saa olla 4 mm²
+10007 % On totta, että
+10007A + pistokoskettimen tulpan irrotessa liitäntäjohdosta on
+keltavihreäraitaisen johtimen irrottava viimeisenä
+10007B - tasasuuntajan suodinosaa ei tarvitse varustaa purkaus-
+vastuksella, jos laitteen toisiojännite on yli 42 V
+10007C + verkkokytkimen on oltava kaksinapainen
+10007D - radioamatöörilaitteet kuuluvat 0-suojausluokkaan, johon kuuluvat
+vaarattomissa käyttöolosuhteissa käytettävät laitteet
+
+--- Page 58 ---
+Sivu 58 / 64
+10008 % On totta, että
+10008A - pistokoskettimen tulpan irrotessa liitäntäjohdosta mustan
+johtimen on irrottava viimeisenä
+10008B + tasasuuntaajan suodinosaa ei tarvitse varustaa purkaus-
+vastuksella, jos laitteen toisiojännite on alle 42 V
+10008C - verkkokytkimen on oltava yksinapainen
+10008D - verkkoon liitettävät radioamatöörilaitteet kuuluvat
+0-suojausluokkaan
+10009 % On totta, että
+10009A - pistokoskettimen tulpan irrotessa liitäntäjohdosta on punaisen
+johtimen irrottava viimeisenä
+10009B + verkkokäyttöisissä radioamatöörilaitteissa käytetään SUKO-
+pistotulppaa
+10009C + verkkokytkimen on oltava kaksinapainen
+10009D + itserakennetut radioamatöörilaitteet kuuluvat I-suojausluokkaan
+10010 % Sähköturvallisuusmääräykset eivät salli vaarallisia
+verkkojännitteitä
+10010A + II-suojaluokan radiolaitteen kotelossa maahan nähden
+10010B + radiolaitteen liittimissä, jotka on tarkoitettu
+signaalien siirtoon
+10010C + lanka-antennissa
+10010D + antenniliittimessä
+10011 % Verkkojohtimen suojamaadoitusjohdin liitetään laitteeseen
+10011A + koneruuvilla ja liittimellä
+10011B - siten, että verkkojohto voidaan vaihtaa ilman esivalmistelua
+10011C + siten, että sen liitin on lähellä virtajohtimien liittimiä
+10011D – peltiruuvilla
+10013 % Verkkokytkin
+10013A + on mitoitettava siten, että se kykenee vaaraa aiheuttamatta
+kytkemään ja katkaisemaan kuormitusvirran
+10013B - saa olla nimellisvirraltaan pienempi kuin edellä oleva
+ylivirtasuoja
+10013C + on varustettava kilvellä, jossa kiinniasento on osoitettava
+merkillä I ja aukiasento merkillä 0.
+10013D - on varustettava kilvellä, jossa merkintöjä "kiinni" ja "auki"
+käytetään asennon osoitukseen
+10014 % Pistokytkin
+10014A - tarkoittaa laitteen verkkoliitäntää yleensä
+10014B - tarkoittaa II-luokan ns. Euro-pistotulppaa
+10014C + on tehtävä rakenteeltaan kosketussuojatuksi
+10014D + tarkoittaa pistotulppaa ja pistorasiaa
+10015 % Verkkopistotulppa
+10015A + tulee valita laitteen suojaluokan mukaan
+10015B + ei saa olla yhteinen yhtä useammalle verkkojohdolle
+10015C - on rakenteeltaan sellainen, että suojajohdin irtoaa
+ensimmäisenä, kun verkkojohto irtoaa pistotulpasta
+10015D + saa olla mitoitettu suuremmalle virralle kuin verkkojohto
+
+--- Page 59 ---
+Sivu 59 / 64
+10016 % Kostea tila
+10016A + voi olla palo- ja räjähdysvaarallinen
+10016B + ei sovi sähköverkkoon kytketyn radioamatööriaseman
+sijoituspaikaksi
+10016C + edellyttää vain kosteuden kestävien sähkölaitteiden käyttämistä
+10016D + saa olla käsiradiopuhelimen käyttöpaikka
+10017 % II-suojaluokan laitteen
+10017A + metalliosia ei saa suojamaadoittaa
+10017B + saa liittää I-suojaluokan pistorasiaan
+10017C - kuori ei saa olla metallia
+10017D + verkkojohto ja verkkopistotulppa ovat kokonaisuus, josta
+verkkopistotulppaa ei voi vaihtaa erikseen
+10018 % Maadoittamisessa on tiedettävä, että
+10018A + käyttömaadoitusjohdon saa tarvittaessa jatkaa puristus-,
+hitsaus- tai kovajuotosliitoksella
+10018B + maadoituselektrodi saa olla 0,7 m syvyyteen asennettu 10 metrin
+mittainen 16 mm² kuparijohdin
+10018C - maadoituselektrodi saa olla messinkijohdin
+10018D + maadoituselektrodi saa olla johtavin liitoksin tehty metallinen
+vesijohto
+10019 % Liitäntäjohdon
+10019A + osajohtimien värit I-suojaluokassa ovat keltavihreäraitainen,
+sininen ja ruskea
+10019B - muunvärisen osajohtimen saa merkitä keltavihreäraitaisella
+teipillä ja käyttää suojajohtimena, mikäli ei ole käytettävissä
+kaapelia, jossa olisi keltavihreäraitainen osajohdin
+10019C - ulkokäyttöön voi tehdä PVC-muovikaapelista
+10019D + johtimen poikkipinta on mitoitettava virran mukaisesti
+10020 % Kosketusjännite
+10020A + tarkoittaa kahden kohdan välistä kosketeltavissa olevaa
+jännitettä
+10020B - on täysin vaaraton
+10020C + voi tarkoittaa myös askeljännitettä
+10020D + voidaan tehdä vaarattomaksi suojaamalla jännitteiset osat
+koteloimalla
+10021 % Suurtaajuinen sähkö
+10021A + voi aiheuttaa kosketeltaessa palovammoja
+10021B - on erityisen vaarallinen sydämelle
+10021C - on täysin vaaraton
+10021D + voi esiintyä paikoissa, joissa on tasajännitettä
+10022 % III-suojaluokan laite
+10022A - toimii 230 voltin verkkojännitteellä
+10022B + toimii suojajännitteellä
+10022C - on suojamaadoitettu
+10022D + toimii enintään 42 voltin tasajännitteellä
+
+--- Page 60 ---
+Sivu 60 / 64
+10023 % Antenniasioissa on totta, että
+10023A - eristetystä johdosta valmistettu lanka-antenni saa olla 230
+voltin 1-vaiheisen virtajohdon yläpuolella, jos etäisyys
+pystysuunnassa on suurempi kuin kymmenen metriä
+10023B + antennimasto on suojattava käyttömaadoituksella salaman iskua
+varalta
+10023C + antennissa ei saa esiintyä vaarallisia, pientaajuisia
+vaihtojännitteitä
+10023D + antennirakenteet on sijoitettava niin, ettei antennia voi
+vahingossa koskettaa
+10024 % Suojaerotus
+10024A + tarkoittaa erityisen suojaerotusmuuntajan käyttöä
+10024B + edellyttää, että suojaerotusmuuntaja saa huoltotilanteessa
+syöttää vain yhtä kulutuskojetta
+10024C - vaatii, että suojaerotusmuuntajan toisiojännite saa olla
+enintään 24 V
+10024D - tarkoittaa erityisen vikavirtakytkimen käyttöä
+10025 % Maadoittaminen
+10025A + tarkoittaa laitteen tai sen osan liittämistä maadoitus-
+elektrodiin
+10025B + ei ole tarpeen II- eikä III-suojaluokissa
+10025C + on välttämätön I-suojaluokassa
+10025D - ei ole tarpeen I-suojaluokassa
+10026 % Suojajännite
+10026A + edellyttää, ettei siirrettävän kojeen johdossa ole suojamaata
+10026B - tekee ylikuormitussuojan tarpeettomaksi
+10026C - sallii käyttää tavallista verkkopistotulppaa
+10026D + vaatii erikoispistotulpan käyttämistä
+10027 % Vikavirtakytkin
+10027A - toimii 0- ja vaihejohtimien ylivirtaan perustuen
+10027B + toimii 0- ja vaihejohtimien virtaeroon (summavirta) perustuen
+10027C + on itsetoimiva
+10027D + ei ole välttämätön radioamatööriasemalla
+10028 % On syytä muistaa, että
+10028A + aseman omistaja on vastuussa sen sähköturvallisuudesta
+10028B + sähkö on lapsille vaarallinen
+10028C + oikeat elvytystoimenpiteet on syytä opetella ennakolta
+10028D + sähköiskusta tajunnan menettänyt voidaan elvyttää
+10029 % On tärkeää tietää, että
+10029A + verkkojännitteinen (230 V) sähköisku on aina hengenvaarallinen
+10029B + rintakehän kautta (esim. kädestä käteen) kulkeva verkkosähkö-
+virta on erityisen vaarallinen
+10029C + sähköiskun vaara syntyy laitetta huollettaessa, jos pistokytkin
+on kytkettynä pistorasiaan
+10029D + putkivahvistimen anodijännitteestä (tasajännite) voi saada
+hengenvaarallisen sähköiskun
+
+--- Page 61 ---
+Sivu 61 / 64
+10030 % Isotehoista 12 voltin tasavirtalähdettä
+10030A + käsiteltäessä oikosulku 12 voltin virtapiirissä on vaarallinen
+10030B + saa käyttää useiden laitteiden samanaikaiseen virransyöttöön
+10030C + ei tulisi käyttää, jos jännitteen säätöpiiri on vaurioitunut
+10030D - ei voi korvata 12 voltin akulla
+10031 % Paristoista on hyvä tietää, että
+10031A + jotkut paristoista ovat ongelmajätettä
+10031B - paristo kestää hyvin pitkäaikaistakin oikosulkua
+10031C + uusittavien paristojen sähköenergian hinta on huomattava
+10031D + alkaliparisto kuumenee huomattavasti oikosuljettuna
+10032 % Verkkokäyttöisen laitteen käyttöolosuhteet ovat
+10032A - vaarattomat, jos sähkölaite on leikkikalu
+10032B + vaaralliset, jos käyttöpaikka on kostea, märkä tai syövyttäviä
+aineita sisältävä
+10032C + erittäin vaaralliset, jos sähkölaitetta joudutaan pitelemään
+käsin johtavalla alustalla polvi- tai istuma-asennossa
+10032D - vaarattomat, jos lattia on johtava tai osittain johtava
+10033 % Verkkojohdon
+10033A + osajohtimien on oltava yhteisen kulutusvaipan alla
+10033B - osajohtimien värit II-suojaluokassa ovat punainen ja musta
+10033C - osajohtimien värisäännön noudattaminen ei ole välttämätöntä
+omatekoisessa laitteessa
+10033D + joka kuuluu II-suojaluokan laitteeseen, saa liittää I-
+suojaluokan pistorasiaan
+10034 % Sähköasennuksista on määrätty, että
+10034A - radioamatööri saa tehdä aseman tarvitsemia kiinteitä
+sähköasennustöitä
+10034B + sähkötyöt ovat luvanvaraisia
+10034C + radioamatööri saa valmistaa itselleen radioamatööriaseman
+laitteita
+10034D + riittävän ammattitaidon omaava henkilö saa tehdä
+sähköasennustöitä valvonnan alaisena
+10035 % Yleiseen sähköverkkoon kytkettävässä ja radioamatööriasemaan
+liitettävässä jännitelähteessä pitää aina
+10035A + olla suojamaata lukuun ottamatta kaikkinapaisesti erottava
+verkkokytkin
+10035B - olla ulostulojännitettä osoittava ampeerimittari
+10035C + ottaa huomioon Sähkötarkastuskeskuksen antamat määräykset
+10035D - olla erityinen purkausvastus, jos jännitelähteen jännite ylittää
+100 mV
+10036 % Olet suunnitellut ja tehnyt 3 kV jännitelähteen lineaarista
+päätevahvistinta varten. Tällöin
+10036A + se on varustettava kytkimellä, joka katkaisee vaihe- ja
+nollajohtimet
+10036B - sinun pitää tyyppihyväksyttää laite Viestintävirastossa
+10036C - laitteessa pitää olla ulostulojännitettä ilmaiseva
+jännitemittari
+10036D - laitteen on aina kestettävä roiskevettä
+
+--- Page 62 ---
+Sivu 62 / 64
+10037 % Kun lataat 600 mAh nikkeli-kadmiumakkua,
+10037A + sinun tulisi käyttää noin 60 mA latausvirtaa ja 14 tunnin
+latausaikaa
+10037B - sinun ei tarvitse käyttää suojamaadoitettua tai -eristettyä
+latauslaitetta
+10037C - voit aina turvallisesti pikaladata akun noin tunnissa ns.
+10C-virralla, joka tässä tapauksessa on noin 60 A
+10037D - akkuun merkittyjä lataustietoja ei tarvitse ottaa huomioon
+10038 % Suurtaajuisen jännitteen eteneminen sähköverkkoon voidaan estää
+10038A - varustamalla virtalähde purkausvastuksella
+10038B - käyttämällä tasajänniteosassa suuria elektrolyytti-
+kondensaattoreita
+10038C - käyttämällä tasasuuntauksessa siltakytkentää
+10038D + kytkemällä muuntajan ensiöpuolella esim. 3000 pF/3750 V
+kondensaattorit runkoon
+10039 % Vaarallisten tasajännitteiden pääsy antenniin estetään
+10039A + kytkemällä antenni tankkipiiriin induktiivisesti
+10039B + ottamalla antennisignaali tankkipiiristä kapasitiivisesti
+riittävän jännitekestoisella kondensaattorilla
+10039C - käyttämällä lähettimessä suojaerotusmuuntajaa
+10039D + maadoittamalla vikatapauksissa esiintyvä tasajännite suurtaajuus
+kuristimella
+10040 % Lähettimen teho on 100 W, mutta käyttöjännite vain 13,8 V.
+Tällöin
+10040A + verkkolaitteessa tarvitaan purkausvastus
+10040B - antennilaitteita ei tarvitse suojata kosketukselta
+10040C + verkkolaitteen muuntajan ensiössä tarvitaan sulake
+10040D - lähetintä saa käyttää vain liikkuvassa autossa
+10041 % Olet ostanut ulkomailta radiolähettimen, jossa on
+kaksinapainen verkkojohto. Ennen käyttöönottoa on
+10041A - verkkojohtoon asennettava lisämaadoitusjohdin laitteen rungon ja
+pistotulpan välille
+10041B - asennettava maadoitusjohdin, joka kiinnitetään alkuperäiseen
+verkkojohtoon nippusiteillä
+10041C - liitettävä lähetin aseman käyttömaadoitukseen, joka täyttää
+sähköturvallisuusmääräysten vaatimukset
+10041D + laitteeseen asennettava Suomessa käytettävä I-suojaluokan
+verkkojohto
+10042 % Virtalähteestä palaa verkkosulake n. 30 minuutin käytön
+jälkeen. Kuormaan menevä virta ei kuitenkaan ole noussut. Syynä
+voi olla
+10042A + liian kriittisesti mitoitettu verkkosulake
+10042B + vikaantunut verkkosuodin
+10042C + muuntajan ensiökäämi, jonka kierroksista osa on oikosulussa
+10042D – verkkokytkin
+
+--- Page 63 ---
+Sivu 63 / 64
+10043 % Purkausvastuksen tehtävä on
+10043A - purkaa antennin staattiset varaukset maahan
+10043B - purkaa prosessorin ja ram-piirien kondensaattorien varaukset,
+jotta laite käynnistyisi häiriöittä
+10043C - toimia laitteen käynnistyttyä ja purkaa vaaralliset jännitteet
+10043D + purkaa virtalähteen vaaralliset jännitteet, kun laitteen
+verkkojännite katkaistaan
+10044 % Antennilinjassa on käytettävä ylijännitesuojaa
+10044A - mikäli sähköverkon jännite nousee liian suureksi
+10044B - jos anodijännite voi nousta niin suureksi, että tehoraja ylittyy
+10044C + mikäli antenni on rakenteeltaan sellainen, ettei sitä voi
+radioteknisistä syistä maadoittaa
+10044D - jos lähettimen käyttöjännitteet otetaan sähköverkosta
+10045 % Suojamaadoitus
+10045A - on tehtävä sarjakytkentäperiaatteella, jotta johdon
+kokonaispituus minimoituisi
+10045B + on tehtävä rinnakkaiskytkentäperiaatteella
+10045C - on rakennettava myös II-suojaluokan laitteisiin
+10045D + on asennettava myös tehdasvalmisteiseen lähettimeen
+10046 % Radioamatöörilaitteen maadoituselektrodina voidaan käyttää
+10046A + maahan noin 0,7 m syvyyteen asennettua 10 m pituista 16 mm²
+kuparijohdinta
+10046B - maahan asennettua 1 m pituista ja 32 mm paksuista pystysuoraa
+kuparielektrodia
+10046C - maahan ulottuvaa, johtavin liitoksin tehtyä muoviputkistoa
+10046D - sähköverkon 0-johdinta
+10046E - rakennuksen lämpöjohtoverkkoa
+10048 % Verkkojännitteeseen kytkettävien radioamatöörilaitteen osien on
+oltava Suomessa hyväksyttyä mallia tai CE-merkinnällä
+varustettuja. Näitä osia ovat
+10048A + laitteen verkkokytkin
+10048B + sulakkeenpidin sulakkeineen
+10048C - antennikaapelin liittimet
+10048D + pistotulppa
+10048E - antennikaapeli
+10048F - pääteasteen virityskondensaattori
+10050 % Verkko- tai muuta vaarallista jännitettä ei saa olla
+radioamatöörilaitteen
+10050A + antenniliittimissä
+10050B + kovaäänisliittimissä
+10050C + liittimissä, jotka on tarkoitettu signaalien siirtoon
+10050D - lähettimen säätökondensaattorin akselissa laitekotelon sisällä
+10051 % Verkko- tai muu vaarallinen jännite saa olla radioamatööri-
+laitteen
+10051A - antenniliittimissä
+10051B + verkkoliittimissä
+10051C - liittimissä, jotka on tarkoitettu signaalien siirtoon
+10051D + lähettimen säätökondensaattorin akselissa laitekotelon sisällä
+
+--- Page 64 ---
+Sivu 64 / 64
+10052 % SUKO-pistotulppa
+10052A + liitetään suojamaadoitettuun laitteeseen kolmen johtimen
+sähköliitäntäkaapelilla
+10052B - on tehdasvalmisteisissa radioamatöörilaitteissa vapaasti
+vaihdettavissa jonkin muun suojausluokan pistotulppaan
+10052C + tarkoittaa suojakosketinpistotulppaa
+10052D + kytketään liitäntäjohtoon siten, että keltavihreäraitainen
+johdin liitetään maadoitusnapaan
+10053 % SUKO-pistotulppa
+10053A + kuuluu I-suojausluokan liitäntäjohtoon
+10053B + kytketään liitäntäjohtoon siten, että keltavihreäraitainen
+johdin tulee maadoitusnapaan
+10053C - kytketään liitäntäjohtoon siten, että ruskea johdin tulee
+vaihenapaan
+10053D - kytketään liitäntäjohtoon siten, että sininen johdin tulee
+vaihenapaan
+10055 % Kuvassa 1 on malliesimerkki liitäntäjohdon liittämisestä
+radioamatöörilaitteeseen. Tunnista osat.
+10055A - Osa 7 = vedonpoistaja
+10055B + Osa 4 = suojamaadoitusliitin
+10055C - Osa 2 = metallinen kiinnityslevy
+10055D - Osa 1 = läpivientiholkki
+10056 % Kuvassa 1 on malliesimerkki liitäntäjohdon liittämisestä
+radioamatöörilaitteeseen. Tunnista osat.
+10056A - Osa 7 = vedonpoistaja
+10056B - Osa 6 = suojamaadoitusliitin
+10056C - Osa 2 = metallinen kiinnityslevy
+10056D + Osa 1 = nippuside
+10057 % Kuvassa 1 on malliesimerkki liitäntäjohdon liittämisestä
+radioamatöörilaitteeseen. Tunnista osat.
+10057A + Osa 7 = läpivienti
+10057B + Osa 4 = suojamaadoitusruuviliitin
+10057C + Osa 2 = kiinnityslevy (eriste)
+10057D + Osa 1 = nippuside
+10058 % Kuvassa 1 on malliesimerkki liitäntäjohdon liittämisestä
+radioamatöörilaitteeseen. Tunnista osat.
+10058A - Osa 6 = läpivienti
+10058B - Osa 5 = 0-johto
+10058C + Osa 3 = jatkoliitoskappale
+10058D - Osa 1 = läpivienti
+
