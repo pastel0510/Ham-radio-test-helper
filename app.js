@@ -185,11 +185,9 @@ function displayMultipleChoiceOptions(question) {
     const container = document.getElementById('multipleChoiceOptions');
     container.innerHTML = '';
 
-    // Get options (shuffle if needed)
+    // Get options and sort alphabetically by letter
     let options = [...question.options];
-    if (state.settings.shuffleOptions && state.answers[state.currentIndex] === null) {
-        options = shuffleArray(options);
-    }
+    options.sort((a, b) => a.letter.localeCompare(b.letter));
 
     // Create option buttons
     options.forEach(option => {
@@ -620,6 +618,7 @@ function displayStudyQuestion() {
     } else {
         const correctOptions = question.options
             .filter(opt => opt.is_correct)
+            .sort((a, b) => a.letter.localeCompare(b.letter))
             .map(opt => `<p class="correct-option"><strong>${opt.letter}:</strong> ${opt.text}</p>`)
             .join('');
 
