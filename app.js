@@ -218,18 +218,83 @@ function displayMultipleChoiceOptions(question) {
 function selectAnswer(answer) {
     const question = state.currentQuestions[state.currentIndex];
 
-    // Store answer
-    state.answers[state.currentIndex] = answer;
+    if (question.type === 'true_false') {
+        // True/false - single selection, immediate feedback
+        state.answers[state.currentIndex] = answer;
 
-    // Update UI based on mode
+        // Update UI based on mode
+        if (state.selectedMode === 'practice') {
+            showFeedback(answer, question);
+        } else {
+            // Exam mode - just highlight selection
+            highlightSelection(answer);
+        }
+
+        // Show next button
+        showNextOrFinishButton();
+    } else {
+        // Multiple choice - toggle selection
+        toggleMultipleChoiceSelection(answer);
+    }
+}
+
+function toggleMultipleChoiceSelection(letter) {
+    const currentAnswer = state.answers[state.currentIndex];
+
+    // Initialize answer as array if not exists
+    if (!Array.isArray(currentAnswer)) {
+        state.answers[state.currentIndex] = [];
+    }
+
+    const answerArray = state.answers[state.currentIndex];
+    const index = answerArray.indexOf(letter);
+
+    if (index > -1) {
+        // Remove if already selected
+        answerArray.splice(index, 1);
+    } else {
+        // Add if not selected
+        answerArray.push(letter);
+    }
+
+    // Update UI to show selection
+    highlightMultipleChoiceSelections();
+
+    // Show check button if at least one option selected
+    const checkButton = document.getElementById('checkButton');
+    if (answerArray.length > 0) {
+        checkButton.style.display = 'inline-block';
+    } else {
+        checkButton.style.display = 'none';
+    }
+}
+
+function checkMultipleChoiceAnswer() {
+    const question = state.currentQuestions[state.currentIndex];
+    const answer = state.answers[state.currentIndex];
+
+    // Hide check button
+    document.getElementById('checkButton').style.display = 'none';
+
+    // Disable buttons to prevent changes
+    const buttons = document.querySelectorAll('#multipleChoiceOptions .option-btn');
+    buttons.forEach(btn => {
+        btn.disabled = true;
+    });
+
+    // Show feedback
     if (state.selectedMode === 'practice') {
         showFeedback(answer, question);
     } else {
-        // Exam mode - just highlight selection
-        highlightSelection(answer);
+        // In exam mode, just mark as answered
+        highlightMultipleChoiceSelections();
     }
 
     // Show next button
+    showNextOrFinishButton();
+}
+
+function showNextOrFinishButton() {
     document.getElementById('nextButton').style.display = 'inline-block';
 
     // If last question, show finish button instead
@@ -252,14 +317,20 @@ function highlightSelection(answer) {
             }
         });
     } else {
-        const buttons = document.querySelectorAll('#multipleChoiceOptions .option-btn');
-        buttons.forEach(btn => {
-            btn.classList.remove('selected');
-            if (btn.dataset.letter === answer) {
-                btn.classList.add('selected');
-            }
-        });
+        highlightMultipleChoiceSelections();
     }
+}
+
+function highlightMultipleChoiceSelections() {
+    const answer = state.answers[state.currentIndex];
+    const buttons = document.querySelectorAll('#multipleChoiceOptions .option-btn');
+
+    buttons.forEach(btn => {
+        btn.classList.remove('selected');
+        if (Array.isArray(answer) && answer.includes(btn.dataset.letter)) {
+            btn.classList.add('selected');
+        }
+    });
 }
 
 function showFeedback(answer, question) {
@@ -285,19 +356,26 @@ function showFeedback(answer, question) {
             }
         });
     } else {
-        // Multiple choice
+        // Multiple choice - answer should be an array
         const correctAnswers = question.correct_answers;
-        isCorrect = correctAnswers.includes(answer);
+        const userAnswers = Array.isArray(answer) ? answer : [];
+
+        // Check if answers match (same length and all correct answers selected)
+        isCorrect = userAnswers.length === correctAnswers.length &&
+                    userAnswers.every(ans => correctAnswers.includes(ans)) &&
+                    correctAnswers.every(ans => userAnswers.includes(ans));
 
         const buttons = document.querySelectorAll('#multipleChoiceOptions .option-btn');
         buttons.forEach(btn => {
             btn.disabled = true;
 
+            // Highlight all correct answers in green
             if (btn.dataset.isCorrect === 'true') {
                 btn.classList.add('correct');
             }
 
-            if (btn.dataset.letter === answer && btn.dataset.isCorrect === 'false') {
+            // Highlight user's incorrect selections in red
+            if (userAnswers.includes(btn.dataset.letter) && btn.dataset.isCorrect === 'false') {
                 btn.classList.add('incorrect');
             }
         });
@@ -329,16 +407,23 @@ function showPreviousAnswer() {
 
     if (state.selectedMode === 'practice') {
         showFeedback(answer, question);
+        // Hide check button since answer already checked
+        document.getElementById('checkButton').style.display = 'none';
+        // Show next button
+        showNextOrFinishButton();
     } else {
         highlightSelection(answer);
-    }
-
-    // Show next button
-    document.getElementById('nextButton').style.display = 'inline-block';
-
-    if (state.currentIndex === state.currentQuestions.length - 1) {
-        document.getElementById('nextButton').style.display = 'none';
-        document.getElementById('finishButton').style.display = 'inline-block';
+        if (question.type === 'multiple_choice' && Array.isArray(answer) && answer.length > 0) {
+            // In exam mode, if multiple choice answered, disable buttons and show next
+            const buttons = document.querySelectorAll('#multipleChoiceOptions .option-btn');
+            buttons.forEach(btn => {
+                btn.disabled = true;
+            });
+            document.getElementById('checkButton').style.display = 'none';
+            showNextOrFinishButton();
+        } else if (question.type === 'true_false') {
+            showNextOrFinishButton();
+        }
     }
 }
 
@@ -369,11 +454,13 @@ function updateNavigationButtons() {
     const skipButton = document.getElementById('skipButton');
     const nextButton = document.getElementById('nextButton');
     const finishButton = document.getElementById('finishButton');
+    const checkButton = document.getElementById('checkButton');
 
     prevButton.disabled = state.currentIndex === 0;
     skipButton.style.display = state.selectedMode === 'exam' ? 'inline-block' : 'none';
     nextButton.style.display = 'none';
     finishButton.style.display = 'none';
+    checkButton.style.display = 'none';
 }
 
 // Exam Completion
@@ -390,7 +477,7 @@ function calculateResults() {
     state.currentQuestions.forEach((question, index) => {
         const answer = state.answers[index];
 
-        if (answer === null) {
+        if (answer === null || (Array.isArray(answer) && answer.length === 0)) {
             unanswered++;
         } else {
             if (question.type === 'true_false') {
@@ -400,7 +487,15 @@ function calculateResults() {
                     incorrect++;
                 }
             } else {
-                if (question.correct_answers.includes(answer)) {
+                // Multiple choice - check if all correct answers selected and no incorrect ones
+                const correctAnswers = question.correct_answers;
+                const userAnswers = Array.isArray(answer) ? answer : [];
+
+                const isCorrect = userAnswers.length === correctAnswers.length &&
+                                  userAnswers.every(ans => correctAnswers.includes(ans)) &&
+                                  correctAnswers.every(ans => userAnswers.includes(ans));
+
+                if (isCorrect) {
                     correct++;
                 } else {
                     incorrect++;
