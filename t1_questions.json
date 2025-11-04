@@ -122,6 +122,11 @@
         "letter": "C",
         "text": "pii",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "kiille",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -148,6 +153,11 @@
         "letter": "C",
         "text": "aine, jolla on paljon helposti liikkuvia elektroneja",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "öljy",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -646,6 +656,11 @@
         "letter": "C",
         "text": "sähkövarauksia",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "savua",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -907,6 +922,11 @@
         "letter": "C",
         "text": "1,44 W",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "ääretön",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -994,6 +1014,11 @@
       {
         "letter": "C",
         "text": "sekä tasa- että vaihtosähköä",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "sekasähköä",
         "is_correct": false
       }
     ],
@@ -1485,6 +1510,11 @@
         "letter": "C",
         "text": "LSB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "USB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -1886,6 +1916,11 @@
         "letter": "C",
         "text": "ohmi",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "hertsi",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -1911,6 +1946,11 @@
       {
         "letter": "C",
         "text": "ohmi",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "hertsi",
         "is_correct": false
       }
     ],
@@ -1938,6 +1978,11 @@
         "letter": "C",
         "text": "ohmi",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "hertsi",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -1963,6 +2008,11 @@
       {
         "letter": "C",
         "text": "watti",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "henri",
         "is_correct": false
       }
     ],
@@ -1990,6 +2040,11 @@
         "letter": "C",
         "text": "henri",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "faradi",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -2016,6 +2071,11 @@
         "letter": "C",
         "text": "watti",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "celsius",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -2072,6 +2132,11 @@
       {
         "letter": "C",
         "text": "watti",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ohmi",
         "is_correct": false
       }
     ],
@@ -2384,6 +2449,11 @@
       {
         "letter": "C",
         "text": "kuivaparistosta",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "aurinkopanelista",
         "is_correct": false
       }
     ],
@@ -3622,6 +3692,11 @@
         "letter": "C",
         "text": "reguloimalla",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "stabiloimalla",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -4495,6 +4570,11 @@
         "letter": "C",
         "text": "virtakestoisuus",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "resistanssi",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -4531,6 +4611,11 @@
       {
         "letter": "E",
         "text": "vettä",
+        "is_correct": false
+      },
+      {
+        "letter": "F",
+        "text": "kuparitahnaa",
         "is_correct": false
       }
     ],
@@ -4868,6 +4953,11 @@
         "letter": "C",
         "text": "tasasuuntaajana",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "vaihtosuuntaajana",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -4987,6 +5077,11 @@
         "letter": "C",
         "text": "henri",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ampeeri",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -5012,6 +5107,11 @@
       {
         "letter": "C",
         "text": "henri",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ampeeri",
         "is_correct": false
       }
     ],
@@ -5039,6 +5139,11 @@
         "letter": "C",
         "text": "henri",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "ampeeri",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -5508,6 +5613,11 @@
         "letter": "C",
         "text": "88",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "176",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -5533,6 +5643,11 @@
       {
         "letter": "C",
         "text": "230",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "115",
         "is_correct": false
       }
     ],
@@ -6299,6 +6414,11 @@
         "letter": "C",
         "text": "aikavakiopiirejä",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "oskillaattoreita",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -8054,6 +8174,11 @@
         "letter": "C",
         "text": "suurtaajuusvahvistimessa",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "ilmaisimessa",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -8308,6 +8433,11 @@
         "letter": "C",
         "text": "kykyä erotella haluttu signaali muista läheisistä signaaleista",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "häiriönsietokykyä",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -9394,6 +9524,11 @@
         "letter": "B",
         "text": "häiriöiden ehkäisyyn",
         "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "haluttaessa liittää samaan antenniin myös vastaanotin",
+        "is_correct": false
       },
       {
         "letter": "D",
@@ -12679,6 +12814,11 @@
         "letter": "C",
         "text": "tasajännitettä",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "vaihtojännitettä",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -12970,6 +13110,11 @@
         "letter": "C",
         "text": "kiertokäämimittarilla",
         "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "pyörrevirtamittarilla",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -12995,6 +13140,11 @@
       {
         "letter": "C",
         "text": "radiotaajuisella volttimittarilla",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "aaltomittarilla",
         "is_correct": false
       }
     ],
@@ -13026,6 +13176,11 @@
       {
         "letter": "D",
         "text": "mittausmuuntaja",
+        "is_correct": false
+      },
+      {
+        "letter": "E",
+        "text": "rinnakkaiskapasitanssi",
         "is_correct": false
       }
     ],
@@ -13566,6 +13721,11 @@
         "letter": "C",
         "text": "keraamisia kondensaattoreita",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "kapasitanssidiodeja",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -14074,6 +14234,11 @@
         "letter": "C",
         "text": "siten, että sen liitin on lähellä virtajohtimien liittimiä",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "peltiruuvilla",
+        "is_correct": false
       }
     ],
     "correct_answers": [
@@ -15042,6 +15207,11 @@
         "letter": "C",
         "text": "muuntajan ensiökäämi, jonka kierroksista osa on oikosulussa",
         "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "verkkokytkin",
+        "is_correct": false
       }
     ],
     "correct_answers": [
