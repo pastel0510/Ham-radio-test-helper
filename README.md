@@ -2,6 +2,8 @@
 
 A comprehensive web application for preparing for Finnish Amateur Radio License exams (K-module and T1-module).
 
+**[Try it now on GitHub Pages →](https://pastel0510.github.io/Ham-radio-test-helper/)**
+
 ## Features
 
 ### Modules Supported
@@ -72,7 +74,7 @@ The application is designed to work seamlessly with GitHub Pages:
 
 1. Enable GitHub Pages in your repository settings
 2. Select the branch to deploy (usually `main` or `master`)
-3. Access your app at: `https://yourusername.github.io/Ham-radio-test-helper/`
+3. Access your app at: `https://pastel0510.github.io/Ham-radio-test-helper/`
 
 No build process or special configuration needed - GitHub Pages will serve the static files directly!
 
