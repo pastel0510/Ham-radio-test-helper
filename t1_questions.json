@@ -35,7 +35,9 @@
       "A",
       "B",
       "E"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01002",
@@ -68,7 +70,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01003",
@@ -100,7 +104,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01004",
@@ -131,7 +137,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01005",
@@ -163,7 +171,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01006",
@@ -207,7 +217,9 @@
       "B",
       "C",
       "E"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01007",
@@ -240,7 +252,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01008",
@@ -273,7 +287,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01009",
@@ -305,7 +321,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01010",
@@ -339,7 +357,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01011",
@@ -372,7 +392,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01012",
@@ -403,7 +425,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01013",
@@ -435,7 +459,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01014",
@@ -469,7 +495,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01015",
@@ -506,7 +534,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01016",
@@ -538,7 +568,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01017",
@@ -570,7 +602,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01018",
@@ -602,7 +636,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01019",
@@ -634,7 +670,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01020",
@@ -665,7 +703,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01021",
@@ -698,7 +738,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01022",
@@ -730,7 +772,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01023",
@@ -762,7 +806,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01024",
@@ -793,7 +839,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01026",
@@ -836,7 +884,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01027",
@@ -868,7 +918,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01028",
@@ -900,7 +952,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01029",
@@ -931,7 +985,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01030",
@@ -962,7 +1018,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01031",
@@ -993,7 +1051,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01032",
@@ -1024,7 +1084,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01033",
@@ -1056,7 +1118,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01034",
@@ -1087,7 +1151,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01035",
@@ -1118,7 +1184,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01036",
@@ -1149,7 +1217,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01037",
@@ -1181,7 +1251,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01038",
@@ -1215,7 +1287,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01039",
@@ -1247,7 +1321,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01040",
@@ -1279,7 +1355,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01041",
@@ -1322,7 +1400,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01042",
@@ -1353,7 +1433,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01043",
@@ -1384,7 +1466,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01044",
@@ -1415,7 +1499,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01045",
@@ -1457,7 +1543,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01046",
@@ -1488,7 +1576,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01047",
@@ -1521,7 +1611,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01048",
@@ -1565,7 +1657,9 @@
       "C",
       "D",
       "F"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01049",
@@ -1607,7 +1701,9 @@
     "correct_answers": [
       "B",
       "E"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01050",
@@ -1639,7 +1735,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01051",
@@ -1671,7 +1769,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01053",
@@ -1703,7 +1803,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01054",
@@ -1736,7 +1838,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01055",
@@ -1768,7 +1872,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01056",
@@ -1799,7 +1905,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01057",
@@ -1832,7 +1940,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01058",
@@ -1863,7 +1973,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01059",
@@ -1894,7 +2006,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01060",
@@ -1925,7 +2039,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01061",
@@ -1956,7 +2072,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01062",
@@ -1987,7 +2105,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01063",
@@ -2018,7 +2138,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01064",
@@ -2049,7 +2171,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01065",
@@ -2080,7 +2204,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01066",
@@ -2111,7 +2237,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01067",
@@ -2142,7 +2270,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01068",
@@ -2176,7 +2306,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01069",
@@ -2207,7 +2339,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01070",
@@ -2238,7 +2372,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01071",
@@ -2270,7 +2406,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01072",
@@ -2301,7 +2439,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01073",
@@ -2333,7 +2473,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01074",
@@ -2364,7 +2506,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01075",
@@ -2395,7 +2539,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01076",
@@ -2428,7 +2574,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01077",
@@ -2459,7 +2607,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01078",
@@ -2492,7 +2642,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01079",
@@ -2523,7 +2675,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01080",
@@ -2555,7 +2709,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01081",
@@ -2586,7 +2742,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01082",
@@ -2617,7 +2775,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01083",
@@ -2651,7 +2811,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01084",
@@ -2683,7 +2845,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01085",
@@ -2714,7 +2878,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01086",
@@ -2748,7 +2914,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01087",
@@ -2779,7 +2947,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01088",
@@ -2810,7 +2980,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01089",
@@ -2841,7 +3013,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01090",
@@ -2872,7 +3046,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01091",
@@ -2903,7 +3079,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01092",
@@ -2934,7 +3112,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01093",
@@ -2966,7 +3146,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01094",
@@ -2997,7 +3179,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01095",
@@ -3028,7 +3212,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "01096",
@@ -3060,7 +3246,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähkön, sähkömagnetismin ja radion teoria",
+    "category_number": 1
   },
   {
     "id": "02001",
@@ -3091,7 +3279,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02002",
@@ -3129,7 +3319,9 @@
       "C",
       "D",
       "E"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02003",
@@ -3161,7 +3353,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02004",
@@ -3194,7 +3388,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02005",
@@ -3225,7 +3421,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02006",
@@ -3256,7 +3454,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02007",
@@ -3288,7 +3488,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02008",
@@ -3321,7 +3523,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02009",
@@ -3354,7 +3558,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02010",
@@ -3385,7 +3591,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02011",
@@ -3416,7 +3624,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02012",
@@ -3447,7 +3657,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02013",
@@ -3478,7 +3690,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02014",
@@ -3510,7 +3724,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02015",
@@ -3542,7 +3758,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02016",
@@ -3575,7 +3793,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02017",
@@ -3607,7 +3827,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02018",
@@ -3638,7 +3860,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02019",
@@ -3670,7 +3894,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02020",
@@ -3701,7 +3927,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02021",
@@ -3733,7 +3961,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02022",
@@ -3766,7 +3996,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02023",
@@ -3799,7 +4031,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02024",
@@ -3830,7 +4064,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02025",
@@ -3863,7 +4099,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02026",
@@ -3896,7 +4134,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02027",
@@ -3927,7 +4167,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02028",
@@ -3958,7 +4200,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02029",
@@ -3990,7 +4234,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02030",
@@ -4023,7 +4269,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02031",
@@ -4067,7 +4315,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02032",
@@ -4100,7 +4350,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02033",
@@ -4134,7 +4386,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02034",
@@ -4166,7 +4420,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02035",
@@ -4197,7 +4453,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02036",
@@ -4229,7 +4487,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02037",
@@ -4261,7 +4521,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02038",
@@ -4292,7 +4554,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02039",
@@ -4324,7 +4588,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02040",
@@ -4356,7 +4622,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02041",
@@ -4388,7 +4656,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02042",
@@ -4420,7 +4690,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02043",
@@ -4452,7 +4724,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02045",
@@ -4484,7 +4758,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02046",
@@ -4517,7 +4793,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02047",
@@ -4548,7 +4826,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02048",
@@ -4580,7 +4860,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02049",
@@ -4624,7 +4906,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02050",
@@ -4655,7 +4939,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02051",
@@ -4686,7 +4972,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02052",
@@ -4729,7 +5017,9 @@
       "B",
       "D",
       "F"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02053",
@@ -4760,7 +5050,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02054",
@@ -4797,7 +5089,9 @@
     "correct_answers": [
       "B",
       "E"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02055",
@@ -4829,7 +5123,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02056",
@@ -4867,7 +5163,9 @@
       "B",
       "D",
       "E"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02057",
@@ -4900,7 +5198,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02058",
@@ -4931,7 +5231,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02059",
@@ -4962,7 +5264,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02060",
@@ -4993,7 +5297,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02061",
@@ -5024,7 +5330,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02062",
@@ -5055,7 +5363,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02063",
@@ -5086,7 +5396,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02064",
@@ -5117,7 +5429,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02065",
@@ -5148,7 +5462,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02066",
@@ -5179,7 +5495,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02067",
@@ -5212,7 +5530,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02068",
@@ -5243,7 +5563,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02069",
@@ -5275,7 +5597,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02070",
@@ -5308,7 +5632,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02072",
@@ -5341,7 +5667,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02073",
@@ -5372,7 +5700,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02074",
@@ -5405,7 +5735,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02075",
@@ -5436,7 +5768,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02077",
@@ -5467,7 +5801,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02079",
@@ -5498,7 +5834,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02080",
@@ -5529,7 +5867,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02081",
@@ -5560,7 +5900,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02082",
@@ -5591,7 +5933,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02083",
@@ -5622,7 +5966,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02084",
@@ -5653,7 +5999,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02085",
@@ -5684,7 +6032,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02086",
@@ -5715,7 +6065,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02087",
@@ -5749,7 +6101,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02088",
@@ -5782,7 +6136,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02089",
@@ -5814,7 +6170,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02090",
@@ -5846,7 +6204,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02091",
@@ -5877,7 +6237,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02092",
@@ -5911,7 +6273,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02093",
@@ -5943,7 +6307,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02094",
@@ -5974,7 +6340,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02095",
@@ -6008,7 +6376,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02096",
@@ -6041,7 +6411,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "02097",
@@ -6074,7 +6446,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Komponentit",
+    "category_number": 2
   },
   {
     "id": "03001",
@@ -6106,7 +6480,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03002",
@@ -6137,7 +6513,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03003",
@@ -6169,7 +6547,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03004",
@@ -6201,7 +6581,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03005",
@@ -6233,7 +6615,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03006",
@@ -6265,7 +6649,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03007",
@@ -6297,7 +6683,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03008",
@@ -6329,7 +6717,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03009",
@@ -6360,7 +6750,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03010",
@@ -6392,7 +6784,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03011",
@@ -6424,7 +6818,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03012",
@@ -6455,7 +6851,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03013",
@@ -6486,7 +6884,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03014",
@@ -6517,7 +6917,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03015",
@@ -6548,7 +6950,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03016",
@@ -6580,7 +6984,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03017",
@@ -6611,7 +7017,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03018",
@@ -6643,7 +7051,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03019",
@@ -6674,7 +7084,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03020",
@@ -6706,7 +7118,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03021",
@@ -6737,7 +7151,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03022",
@@ -6769,7 +7185,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03023",
@@ -6800,7 +7218,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03024",
@@ -6831,7 +7251,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03025",
@@ -6862,7 +7284,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03026",
@@ -6899,7 +7323,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03028",
@@ -6931,7 +7357,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03029",
@@ -6963,7 +7391,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03030",
@@ -6996,7 +7426,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03031",
@@ -7028,7 +7460,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03032",
@@ -7060,7 +7494,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03033",
@@ -7096,7 +7532,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03035",
@@ -7129,7 +7567,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03036",
@@ -7162,7 +7602,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03037",
@@ -7195,7 +7637,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03038",
@@ -7226,7 +7670,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03039",
@@ -7257,7 +7703,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03040",
@@ -7289,7 +7737,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03041",
@@ -7321,7 +7771,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03042",
@@ -7352,7 +7804,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03043",
@@ -7383,7 +7837,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03044",
@@ -7414,7 +7870,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03045",
@@ -7445,7 +7903,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03046",
@@ -7476,7 +7936,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03047",
@@ -7507,7 +7969,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03048",
@@ -7538,7 +8002,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03049",
@@ -7569,7 +8035,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03050",
@@ -7600,7 +8068,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03051",
@@ -7631,7 +8101,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03052",
@@ -7662,7 +8134,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03053",
@@ -7693,7 +8167,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03054",
@@ -7724,7 +8200,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03055",
@@ -7755,7 +8233,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "03056",
@@ -7786,7 +8266,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Piirit",
+    "category_number": 3
   },
   {
     "id": "04001",
@@ -7826,7 +8308,9 @@
       "C",
       "D",
       "E"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04002",
@@ -7859,7 +8343,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04003",
@@ -7892,7 +8378,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04004",
@@ -7924,7 +8412,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04005",
@@ -7955,7 +8445,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04006",
@@ -7987,7 +8479,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04007",
@@ -8019,7 +8513,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04008",
@@ -8053,7 +8549,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04009",
@@ -8085,7 +8583,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04010",
@@ -8116,7 +8616,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04011",
@@ -8152,7 +8654,9 @@
     ],
     "correct_answers": [
       "E"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04012",
@@ -8183,7 +8687,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04013",
@@ -8214,7 +8720,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04014",
@@ -8246,7 +8754,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04015",
@@ -8278,7 +8788,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04016",
@@ -8309,7 +8821,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04017",
@@ -8342,7 +8856,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04018",
@@ -8374,7 +8890,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04019",
@@ -8411,7 +8929,9 @@
     "correct_answers": [
       "D",
       "E"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04020",
@@ -8442,7 +8962,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04021",
@@ -8473,7 +8995,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04022",
@@ -8507,7 +9031,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04023",
@@ -8540,7 +9066,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04024",
@@ -8572,7 +9100,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04025",
@@ -8603,7 +9133,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04026",
@@ -8635,7 +9167,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04027",
@@ -8666,7 +9200,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04028",
@@ -8698,7 +9234,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04029",
@@ -8731,7 +9269,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04030",
@@ -8764,7 +9304,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04031",
@@ -8797,7 +9339,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04032",
@@ -8829,7 +9373,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04033",
@@ -8863,7 +9409,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04034",
@@ -8896,7 +9444,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04035",
@@ -8928,7 +9478,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04036",
@@ -8961,7 +9513,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04037",
@@ -8994,7 +9548,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04038",
@@ -9027,7 +9583,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04039",
@@ -9060,7 +9618,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04040",
@@ -9091,7 +9651,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04041",
@@ -9122,7 +9684,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04042",
@@ -9154,7 +9718,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04043",
@@ -9186,7 +9752,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04044",
@@ -9217,7 +9785,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04045",
@@ -9249,7 +9819,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04046",
@@ -9281,7 +9853,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "04047",
@@ -9313,7 +9887,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Vastaanottimet",
+    "category_number": 4
   },
   {
     "id": "05001",
@@ -9346,7 +9922,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05002",
@@ -9378,7 +9956,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05003",
@@ -9410,7 +9990,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05004",
@@ -9442,7 +10024,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05005",
@@ -9475,7 +10059,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05006",
@@ -9507,7 +10093,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05007",
@@ -9538,7 +10126,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05008",
@@ -9569,7 +10159,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05009",
@@ -9602,7 +10194,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05010",
@@ -9633,7 +10227,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05011",
@@ -9664,7 +10260,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05012",
@@ -9696,7 +10294,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05013",
@@ -9728,7 +10328,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05014",
@@ -9759,7 +10361,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05015",
@@ -9791,7 +10395,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05016",
@@ -9822,7 +10428,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05017",
@@ -9855,7 +10463,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05018",
@@ -9888,7 +10498,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05019",
@@ -9925,7 +10537,9 @@
     "correct_answers": [
       "A",
       "E"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05020",
@@ -9956,7 +10570,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05021",
@@ -9988,7 +10604,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05022",
@@ -10020,7 +10638,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05023",
@@ -10051,7 +10671,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05024",
@@ -10082,7 +10704,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "05025",
@@ -10114,7 +10738,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Lähettimet",
+    "category_number": 5
   },
   {
     "id": "06001",
@@ -10146,7 +10772,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06002",
@@ -10178,7 +10806,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06003",
@@ -10210,7 +10840,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06004",
@@ -10242,7 +10874,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06005",
@@ -10275,7 +10909,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06006",
@@ -10307,7 +10943,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06007",
@@ -10338,7 +10976,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06008",
@@ -10375,7 +11015,9 @@
     "correct_answers": [
       "B",
       "E"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06009",
@@ -10406,7 +11048,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06010",
@@ -10439,7 +11083,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06011",
@@ -10471,7 +11117,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06012",
@@ -10502,7 +11150,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06013",
@@ -10533,7 +11183,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06014",
@@ -10564,7 +11216,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06015",
@@ -10595,7 +11249,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06016",
@@ -10624,7 +11280,9 @@
         "is_correct": false
       }
     ],
-    "correct_answers": []
+    "correct_answers": [],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06017",
@@ -10655,7 +11313,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06018",
@@ -10686,7 +11346,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06019",
@@ -10717,7 +11379,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06020",
@@ -10748,7 +11412,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06021",
@@ -10779,7 +11445,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06022",
@@ -10810,7 +11478,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06023",
@@ -10841,7 +11511,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06024",
@@ -10872,7 +11544,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06025",
@@ -10901,7 +11575,9 @@
         "is_correct": false
       }
     ],
-    "correct_answers": []
+    "correct_answers": [],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06026",
@@ -10932,7 +11608,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06027",
@@ -10963,7 +11641,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06028",
@@ -10994,7 +11674,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06029",
@@ -11025,7 +11707,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06030",
@@ -11056,7 +11740,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06031",
@@ -11087,7 +11773,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06032",
@@ -11118,7 +11806,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06033",
@@ -11149,7 +11839,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06034",
@@ -11180,7 +11872,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06035",
@@ -11212,7 +11906,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06036",
@@ -11244,7 +11940,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06037",
@@ -11276,7 +11974,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06038",
@@ -11308,7 +12008,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06039",
@@ -11340,7 +12042,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06040",
@@ -11372,7 +12076,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06041",
@@ -11404,7 +12110,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06042",
@@ -11435,7 +12143,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06043",
@@ -11466,7 +12176,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06044",
@@ -11497,7 +12209,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06045",
@@ -11529,7 +12243,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06046",
@@ -11562,7 +12278,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06047",
@@ -11594,7 +12312,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06048",
@@ -11626,7 +12346,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06049",
@@ -11658,7 +12380,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06050",
@@ -11689,7 +12413,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "06051",
@@ -11720,7 +12446,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Antennit ja syöttöjohdot",
+    "category_number": 6
   },
   {
     "id": "07001",
@@ -11751,7 +12479,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07002",
@@ -11783,7 +12513,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07003",
@@ -11816,7 +12548,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07004",
@@ -11848,7 +12582,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07005",
@@ -11879,7 +12615,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07006",
@@ -11910,7 +12648,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07007",
@@ -11942,7 +12682,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07008",
@@ -11974,7 +12716,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07009",
@@ -12006,7 +12750,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07010",
@@ -12039,7 +12785,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07011",
@@ -12070,7 +12818,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07012",
@@ -12104,7 +12854,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07013",
@@ -12136,7 +12888,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07014",
@@ -12168,7 +12922,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07015",
@@ -12200,7 +12956,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07016",
@@ -12231,7 +12989,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07017",
@@ -12273,7 +13033,9 @@
     "correct_answers": [
       "C",
       "E"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07018",
@@ -12315,7 +13077,9 @@
     "correct_answers": [
       "C",
       "E"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07019",
@@ -12346,7 +13110,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07020",
@@ -12379,7 +13145,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07021",
@@ -12410,7 +13178,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07022",
@@ -12443,7 +13213,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07024",
@@ -12477,7 +13249,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07025",
@@ -12509,7 +13283,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07027",
@@ -12542,7 +13318,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07028",
@@ -12573,7 +13351,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "07029",
@@ -12604,7 +13384,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Radioaaltojen eteneminen",
+    "category_number": 7
   },
   {
     "id": "08001",
@@ -12635,7 +13417,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08002",
@@ -12666,7 +13450,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08003",
@@ -12698,7 +13484,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08004",
@@ -12729,7 +13517,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08005",
@@ -12760,7 +13550,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08006",
@@ -12792,7 +13584,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08007",
@@ -12824,7 +13618,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08008",
@@ -12857,7 +13653,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08009",
@@ -12895,7 +13693,9 @@
       "A",
       "C",
       "E"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08010",
@@ -12927,7 +13727,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08011",
@@ -12963,7 +13765,9 @@
     ],
     "correct_answers": [
       "E"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08012",
@@ -12994,7 +13798,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08013",
@@ -13025,7 +13831,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08014",
@@ -13057,7 +13865,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08015",
@@ -13088,7 +13898,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08016",
@@ -13119,7 +13931,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08017",
@@ -13150,7 +13964,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08018",
@@ -13186,7 +14002,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "08020",
@@ -13217,7 +14035,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Mittaaminen",
+    "category_number": 8
   },
   {
     "id": "09001",
@@ -13248,7 +14068,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09002",
@@ -13280,7 +14102,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09003",
@@ -13311,7 +14135,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09004",
@@ -13342,7 +14168,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09005",
@@ -13375,7 +14203,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09006",
@@ -13406,7 +14236,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09007",
@@ -13440,7 +14272,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09008",
@@ -13472,7 +14306,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09009",
@@ -13505,7 +14341,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09010",
@@ -13537,7 +14375,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09011",
@@ -13569,7 +14409,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09012",
@@ -13602,7 +14444,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09013",
@@ -13635,7 +14479,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09014",
@@ -13666,7 +14512,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09015",
@@ -13699,7 +14547,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09016",
@@ -13730,7 +14580,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09017",
@@ -13761,7 +14613,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09018",
@@ -13792,7 +14646,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09019",
@@ -13824,7 +14680,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09020",
@@ -13855,7 +14713,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "09021",
@@ -13887,7 +14747,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Häiriöt ja niiden ehkäiseminen",
+    "category_number": 9
   },
   {
     "id": "10001",
@@ -13919,7 +14781,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10002",
@@ -13951,7 +14815,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10003",
@@ -13988,7 +14854,9 @@
     "correct_answers": [
       "B",
       "E"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10004",
@@ -14020,7 +14888,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10005",
@@ -14053,7 +14923,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10006",
@@ -14082,7 +14954,9 @@
         "is_correct": false
       }
     ],
-    "correct_answers": []
+    "correct_answers": [],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10007",
@@ -14114,7 +14988,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10008",
@@ -14145,7 +15021,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10009",
@@ -14178,7 +15056,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10010",
@@ -14212,7 +15092,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10011",
@@ -14244,7 +15126,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10013",
@@ -14276,7 +15160,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10014",
@@ -14308,7 +15194,9 @@
     "correct_answers": [
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10015",
@@ -14341,7 +15229,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10016",
@@ -14375,7 +15265,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10017",
@@ -14408,7 +15300,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10018",
@@ -14441,7 +15335,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10019",
@@ -14473,7 +15369,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10020",
@@ -14506,7 +15404,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10021",
@@ -14538,7 +15438,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10022",
@@ -14570,7 +15472,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10023",
@@ -14603,7 +15507,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10024",
@@ -14635,7 +15541,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10025",
@@ -14668,7 +15576,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10026",
@@ -14700,7 +15610,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10027",
@@ -14733,7 +15645,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10028",
@@ -14767,7 +15681,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10029",
@@ -14801,7 +15717,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10030",
@@ -14834,7 +15752,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10031",
@@ -14867,7 +15787,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10032",
@@ -14899,7 +15821,9 @@
     "correct_answers": [
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10033",
@@ -14931,7 +15855,9 @@
     "correct_answers": [
       "A",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10034",
@@ -14964,7 +15890,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10035",
@@ -14996,7 +15924,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10036",
@@ -15027,7 +15957,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10037",
@@ -15058,7 +15990,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10038",
@@ -15089,7 +16023,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10039",
@@ -15122,7 +16058,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10040",
@@ -15154,7 +16092,9 @@
     "correct_answers": [
       "A",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10041",
@@ -15185,7 +16125,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10042",
@@ -15218,7 +16160,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10043",
@@ -15249,7 +16193,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10044",
@@ -15280,7 +16226,9 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10045",
@@ -15312,7 +16260,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10046",
@@ -15348,7 +16298,9 @@
     ],
     "correct_answers": [
       "A"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10048",
@@ -15391,7 +16343,9 @@
       "A",
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10050",
@@ -15424,7 +16378,9 @@
       "A",
       "B",
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10051",
@@ -15456,7 +16412,9 @@
     "correct_answers": [
       "B",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10052",
@@ -15489,7 +16447,9 @@
       "A",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10053",
@@ -15521,7 +16481,9 @@
     "correct_answers": [
       "A",
       "B"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10055",
@@ -15552,7 +16514,9 @@
     ],
     "correct_answers": [
       "B"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10056",
@@ -15583,7 +16547,9 @@
     ],
     "correct_answers": [
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10057",
@@ -15617,7 +16583,9 @@
       "B",
       "C",
       "D"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   },
   {
     "id": "10058",
@@ -15648,6 +16616,8 @@
     ],
     "correct_answers": [
       "C"
-    ]
+    ],
+    "category": "Sähköturvallisuus",
+    "category_number": 10
   }
 ]

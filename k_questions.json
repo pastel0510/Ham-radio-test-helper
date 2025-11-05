@@ -5,7 +5,10 @@
     "type": "true_false",
     "text": "DL is the amateur radio prefix used for Germany.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20002",
@@ -13,7 +16,10 @@
     "type": "true_false",
     "text": "DL is the amateur radio prefix used for Spain.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20003",
@@ -21,7 +27,10 @@
     "type": "true_false",
     "text": "F is the amateur radio prefix used for England.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20004",
@@ -29,7 +38,10 @@
     "type": "true_false",
     "text": "F is the amateur radio prefix used for France.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20005",
@@ -37,7 +49,10 @@
     "type": "true_false",
     "text": "G is the amateur radio prefix used for England.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20006",
@@ -45,7 +60,10 @@
     "type": "true_false",
     "text": "G is the amateur radio prefix used for France.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20007",
@@ -53,7 +71,10 @@
     "type": "true_false",
     "text": "LA is the amateur radio prefix used for Italy.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20009",
@@ -61,7 +82,10 @@
     "type": "true_false",
     "text": "LA is the amateur radio prefix used for Norway.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20010",
@@ -69,7 +93,10 @@
     "type": "true_false",
     "text": "I is the amateur radio prefix used for Norway.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20011",
@@ -77,7 +104,10 @@
     "type": "true_false",
     "text": "OH is the amateur radio prefix used for Austria.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20012",
@@ -85,7 +115,10 @@
     "type": "true_false",
     "text": "OH is the amateur radio prefix used for Finland.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20013",
@@ -93,7 +126,10 @@
     "type": "true_false",
     "text": "OH0 is the amateur radio prefix used for Åland Islands.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20014",
@@ -101,7 +137,10 @@
     "type": "true_false",
     "text": "OK is the amateur radio prefix used for Åland Islands.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20015",
@@ -109,7 +148,10 @@
     "type": "true_false",
     "text": "OK is the amateur radio prefix used for Czech Republic.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20016",
@@ -117,7 +159,10 @@
     "type": "true_false",
     "text": "TC is the amateur radio prefix used for Czech Republic.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20017",
@@ -125,7 +170,10 @@
     "type": "true_false",
     "text": "OZ is the amateur radio prefix used for Belgium.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20018",
@@ -133,7 +181,10 @@
     "type": "true_false",
     "text": "OZ is the amateur radio prefix used for Denmark.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20019",
@@ -141,7 +192,10 @@
     "type": "true_false",
     "text": "DK is the amateur radio prefix used for Denmark.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20020",
@@ -149,7 +203,10 @@
     "type": "true_false",
     "text": "SM is the amateur radio prefix used for the Netherlands.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20021",
@@ -157,7 +214,10 @@
     "type": "true_false",
     "text": "SM is the amateur radio prefix used for Sweden.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20022",
@@ -165,7 +225,10 @@
     "type": "true_false",
     "text": "SP is the amateur radio prefix used for Poland.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20023",
@@ -173,7 +236,10 @@
     "type": "true_false",
     "text": "LY is the amateur radio prefix used for Poland.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20024",
@@ -181,7 +247,10 @@
     "type": "true_false",
     "text": "LY is the amateur radio prefix used for Lithuania.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20025",
@@ -189,7 +258,10 @@
     "type": "true_false",
     "text": "YL is the amateur radio prefix used for Lithuania.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20026",
@@ -197,7 +269,10 @@
     "type": "true_false",
     "text": "YL is the amateur radio prefix used for Latvia.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20027",
@@ -205,7 +280,10 @@
     "type": "true_false",
     "text": "LY is the amateur radio prefix used for Latvia.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20028",
@@ -213,7 +291,10 @@
     "type": "true_false",
     "text": "ES is the amateur radio prefix used for Estonia.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20029",
@@ -221,7 +302,10 @@
     "type": "true_false",
     "text": "ES is the amateur radio prefix used for the United States.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20038",
@@ -229,7 +313,10 @@
     "type": "true_false",
     "text": "DK can be the amateur radio prefix used for Germany.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20039",
@@ -237,7 +324,10 @@
     "type": "true_false",
     "text": "D6 can be the amateur radio prefix used for Germany.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20040",
@@ -245,7 +335,10 @@
     "type": "true_false",
     "text": "EC can be the amateur radio prefix used for Spain.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20041",
@@ -253,7 +346,10 @@
     "type": "true_false",
     "text": "EU can be the amateur radio prefix used for Spain.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20042",
@@ -261,7 +357,10 @@
     "type": "true_false",
     "text": "EI is the amateur radio prefix used for Ireland.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20043",
@@ -269,7 +368,10 @@
     "type": "true_false",
     "text": "EI is the amateur radio prefix used for Spain.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20044",
@@ -277,7 +379,10 @@
     "type": "true_false",
     "text": "English amateur radio stations may use the prefix G.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20045",
@@ -285,7 +390,10 @@
     "type": "true_false",
     "text": "English amateur radio stations may use the prefix GM.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20046",
@@ -293,7 +401,10 @@
     "type": "true_false",
     "text": "HA is the amateur radio prefix used for Hungary.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20047",
@@ -301,7 +412,10 @@
     "type": "true_false",
     "text": "OG is the amateur radio prefix used for Hungary.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20050",
@@ -309,7 +423,10 @@
     "type": "true_false",
     "text": "JG is the amateur radio prefix used for Japan.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20051",
@@ -317,7 +434,10 @@
     "type": "true_false",
     "text": "N is the amateur radio prefix used for Japan.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20052",
@@ -325,7 +445,10 @@
     "type": "true_false",
     "text": "NO is the amateur radio prefix used for Norway.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20053",
@@ -333,7 +456,10 @@
     "type": "true_false",
     "text": "LA is the amateur radio prefix used for Latvia.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20054",
@@ -341,7 +467,10 @@
     "type": "true_false",
     "text": "LT is the amateur radio prefix used for Latvia.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20055",
@@ -349,7 +478,10 @@
     "type": "true_false",
     "text": "LT is the amateur radio prefix used for Lithuania.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20056",
@@ -357,7 +489,10 @@
     "type": "true_false",
     "text": "LH is the amateur radio prefix used for Lithuania.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20058",
@@ -365,7 +500,10 @@
     "type": "true_false",
     "text": "VE is the amateur radio prefix used for Estonia.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20059",
@@ -373,7 +511,10 @@
     "type": "true_false",
     "text": "VE is the amateur radio prefix used for Canada.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20060",
@@ -381,7 +522,10 @@
     "type": "true_false",
     "text": "CD is the amateur radio prefix used for Canada.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "20061",
@@ -389,7 +533,10 @@
     "type": "true_false",
     "text": "NW is the amateur radio prefix used for Norway.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "COUNTRY PREFIXES",
+    "category_number": 1,
+    "category_finnish": "MAATUNNUKSET"
   },
   {
     "id": "21018",
@@ -397,7 +544,10 @@
     "type": "true_false",
     "text": "05:16 UTC, the clock showing UTC time in Finland reads",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "UTC TIME",
+    "category_number": 2,
+    "category_finnish": "UTC-AIKA"
   },
   {
     "id": "22006",
@@ -405,7 +555,10 @@
     "type": "true_false",
     "text": "The report is given during the contact at each change of turn.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "22012",
@@ -413,7 +566,10 @@
     "type": "true_false",
     "text": "A signal report according to the RST system has three digits.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "22014",
@@ -421,7 +577,10 @@
     "type": "true_false",
     "text": "Additional letters cannot be used in an RST system report.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "22020",
@@ -429,7 +588,10 @@
     "type": "true_false",
     "text": "An signal report given by telegraphy is usually three digits.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "22023",
@@ -437,7 +599,10 @@
     "type": "true_false",
     "text": "In a signal report, S can only have a value between 1 and 5.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "22061",
@@ -445,7 +610,10 @@
     "type": "true_false",
     "text": "supplemented by adding the letter K at the end if a key click",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "RST-REPORTING SYSTEM",
+    "category_number": 3,
+    "category_finnish": "RST-JÄRJESTELMÄ"
   },
   {
     "id": "23011",
@@ -453,7 +621,10 @@
     "type": "true_false",
     "text": "Q codes are also well suited for use in digital transmissions.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "Q-CODE",
+    "category_number": 4,
+    "category_finnish": "Q-LYHENTEET"
   },
   {
     "id": "23035",
@@ -461,7 +632,10 @@
     "type": "true_false",
     "text": "transmission,\" but it is also the card used for written",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "Q-CODE",
+    "category_number": 4,
+    "category_finnish": "Q-LYHENTEET"
   },
   {
     "id": "23040",
@@ -469,7 +643,10 @@
     "type": "true_false",
     "text": "QSY is an abbreviation that means Send each word twice.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "Q-CODE",
+    "category_number": 4,
+    "category_finnish": "Q-LYHENTEET"
   },
   {
     "id": "25005",
@@ -477,7 +654,10 @@
     "type": "true_false",
     "text": "Amateur radio transmissions can be received by anyone.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25006",
@@ -485,7 +665,10 @@
     "type": "true_false",
     "text": "Only radio amateurs may receive amateur radio transmissions.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25007",
@@ -493,7 +676,10 @@
     "type": "true_false",
     "text": "Anyone is entitled to receive amateur radio transmissions.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25009",
@@ -501,7 +687,10 @@
     "type": "true_false",
     "text": "issued by the Finnish Communications Regulatory Authority",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25010",
@@ -509,7 +698,10 @@
     "type": "true_false",
     "text": "Finnish Communications Regulatory Authority may engage in",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25022",
@@ -517,7 +709,10 @@
     "type": "true_false",
     "text": "communicate with a radio station other than an amateur radio",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25026",
@@ -525,7 +720,10 @@
     "type": "true_false",
     "text": "(SPR), radio amateurs may, as an exception, communicate",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25032",
@@ -533,7 +731,10 @@
     "type": "true_false",
     "text": "Amateur radio communications are permitted with all countries.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25044",
@@ -541,7 +742,10 @@
     "type": "true_false",
     "text": "The transmission of misleading safety messages is prohibited.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25051",
@@ -549,7 +753,10 @@
     "type": "true_false",
     "text": "and sound material that is related to amateur radio activities or",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25057",
@@ -557,7 +764,10 @@
     "type": "true_false",
     "text": "image may be transmitted for a short period of time for the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25059",
@@ -565,7 +775,10 @@
     "type": "true_false",
     "text": "transmitted at the beginning of the radio connection and at",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25064",
@@ -573,7 +786,10 @@
     "type": "true_false",
     "text": "sufficient as the station call sign for an amateur radio repeater",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25069",
@@ -581,7 +797,10 @@
     "type": "true_false",
     "text": "Amateur radio communication is not intended to be kept secret.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25073",
@@ -589,7 +808,10 @@
     "type": "true_false",
     "text": "recommended under the direct supervision of an amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25089",
@@ -597,7 +819,10 @@
     "type": "true_false",
     "text": "amateurs are not entitled to communicate with anyone other",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25095",
@@ -605,7 +830,10 @@
     "type": "true_false",
     "text": "It is useful for amateur radio stations to keep a station log.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "25104",
@@ -613,7 +841,10 @@
     "type": "true_false",
     "text": "RTTY and PSK31 require a greater bandwidth than speech.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO COMMUNICATION",
+    "category_number": 6,
+    "category_finnish": "RADIOAMATÖÖRIVIESTINTÄ"
   },
   {
     "id": "26025",
@@ -621,7 +852,10 @@
     "type": "true_false",
     "text": "communications and an emergency signal that may only be",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO CONTACT",
+    "category_number": 7,
+    "category_finnish": "RADIOAMATÖÖRIYHTEYS"
   },
   {
     "id": "26058",
@@ -629,7 +863,10 @@
     "type": "true_false",
     "text": "The telegraph contact pattern is also used in voice traffic.",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO CONTACT",
+    "category_number": 7,
+    "category_finnish": "RADIOAMATÖÖRIYHTEYS"
   },
   {
     "id": "26059",
@@ -637,7 +874,10 @@
     "type": "true_false",
     "text": "contact by repeating your own station call sign a couple of",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO CONTACT",
+    "category_number": 7,
+    "category_finnish": "RADIOAMATÖÖRIYHTEYS"
   },
   {
     "id": "26065",
@@ -645,7 +885,10 @@
     "type": "true_false",
     "text": "communications when the transmission turn passes to another",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO CONTACT",
+    "category_number": 7,
+    "category_finnish": "RADIOAMATÖÖRIYHTEYS"
   },
   {
     "id": "26072",
@@ -653,7 +896,10 @@
     "type": "true_false",
     "text": "connection can be terminated by saying TNX QSO 73 OM AR",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO CONTACT",
+    "category_number": 7,
+    "category_finnish": "RADIOAMATÖÖRIYHTEYS"
   },
   {
     "id": "27005",
@@ -661,7 +907,10 @@
     "type": "true_false",
     "text": "country has approved the CEPT TR-61/01 recommendation,",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27009",
@@ -669,7 +918,10 @@
     "type": "true_false",
     "text": "destination country, no additional characters need to be added",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27010",
@@ -677,7 +929,10 @@
     "type": "true_false",
     "text": "destination country, the call sign must always be followed by",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27017",
@@ -685,7 +940,10 @@
     "type": "true_false",
     "text": "the telecommunications administration of that country must be",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27018",
@@ -693,7 +951,10 @@
     "type": "true_false",
     "text": "the Finnish Communications Regulatory Authority must be",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27037",
@@ -701,7 +962,10 @@
     "type": "true_false",
     "text": "frequency range limits of the destination country must always",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "27043",
@@ -709,7 +973,10 @@
     "type": "true_false",
     "text": "call sign OH2A, as long as he remembers to mention that he is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CEPT LICENSE",
+    "category_number": 8,
+    "category_finnish": "CEPT-LUPA"
   },
   {
     "id": "28123",
@@ -717,7 +984,10 @@
     "type": "true_false",
     "text": "phonetic alphabet, is OTTO HEIKKI THREE ANTTI HANNU",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "PHONETIC ALPHABET (Spelling alphabet)",
+    "category_number": 9,
+    "category_finnish": "AAKKOSNIMET"
   },
   {
     "id": "29001",
@@ -725,7 +995,10 @@
     "type": "true_false",
     "text": "the station call sign if the amateur radio station is used in a",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO CALL SIGN AND",
+    "category_number": 10,
+    "category_finnish": "RADIOAMATÖÖRITUNNUS JA"
   },
   {
     "id": "29002",
@@ -733,7 +1006,10 @@
     "type": "true_false",
     "text": "callsign if the amateur radio station is portable or easily",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO CALL SIGN AND",
+    "category_number": 10,
+    "category_finnish": "RADIOAMATÖÖRITUNNUS JA"
   },
   {
     "id": "29003",
@@ -741,7 +1017,10 @@
     "type": "true_false",
     "text": "the call sign if the amateur radio station is not connected to a",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO CALL SIGN AND",
+    "category_number": 10,
+    "category_finnish": "RADIOAMATÖÖRITUNNUS JA"
   },
   {
     "id": "29020",
@@ -749,7 +1028,10 @@
     "type": "true_false",
     "text": "necessarily indicate the location of the amateur radio station in",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO CALL SIGN AND",
+    "category_number": 10,
+    "category_finnish": "RADIOAMATÖÖRITUNNUS JA"
   },
   {
     "id": "29023",
@@ -757,7 +1039,10 @@
     "type": "true_false",
     "text": "station call sign if the amateur radio station is used in a mobile",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO CALL SIGN AND",
+    "category_number": 10,
+    "category_finnish": "RADIOAMATÖÖRITUNNUS JA"
   },
   {
     "id": "30004",
@@ -765,7 +1050,10 @@
     "type": "true_false",
     "text": "repeater station shall mean a radio beacon that automatically",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30005",
@@ -773,7 +1061,10 @@
     "type": "true_false",
     "text": "shall mean a radio station comprising a single amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30008",
@@ -781,7 +1072,10 @@
     "type": "true_false",
     "text": "designated by the authorities for amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30020",
@@ -789,7 +1083,10 @@
     "type": "true_false",
     "text": "amateur radio course and is a member of an amateur radio",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30024",
@@ -797,7 +1094,10 @@
     "type": "true_false",
     "text": "amateurs and the authorities is considered radio amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30037",
@@ -805,7 +1105,10 @@
     "type": "true_false",
     "text": "other than radio amateurs without the direct supervision of a",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30038",
@@ -813,7 +1116,10 @@
     "type": "true_false",
     "text": "data transfer, for example, via telephone or local area network",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30040",
@@ -821,7 +1127,10 @@
     "type": "true_false",
     "text": "competence entitling them to engage in amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30050",
@@ -829,7 +1138,10 @@
     "type": "true_false",
     "text": "for the winter, the authorities consider this to be an amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30054",
@@ -837,7 +1149,10 @@
     "type": "true_false",
     "text": "transmitter even if they do not have an amateur radio station",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30063",
@@ -845,7 +1160,10 @@
     "type": "true_false",
     "text": "radio station that, under the direct control of the license holder,",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30065",
@@ -853,7 +1171,10 @@
     "type": "true_false",
     "text": "transmissions automatically and without the immediate",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30080",
@@ -861,7 +1182,10 @@
     "type": "true_false",
     "text": "period corresponding to the lowest frequency component of the",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30085",
@@ -869,7 +1193,10 @@
     "type": "true_false",
     "text": "maximum permissible transmission powers for amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30086",
@@ -877,7 +1204,10 @@
     "type": "true_false",
     "text": "maximum permitted transmission powers for radio amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30091",
@@ -885,7 +1215,10 @@
     "type": "true_false",
     "text": "radio used by an amateur radio operator, which was originally",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30123",
@@ -893,7 +1226,10 @@
     "type": "true_false",
     "text": "transmitter used for location information and data",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30124",
@@ -901,7 +1237,10 @@
     "type": "true_false",
     "text": "listening station operated by the Finnish Communications",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "30130",
@@ -909,7 +1248,10 @@
     "type": "true_false",
     "text": "envelope power (PEP) shall always be marked on the",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "DEFINITIONS",
+    "category_number": 11,
+    "category_finnish": "MÄÄRITELMIÄ"
   },
   {
     "id": "31003",
@@ -917,7 +1259,10 @@
     "type": "true_false",
     "text": "also be issued by authorities other than the Finnish",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31006",
@@ -925,7 +1270,10 @@
     "type": "true_false",
     "text": "a certificate of competence issued by the telecommunications",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31008",
@@ -933,7 +1281,10 @@
     "type": "true_false",
     "text": "competence without having to pass a separate competency",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31016",
@@ -941,7 +1292,10 @@
     "type": "true_false",
     "text": "amateur certificates of competence to persons who have",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31032",
@@ -949,7 +1303,10 @@
     "type": "true_false",
     "text": "yet entitle the holder to engage in amateur radio",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31033",
@@ -957,7 +1314,10 @@
     "type": "true_false",
     "text": "entitle the holder to engage in radio communications other than",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31043",
@@ -965,7 +1325,10 @@
     "type": "true_false",
     "text": "revoke an amateur radio operator's certificate of competence",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31047",
@@ -973,7 +1336,10 @@
     "type": "true_false",
     "text": "revoked by an authority other than the Finnish",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "31049",
@@ -981,7 +1347,10 @@
     "type": "true_false",
     "text": "indefinitely, regardless of the radio amateur's competence",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CERTIFICATE OF COMPETENCE",
+    "category_number": 12,
+    "category_finnish": "PÄTEVYYSTODISTUS"
   },
   {
     "id": "32007",
@@ -989,7 +1358,10 @@
     "type": "true_false",
     "text": "and use transmitting equipment belonging to an amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32008",
@@ -997,7 +1369,10 @@
     "type": "true_false",
     "text": "Communications Regulatory Authority, but the Finnish Radio",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32010",
@@ -1005,7 +1380,10 @@
     "type": "true_false",
     "text": "Communications Regulatory Authority has issued an amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32025",
@@ -1013,7 +1391,10 @@
     "type": "true_false",
     "text": "successfully completed the competency examination; only after",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32034",
@@ -1021,7 +1402,10 @@
     "type": "true_false",
     "text": "association is to engage in amateur radio communications and",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32046",
@@ -1029,7 +1413,10 @@
     "type": "true_false",
     "text": "radio amateur license, the application must be accompanied by",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32056",
@@ -1037,7 +1424,10 @@
     "type": "true_false",
     "text": "Communications Regulatory Authority may revoke it on the",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32057",
@@ -1045,7 +1435,10 @@
     "type": "true_false",
     "text": "usually valid for life, but an amateur radio license is granted for",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32069",
@@ -1053,7 +1446,10 @@
     "type": "true_false",
     "text": "to another person with the consent of the Finnish",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32075",
@@ -1061,7 +1457,10 @@
     "type": "true_false",
     "text": "amateur must apply for a special license from the Finnish",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "32079",
@@ -1069,7 +1468,10 @@
     "type": "true_false",
     "text": "radio transmitter is used in accordance with the license",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "AMATEUR RADIO LICENSE",
+    "category_number": 13,
+    "category_finnish": "RADIOAMATÖÖRILUPA"
   },
   {
     "id": "33001",
@@ -1077,7 +1479,10 @@
     "type": "true_false",
     "text": "determined by the Finnish Communications Regulatory",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "CALL SIGN",
+    "category_number": 14,
+    "category_finnish": "RADIOAMATÖÖRIASEMAN TUNNUS"
   },
   {
     "id": "34007",
@@ -1085,7 +1490,10 @@
     "type": "true_false",
     "text": "the frequency bands 18068–18168 kHz and 24890–24990",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34010",
@@ -1093,7 +1501,10 @@
     "type": "true_false",
     "text": "radio amateurs is always specified as carrier power, regardless",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34013",
@@ -1101,7 +1512,10 @@
     "type": "true_false",
     "text": "ranges and transmission modes as general class radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34040",
@@ -1109,7 +1523,10 @@
     "type": "true_false",
     "text": "advisable for basic class radio amateurs to operate on the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34041",
@@ -1117,7 +1534,10 @@
     "type": "true_false",
     "text": "advisable for basic class radio amateurs to operate on the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34042",
@@ -1125,7 +1545,10 @@
     "type": "true_false",
     "text": "amateurs to operate on the 28000–29700 kHz frequency band",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34045",
@@ -1133,7 +1556,10 @@
     "type": "true_false",
     "text": "reserved for radio amateur use above 432 MHz, provided that",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34049",
@@ -1141,7 +1567,10 @@
     "type": "true_false",
     "text": "bandwidth of less than 1 kHz in the 3500–3800 kHz frequency",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34095",
@@ -1149,7 +1578,10 @@
     "type": "true_false",
     "text": "bandwidth of no more than 15 kHz in the 7000–7200 kHz",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34097",
@@ -1157,7 +1589,10 @@
     "type": "true_false",
     "text": "10150 kHz frequency band with a maximum bandwidth of 1",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34100",
@@ -1165,7 +1600,10 @@
     "type": "true_false",
     "text": "bandwidth of no more than 4 kHz in the frequency band",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34117",
@@ -1173,7 +1611,10 @@
     "type": "true_false",
     "text": "recommendations published by the International Amateur",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34119",
@@ -1181,7 +1622,10 @@
     "type": "true_false",
     "text": "international radio code of conduct that must be strictly",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34124",
@@ -1189,7 +1633,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 3500–3580 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34125",
@@ -1197,7 +1644,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 3500–3600 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34126",
@@ -1205,7 +1655,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 7000–7040 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34127",
@@ -1213,7 +1666,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 7000–7070 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34128",
@@ -1221,7 +1677,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 14000–14070 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34129",
@@ -1229,7 +1688,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 14000 14100 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34130",
@@ -1237,7 +1699,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 18068–18100 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34131",
@@ -1245,7 +1710,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 18068 18168 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34132",
@@ -1253,7 +1721,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 21000 21080 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34133",
@@ -1261,7 +1732,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 21000 21200 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34134",
@@ -1269,7 +1743,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 24890 24920 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34135",
@@ -1277,7 +1754,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 24890 24990 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34136",
@@ -1285,7 +1765,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 28000 28050 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34137",
@@ -1293,7 +1776,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 28000 28500 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34138",
@@ -1301,7 +1787,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 144.0–144.15 MHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34139",
@@ -1309,7 +1798,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 144–145 MHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34140",
@@ -1317,7 +1809,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 432–432.15 MHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34141",
@@ -1325,7 +1820,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 432–433 MHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34142",
@@ -1333,7 +1831,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 3600–3800 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34143",
@@ -1341,7 +1842,10 @@
     "type": "true_false",
     "text": "recommendation, the 3500–3800 kHz frequency band is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34144",
@@ -1349,7 +1853,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 7050–7200 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34145",
@@ -1357,7 +1864,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 7000–7200 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34146",
@@ -1365,7 +1875,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 14101–14350 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34147",
@@ -1373,7 +1886,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 14040–14350 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34148",
@@ -1381,7 +1897,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 18110–18168 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34149",
@@ -1389,7 +1908,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 18068–18168 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34150",
@@ -1397,7 +1919,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 21151–21450 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34151",
@@ -1405,7 +1930,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 21080–21450 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34152",
@@ -1413,7 +1941,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 24930–24990 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34153",
@@ -1421,7 +1952,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 24900 24990 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34154",
@@ -1429,7 +1963,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 28300 29700 kHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34155",
@@ -1437,7 +1974,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 28100 29700 kHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34156",
@@ -1445,7 +1985,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 144.15–144.5 MHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34157",
@@ -1453,7 +1996,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 144.05–144.5 MHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34158",
@@ -1461,7 +2007,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 432.15–432.5 MHz is",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34159",
@@ -1469,7 +2018,10 @@
     "type": "true_false",
     "text": "recommendation, the frequency band 432.05–432.5 MHz is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34168",
@@ -1477,7 +2029,10 @@
     "type": "true_false",
     "text": "the frequency range is reserved for amateur radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "34173",
@@ -1485,7 +2040,10 @@
     "type": "true_false",
     "text": "frequency band, but amateur radio transmissions must not",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FREQUENCY BANDS",
+    "category_number": 15,
+    "category_finnish": "TAAJUUSALUEET"
   },
   {
     "id": "35010",
@@ -1493,7 +2051,10 @@
     "type": "true_false",
     "text": "Authority is required to use an amateur radio station on board a",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35012",
@@ -1501,7 +2062,10 @@
     "type": "true_false",
     "text": "a permit from the Finnish Communications Regulatory",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35021",
@@ -1509,7 +2073,10 @@
     "type": "true_false",
     "text": "of another country with a permit issued by the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35025",
@@ -1517,7 +2084,10 @@
     "type": "true_false",
     "text": "an amateur radio station in the territorial waters of another",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35028",
@@ -1525,7 +2095,10 @@
     "type": "true_false",
     "text": "Swedish territorial waters with the permission of the Swedish",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35030",
@@ -1533,7 +2106,10 @@
     "type": "true_false",
     "text": "discontinued immediately at the order of the master of the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35034",
@@ -1541,7 +2117,10 @@
     "type": "true_false",
     "text": "international waters may be prohibited by the Finnish",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35036",
@@ -1549,7 +2128,10 @@
     "type": "true_false",
     "text": "radio station on board the vessel, regardless of where the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35039",
@@ -1557,7 +2139,10 @@
     "type": "true_false",
     "text": "communications with the permission of the ship's shipping",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35040",
@@ -1565,7 +2150,10 @@
     "type": "true_false",
     "text": "communications with the permission of the ship's chief",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35041",
@@ -1573,7 +2161,10 @@
     "type": "true_false",
     "text": "communications with the permission of the Finnish",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35043",
@@ -1581,7 +2172,10 @@
     "type": "true_false",
     "text": "ship shall be resolved on the basis of general interference",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35044",
@@ -1589,7 +2183,10 @@
     "type": "true_false",
     "text": "to the regulations of the Finnish Communications Regulatory",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35049",
@@ -1597,7 +2194,10 @@
     "type": "true_false",
     "text": "radio regulations apply to the use of amateur radio stations on",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35050",
@@ -1605,7 +2205,10 @@
     "type": "true_false",
     "text": "radio regulations apply to the use of amateur radio stations on",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35054",
@@ -1613,7 +2216,10 @@
     "type": "true_false",
     "text": "Communications Regulatory Authority if the radio amateur",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35065",
@@ -1621,7 +2227,10 @@
     "type": "true_false",
     "text": "stopped immediately if the captain of another aircraft so",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35069",
@@ -1629,7 +2238,10 @@
     "type": "true_false",
     "text": "stopped immediately if the Finnish Communications Regulatory",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "35070",
@@ -1637,7 +2249,10 @@
     "type": "true_false",
     "text": "stopped immediately if the Finnish Civil Aviation Administration",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "FINNISH VESSELS",
+    "category_number": 16,
+    "category_finnish": "SUOMALAISET ALUKSET"
   },
   {
     "id": "36001",
@@ -1645,7 +2260,10 @@
     "type": "true_false",
     "text": "basic class radio amateur is 120 W in the frequency range",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36003",
@@ -1653,7 +2271,10 @@
     "type": "true_false",
     "text": "class operators is specified according to the antenna radiation",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36008",
@@ -1661,7 +2282,10 @@
     "type": "true_false",
     "text": "modulation peak power or the antenna radiation power during",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36021",
@@ -1669,7 +2293,10 @@
     "type": "true_false",
     "text": "radio station is determined by the design of the transmitter",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36023",
@@ -1677,7 +2304,10 @@
     "type": "true_false",
     "text": "permitted carrier power for a basic class radio amateur is 120",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36024",
@@ -1685,7 +2315,10 @@
     "type": "true_false",
     "text": "modulation or carrier power as the maximum permitted output",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36035",
@@ -1693,7 +2326,10 @@
     "type": "true_false",
     "text": "radio band, you can move your transmitter to that frequency",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36036",
@@ -1701,7 +2337,10 @@
     "type": "true_false",
     "text": "station may be outside the frequency band allocated to",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36038",
@@ -1709,7 +2348,10 @@
     "type": "true_false",
     "text": "not be unnecessarily large in relation to the transmission class",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "36040",
@@ -1717,7 +2359,10 @@
     "type": "true_false",
     "text": "telecommunications network is strictly prohibited under all",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "TECHNICAL REGULATIONS",
+    "category_number": 17,
+    "category_finnish": "TEKNISET MÄÄRÄYKSET"
   },
   {
     "id": "37001",
@@ -1725,7 +2370,10 @@
     "type": "true_false",
     "text": "An amateur radio station must not cause any interference.",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "INTERFERENCE",
+    "category_number": 18,
+    "category_finnish": "HÄIRIÖT"
   },
   {
     "id": "37004",
@@ -1733,7 +2381,10 @@
     "type": "true_false",
     "text": "causing interference if the peak power of the transmission is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "INTERFERENCE",
+    "category_number": 18,
+    "category_finnish": "HÄIRIÖT"
   },
   {
     "id": "37019",
@@ -1741,7 +2392,10 @@
     "type": "true_false",
     "text": "transmissions from amateur radio stations are considered to be",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "INTERFERENCE",
+    "category_number": 18,
+    "category_finnish": "HÄIRIÖT"
   },
   {
     "id": "37033",
@@ -1749,7 +2403,10 @@
     "type": "true_false",
     "text": "interference may be relevant in interference situations under",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "INTERFERENCE",
+    "category_number": 18,
+    "category_finnish": "HÄIRIÖT"
   },
   {
     "id": "38002",
@@ -1757,7 +2414,10 @@
     "type": "true_false",
     "text": "amateur station when requested by a representative of the",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "INSPECTION",
+    "category_number": 19,
+    "category_finnish": "TARKASTUS"
   },
   {
     "id": "38010",
@@ -1765,7 +2425,10 @@
     "type": "true_false",
     "text": "Regulatory Authority, an inspection of an amateur radio station",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "INSPECTION",
+    "category_number": 19,
+    "category_finnish": "TARKASTUS"
   },
   {
     "id": "38012",
@@ -1773,7 +2436,10 @@
     "type": "true_false",
     "text": "may issue warnings regarding any deficiencies found during",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "INSPECTION",
+    "category_number": 19,
+    "category_finnish": "TARKASTUS"
   },
   {
     "id": "38015",
@@ -1781,7 +2447,10 @@
     "type": "true_false",
     "text": "the amateur radio station operator's certificate of competence if",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "INSPECTION",
+    "category_number": 19,
+    "category_finnish": "TARKASTUS"
   },
   {
     "id": "40023",
@@ -1789,7 +2458,10 @@
     "type": "true_false",
     "text": "transmitted by sending the letters SOS together without spaces",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40032",
@@ -1797,7 +2469,10 @@
     "type": "true_false",
     "text": "telegraphy signals, provided that the letters are clearly",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40049",
@@ -1805,7 +2480,10 @@
     "type": "true_false",
     "text": "emergency communications until assistance has been",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40051",
@@ -1813,7 +2491,10 @@
     "type": "true_false",
     "text": "communications may be transmitted on the frequency used for",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40053",
@@ -1821,7 +2502,10 @@
     "type": "true_false",
     "text": "conducting the emergency communications requires radio",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40059",
@@ -1829,7 +2513,10 @@
     "type": "true_false",
     "text": "communications has ended and normal radio communications",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40060",
@@ -1837,7 +2524,10 @@
     "type": "true_false",
     "text": "communications have ended and normal radio communications",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40061",
@@ -1845,7 +2535,10 @@
     "type": "true_false",
     "text": "communications have ended and normal radio communications",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40066",
@@ -1853,7 +2546,10 @@
     "type": "true_false",
     "text": "accordance with the provisions of the International Radio",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40077",
@@ -1861,7 +2557,10 @@
     "type": "true_false",
     "text": "notified at least two weeks in advance of the commencement",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40078",
@@ -1869,7 +2568,10 @@
     "type": "true_false",
     "text": "notified of emergency communications immediately after they",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40090",
@@ -1877,7 +2579,10 @@
     "type": "true_false",
     "text": "emergency communication may announce the end of",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40091",
@@ -1885,7 +2590,10 @@
     "type": "true_false",
     "text": "than the one managing the emergency communication is",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "40092",
@@ -1893,7 +2601,10 @@
     "type": "true_false",
     "text": "distress or the station managing the emergency",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "EMERGENCY COMMUNICATIONS",
+    "category_number": 20,
+    "category_finnish": "HÄTÄLIIKENNE"
   },
   {
     "id": "41027",
@@ -1901,7 +2612,10 @@
     "type": "true_false",
     "text": "unprotected against accidental contact if the equipment is fitted",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41042",
@@ -1909,7 +2623,10 @@
     "type": "true_false",
     "text": "within the influence area of a power line, the antenna should be",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41044",
@@ -1917,7 +2634,10 @@
     "type": "true_false",
     "text": "within the influence area of a power line, the antenna should be",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41068",
@@ -1925,7 +2645,10 @@
     "type": "true_false",
     "text": "an electrical device or other object to the ground with a",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41083",
@@ -1933,7 +2656,10 @@
     "type": "true_false",
     "text": "not significantly reduce the interference they cause to the",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41088",
@@ -1941,7 +2667,10 @@
     "type": "true_false",
     "text": "line of an antenna installed on a mast can be routed along the",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41096",
@@ -1949,7 +2678,10 @@
     "type": "true_false",
     "text": "radio stations when radios are not in use or if lightning begins",
     "correct_answer": true,
-    "finnish_answer": "oikein"
+    "finnish_answer": "oikein",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   },
   {
     "id": "41098",
@@ -1957,6 +2689,9 @@
     "type": "true_false",
     "text": "by connecting all ground connections together with tin solder",
     "correct_answer": false,
-    "finnish_answer": "väärin"
+    "finnish_answer": "väärin",
+    "category": "STATION OPERATIONAL SAFETY",
+    "category_number": 21,
+    "category_finnish": "ASEMAN KÄYTTÖTURVALLISUUS"
   }
 ]
