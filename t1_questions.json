@@ -8671,12 +8671,12 @@
       },
       {
         "letter": "B",
-        "text": "sekoittimessa",
+        "text": "sekoittajassa",
         "is_correct": false
       },
       {
         "letter": "C",
-        "text": "suurtaajuusvahvistimessa",
+        "text": "välitaajuusvahvistimessa",
         "is_correct": true
       },
       {

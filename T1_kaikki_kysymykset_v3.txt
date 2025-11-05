@@ -1614,8 +1614,8 @@ suurtaajuisesta signaalista
 04012 % Signaalin vahvistaminen supervastaanottimessa
 tapahtuu pääasiassa
 04012A - pientaajuusvahvistimessa
-04012B - sekoittimessa
-04012C + suurtaajuusvahvistimessa
+04012B - sekoittajassa
+04012C + välitaajuusvahvistimessa
 04012D - ilmaisimessa
 04013 % Herkkyydellä tarkoitetaan vastaanottimen yhteydessä
 04013A - vastaanottimen kykyä sietää häiriöitä
