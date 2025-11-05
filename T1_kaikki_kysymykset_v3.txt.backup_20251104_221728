@@ -22,12 +22,12 @@ T1-kysymyspankki versio 1,00
 01004A + kuparoitu teräs
 01004B - germanium
 01004C - pii
-01004D - kiille
+01004D – kiille
 01005 % Johteena toimii
 01005A + hiili
 01005B - seleeni
 01005C + aine, jolla on paljon helposti liikkuvia elektroneja
-01005D - öljy
+01005D – öljy
 01006 % Eristeisiin kuuluu
 01006A + kuiva paperi
 01006B + lasi
@@ -127,7 +127,7 @@ pääasiallisesti
 01020A + lämpöä
 01020B - magneettikenttiä
 01020C - sähkövarauksia
-01020D - savua
+01020D – savua
 01021 % Hyvä sähkönjohtavuus on
 01021A + kullalla
 01021B + hopealla
@@ -184,7 +184,7 @@ syntyvä tehohäviö on
 01029A - 14,4 W
 01029B - 1,2 kW
 01029C + 1,44 W
-01029D - ääretön
+01029D – ääretön
 01030 % Paristosta ei saada mielivaltaisen suuruista virtaa, koska
 01030A - pariston napajännite on liian suuri
 01030B + paristossa on sisäistä resistanssia
@@ -203,7 +203,7 @@ Lampun ottama teho on
 01032A - vaihtosähköä
 01032B + tasasähköä
 01032C - sekä tasa- että vaihtosähköä
-01032D - sekasähköä
+01032D – sekasähköä
 01033 % Tarvitset 24 V 50 Ah akuston. Sellainen on mahdollista toteuttaa
 kytkemällä
 01033A - 2 kpl 12 V 25 Ah akkua sarjaan
@@ -305,7 +305,7 @@ musiikkilähetettä, jossa alempi sivukaista on poistettu
 01047B + DSB voidaan muodostaa AM lähetteestä tukahduttamalla tai
 vaimentamalla kantoaalto
 01047C + LSB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu
-01047D - USB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu
+01047D – USB-lähetteessä ylempi sivukaista on poistettu tai vaimennettu
 01048 % Eriste on
 01048A + posliini
 01048B - tavallinen vesijohtovesi
@@ -314,7 +314,7 @@ vaimentamalla kantoaalto
 01048E - ionisoitunut kaasu
 01048F + ilma
 01048G - kupari
-01048H - hopea
+01048H – hopea
 01049 % Johde on
 01049A - posliini
 01049B + tavallinen vesijohtovesi
@@ -386,12 +386,12 @@ kuin vaihtojännitteen tehollisarvon suuruisella tasajännitteellä
 01060A + voltti
 01060B - ampeeri
 01060C - ohmi
-01060D - hertsi
+01060D – hertsi
 01061 % Sähkövirran yksikkö on
 01061A - voltti
 01061B + ampeeri
 01061C - ohmi
-01061D - hertsi
+01061D – hertsi
 
 --- Page 9 ---
 Sivu 9 / 64
@@ -399,22 +399,22 @@ Sivu 9 / 64
 01062A - voltti
 01062B - ampeeri
 01062C + ohmi
-01062D - hertsi
+01062D – hertsi
 01063 % Taajuuden yksikkö on
 01063A - voltti
 01063B + hertsi
 01063C - watti
-01063D - henri
+01063D – henri
 01064 % Impedanssin yksikkö on
 01064A - ampeeri
 01064B + ohmi
 01064C - henri
-01064D - faradi
+01064D – faradi
 01065 % Tehon yksikkö on
 01065A - ampeeri
 01065B - ohmi
 01065C + watti
-01065D - celsius
+01065D – celsius
 01066 % Kapasitanssin yksikkö on
 01066A - voltti
 01066B - hertsi
@@ -424,7 +424,7 @@ Sivu 9 / 64
 01067A - hertsi
 01067B + henri
 01067C - watti
-01067D - ohmi
+01067D – ohmi
 01068 % Ohmin laki ilmaisee
 01068A + jännitteen, virran ja resistanssin välisen riippuvuuden
 01068B + että jännite on virta kertaa resistanssi, U = I x R
@@ -484,7 +484,7 @@ laskettuna on
 01077A - akusta
 01077B + sähköverkosta
 01077C - kuivaparistosta
-01077D - aurinkopanelista
+01077D – aurinkopanelista
 01078 % Vaihtojännitettä saadaan
 01078A + vaihtosuuntaajasta
 01078B + kidemikrofonista
@@ -740,7 +740,7 @@ nuolta
 02020A - vaihtosuuntaamalla
 02020B + tasasuuntaamalla
 02020C - reguloimalla
-02020D - stabiloimalla
+02020D – stabiloimalla
 02021 % Kondensaattori
 02021A - johtaa tasavirtaa
 02021B + johtaa vaihtovirtaa
@@ -913,14 +913,14 @@ Sivu 19 / 64
 02048A - kapasitanssi
 02048B + jännitekestoisuus
 02048C + virtakestoisuus
-02048D - resistanssi
+02048D – resistanssi
 02049 % Kondensaattorin eristeaineena voidaan käyttää
 02049A + ilmaa
 02049B + paperia
 02049C + öljyä
 02049D + polyesteriä
 02049E - vettä
-02049F - kuparitahnaa
+02049F – kuparitahnaa
 02050 % Modulaattorin tarkoitus lähettimessä on
 02050A - parantaa lähettimen taajuusvakavuutta
 02050B - ilmaista lähetteessä oleva pientaajuus
@@ -981,7 +981,7 @@ suuntaan
 02059A + jännitestabilisaattorina
 02059B - virranrajoittajana
 02059C - tasasuuntaajana
-02059D - vaihtosuuntaajana
+02059D – vaihtosuuntaajana
 02060 % Kelan reaktanssi
 02060A + kasvaa taajuuden kasvaessa
 02060B - pienenee taajuuden kasvaessa
@@ -1008,17 +1008,17 @@ Kysymyksessä on
 02063A + ohmi
 02063B - faradi
 02063C - henri
-02063D - ampeeri
+02063D – ampeeri
 02064 % Kapasitanssin yksikkö on
 02064A - ohmi
 02064B + faradi
 02064C - henri
-02064D - ampeeri
+02064D – ampeeri
 02065 % Induktanssin yksikkö on
 02065A - ohmi
 02065B - faradi
 02065C + henri
-02065D - ampeeri
+02065D – ampeeri
 02066 % Loogisessa TAI-piirissä (OR) on kaksi sisäänmenoa A ja B sekä
 yksi ulostulo. Piirin ulostulo on epätosi, kun
 02066A - A on epätosi ja B on tosi
@@ -1122,7 +1122,7 @@ välinen jännite on 8 V. Toision koko kierrosmäärä on
 02083A - 22
 02083B - 44
 02083C + 88
-02083D - 176
+02083D – 176
 02084 % Muuntajan ensiö on kytketty 230 V verkkoon. Ensiössä on 1840
 kierrosta, toisiossa on keskiulosotto. Toision keskiulosoton ja
 jomman kumman pään välinen jännite on 115 V. Toision koko
@@ -1130,7 +1130,7 @@ kierrosmäärä on
 02084A + 1840
 02084B - 920
 02084C - 230
-02084D - 115
+02084D – 115
 02085 % Muuntajan ensiö on kytketty 230 V verkkoon. Ensiössä on 1840
 kierrosta, toisiossa on keskiulosotto. Toision äärinapojen
 välinen jännite on 48 V. Toision koko kierrosmäärä on
@@ -1285,7 +1285,7 @@ kytkentälankaa yhteen
 03011A + suotimia
 03011B - pientaajuusvahvistimia
 03011C + aikavakiopiirejä
-03011D - oskillaattoreita
+03011D – oskillaattoreita
 03012 % Piisuotimen
 03012A - kondensaattorien eristemateriaali on piitä
 03012B - nimi tarkoittaa Phase-Interference-Input kytkentää
@@ -1616,7 +1616,7 @@ tapahtuu pääasiassa
 04012A - pientaajuusvahvistimessa
 04012B - sekoittimessa
 04012C + suurtaajuusvahvistimessa
-04012D - ilmaisimessa
+04012D – ilmaisimessa
 04013 % Herkkyydellä tarkoitetaan vastaanottimen yhteydessä
 04013A - vastaanottimen kykyä sietää häiriöitä
 04013B - vastaanottimen peilitaajuusvaimennusta
@@ -1663,7 +1663,7 @@ Sivu 34 / 64
 04020A - herkkyyttä
 04020B - hyötysuhdetta
 04020C + kykyä erotella haluttu signaali muista läheisistä signaaleista
-04020D - häiriönsietokykyä
+04020D – häiriönsietokykyä
 04021 % Superheterodynevastaanottimessa pientaajuusvahvistimen tehtävä
 on
 04021A - suorittaa sekoitus halutulle taajuudelle
@@ -1875,7 +1875,7 @@ vaikutusta lähtötehoon
 05007 % Alipäästösuodinta tarvitaan lähettimessä
 05007A - estämään kaikenlaisten suurtaajuuksien pääsy antenniin
 05007B + häiriöiden ehkäisyyn
-05007C - haluttaessa liittää samaan antenniin myös vastaanotin
+05007C – haluttaessa liittää samaan antenniin myös vastaanotin
 05007D - palauttamaan kaikki liian pienet tehot takaisin vahvistimeen
 uudelleenvahvistettaviksi
 05008 % Tavalliseen kideohjattuun sähkötyslähettimeen kuuluu
@@ -2530,7 +2530,7 @@ Ilman apuvälineitä voit sillä mitata
 08007A + tasavirtaa
 08007B - vaihtovirtaa
 08007C + tasajännitettä
-08007D - vaihtojännitettä
+08007D – vaihtojännitettä
 08008 % Yleismittarisi on AVO-tyyppiä. Voit sillä mitata
 08008A + tasajännitteitä ja -virtoja
 08008B + pientaajuisia vaihtojännitteitä ja -virtoja
@@ -2586,12 +2586,12 @@ Sen voit mitata
 08016A - digitaalisella yleismittarilla
 08016B + termoristimittarilla
 08016C - kiertokäämimittarilla
-08016D - pyörrevirtamittarilla
+08016D – pyörrevirtamittarilla
 08017 % RF-oskillaattorin taajuus on mitattavissa tarkasti
 08017A - tavallisella oskilloskoopilla
 08017B + taajuuslaskurilla, jonka mittausalue riittävän laaja
 08017C - radiotaajuisella volttimittarilla
-08017D - aaltomittarilla
+08017D – aaltomittarilla
 
 --- Page 53 ---
 Sivu 53 / 64
@@ -2601,7 +2601,7 @@ mihin se on tarkoitettu, on mittariin liitettävä
 08018B - tasasuuntaja
 08018C + sivu-(shuntti-)vastus
 08018D - mittausmuuntaja
-08018E - rinnakkaiskapasitanssi
+08018E – rinnakkaiskapasitanssi
 08020 % Seisovanaallonsuhteen mittarilla mitataan
 08020A - lähettimen pääteasteeseen seisomaan jääneiden radioaaltojen
 määrää
@@ -2732,7 +2732,7 @@ vaimentamiseen
 09016A - elektrolyyttikondensaattoreita
 09016B - tantaalikondensaattoreita
 09016C + keraamisia kondensaattoreita
-09016D - kapasitanssidiodeja
+09016D – kapasitanssidiodeja
 09017 % Liian kapeasta välitaajuuden kaistaleveydestä SSB-vastaanotossa
 seuraa, että
 09017A - häiriöt ja kohina lisääntyvät
@@ -2861,7 +2861,7 @@ signaalien siirtoon
 10011A + koneruuvilla ja liittimellä
 10011B - siten, että verkkojohto voidaan vaihtaa ilman esivalmistelua
 10011C + siten, että sen liitin on lähellä virtajohtimien liittimiä
-10011D - peltiruuvilla
+10011D – peltiruuvilla
 10013 % Verkkokytkin
 10013A + on mitoitettava siten, että se kykenee vaaraa aiheuttamatta
 kytkemään ja katkaisemaan kuormitusvirran
@@ -3077,7 +3077,7 @@ voi olla
 10042A + liian kriittisesti mitoitettu verkkosulake
 10042B + vikaantunut verkkosuodin
 10042C + muuntajan ensiökäämi, jonka kierroksista osa on oikosulussa
-10042D - verkkokytkin
+10042D – verkkokytkin
 
 --- Page 63 ---
 Sivu 63 / 64

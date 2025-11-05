@@ -16,14 +16,39 @@ def parse_k_module(file_path: str) -> List[Dict[str, Any]]:
 
     Format example:
     (20001) oikein DL is the amateur radio prefix used for Germany. True
+
+    Categories are encoded in the question ID:
+    - Category number = (first 2 digits of ID) - 19
+    - E.g., ID 20001 → Category 1, ID 40001 → Category 20
     """
     questions = []
 
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Pattern to match questions
+    # Parse category headers to build a mapping
+    # Format: "1. MAATUNNUKSET 1. COUNTRY PREFIXES"
+    # Note: Some headers have variations like "4- Q-LYHENTEET" or "12.CERTIFICATE" (no space)
+    category_pattern = r'^(\d+)[\.\-]\s*([A-ZÄÖÅ\s\-]+?)\s+\d+\.?\s*([A-Z\s\-]+(?:\([^)]*\))?)\s*$'
+    categories = {}
+
+    for line in content.split('\n'):
+        cat_match = re.match(category_pattern, line.strip())
+        if cat_match:
+            cat_num = int(cat_match.group(1))
+            finnish_name = cat_match.group(2).strip()
+            english_name = cat_match.group(3).strip()
+            categories[cat_num] = {
+                'number': cat_num,
+                'finnish_name': finnish_name,
+                'english_name': english_name
+            }
+
+    # Pattern to match questions (single-line format only)
     # Format: (ID) finnish_answer English_text True/False
+    # Note: The source file has 1500+ questions, but only 245 are in the
+    # properly formatted single-line English translation format. This appears
+    # to be intentional - a curated subset for the study app.
     pattern = r'\((\d+)\)\s+(oikein|väärin)\s+(.+?)\s+(True|False)'
 
     matches = re.findall(pattern, content)
@@ -31,13 +56,30 @@ def parse_k_module(file_path: str) -> List[Dict[str, Any]]:
     for match in matches:
         question_id, finnish_answer, text, correct_answer = match
 
+        # Derive category from question ID
+        # The mapping is: 20→1, 21→2, ..., 38→19, 40→20, 41→21 (skips 39)
+        id_prefix = int(question_id[:2])
+        if id_prefix <= 38:
+            category_num = id_prefix - 19
+        else:  # id_prefix >= 40
+            category_num = id_prefix - 20
+
+        category_info = categories.get(category_num, {
+            'number': category_num,
+            'finnish_name': 'Unknown',
+            'english_name': 'Unknown'
+        })
+
         questions.append({
             'id': question_id,
             'module': 'K',
             'type': 'true_false',
             'text': text.strip(),
             'correct_answer': correct_answer == 'True',
-            'finnish_answer': finnish_answer
+            'finnish_answer': finnish_answer,
+            'category': category_info['english_name'],
+            'category_number': category_num,
+            'category_finnish': category_info['finnish_name']
         })
 
     return questions
@@ -48,6 +90,7 @@ def parse_t1_module(file_path: str) -> List[Dict[str, Any]]:
     Parse T1 module questions (Finnish multiple choice format).
 
     Format example:
+    01000 * Category name
     01001 % Question text
     01001A + option A
     01001B + option B
@@ -60,12 +103,25 @@ def parse_t1_module(file_path: str) -> List[Dict[str, Any]]:
         lines = f.readlines()
 
     current_question = None
+    current_category = None
+    current_category_number = None
 
     for line in lines:
         line = line.strip()
 
         # Skip empty lines and page markers
         if not line or line.startswith('---') or line.startswith('Sivu'):
+            continue
+
+        # Category line (starts with ID + asterisk)
+        # Format: 01000 * Category name
+        category_match = re.match(r'^(\d+)\s+\*\s+(.+)$', line)
+        if category_match:
+            category_id = category_match.group(1)
+            category_name = category_match.group(2).strip()
+            # Category number is first 2 digits of ID (01000 → 01, 02000 → 02)
+            current_category_number = int(category_id[:2])
+            current_category = category_name
             continue
 
         # Question text (starts with question ID and %)
@@ -83,7 +139,9 @@ def parse_t1_module(file_path: str) -> List[Dict[str, Any]]:
                 'type': 'multiple_choice',
                 'text': question_text,
                 'options': [],
-                'correct_answers': []
+                'correct_answers': [],
+                'category': current_category if current_category else 'Unknown',
+                'category_number': current_category_number if current_category_number else 0
             }
             continue
 
